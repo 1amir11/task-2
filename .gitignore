@@ -1,0 +1,13 @@
+# Delivery package: generated outputs only. Never commit raw inputs, secrets, or working files.
+*.zip
+archive/
+review/
+*.log
+.env
+.env.*
+__pycache__/
+node_modules/
+# Raw input data lives outside this package and must never be committed here.
+*.csv.raw
+Sharnouby_Enterprise/
+raw/

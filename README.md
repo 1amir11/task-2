@@ -6,7 +6,7 @@ Except Product_Master.csv, Business_Units.csv and Locations.csv, the dataset is 
 
 - `business_problems_and_solutions.md` — 8 business problems and actions in plain language, top-5 priorities, 30/60/90-day plan. **Start here.**
 - `final_handoff.md` — technical handoff: files created, top-10 findings with limitations, data problems, decisions needed, verification.
-- `p1_data_health.md` — Phase 1 data health (grains, keys, dates, derived checks, 8 ranked problems).
+- `p1_data_health.md` — Phase 1 data health (grains, keys, dates, derived checks, 7 ranked problems; the handoff lists 8 because it prepends the supply-scale reconciliation item).
 - `p2_findings.md` — Phase 2 ranked findings (14, each with type tag, grain, denominator, size, limitation).
 - `p2b_grain_proof.md` — grain proof: 75 table checks, 0 failures.
 - `p3_recheck.md` — independent recomputation: 57 metrics, 0 mismatches.
@@ -14,8 +14,17 @@ Except Product_Master.csv, Business_Units.csv and Locations.csv, the dataset is 
 - `tables/` — 49 detail tables for charting.
 - `numbers_book/` — 27 per-entity 360 tables + `NUMBERS_BOOK.md`.
 - `alerts/` — 5 alert files + `summary.json`.
-- `dashboard-dist/` — built interactive dashboard (static site). Serve the folder over HTTP
-  (e.g. `python -m http.server` inside it) and open `index.html`; it loads `data/dashboard-data.json`
+- `dashboard-dist/` — built interactive dashboard (static site). It loads `data/dashboard-data.json`
+  (57 metrics + tables + alerts + embedded reports, regenerated at delivery).
+
+## How to run the dashboard
+
+```text
+cd dashboard-dist
+python -m http.server 8000
+```
+
+Then open http://localhost:8000 in the browser.
   (57 metrics + tables + alerts + embedded reports, regenerated at delivery).
 
 ## Definitions and threshold log (confirm these)

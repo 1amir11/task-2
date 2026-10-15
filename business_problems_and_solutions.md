@@ -14,7 +14,7 @@ Time window for sales figures: October 2023 to September 2026. Inventory snapsho
 
 **Evidence:** 4,876 invoice lines with negative profit totaling −1,374,655.95 EGP **[computed]**, denominator: all 180,000 sales lines. All 4,876 are Wholesale (Online: 0, Retail: 0). Of these, 4,754 lines fall in the above-30% discount band. Across 180 channel-month discount cells, 67 breach the floor rule (band margin below 10.40% or any negative-profit rows).
 
-**Why it matters:** 1.37M EGP of realized loss over the window, and the pattern repeats every year (2024: 1,595 lines; 2025: 1,643; 2026 partial: 1,293). Wholesale median margin in the above-30% band is only ~8.4% versus ~41% at zero discount.
+**Why it matters:** 1.37M EGP of realized loss over the window, and the pattern repeats every year (2023 partial: 345 lines; 2024: 1,595; 2025: 1,643; 2026 partial: 1,293). Wholesale median margin in the above-30% band is only ~8.4% versus ~41% at zero discount.
 
 **Recommended action:** Sales director to enforce a discount floor: no wholesale deal above 30% without written margin approval, and any band-month that breaches the floor is reviewed before the next price list. Finance to confirm the 10.40% floor number.
 
@@ -68,17 +68,17 @@ Time window for sales figures: October 2023 to September 2026. Inventory snapsho
 
 ---
 
-## Problem 4 — Quality losses concentrate in two production stages
+## Problem 4 — Quality loss is spread across three stages, Cutting first by a small margin
 
-**Problem:** Rejected output costs about 16.3M EGP in estimated loss, led by the Cutting and Finishing stages.
+**Problem:** Rejected output costs about 16.3M EGP in estimated loss, spread almost evenly across Cutting, Finishing and Sewing.
 
-**Evidence:** Total QC estimated loss 16,322,914.13 EGP **[computed]**, denominator: all 9,000 QC inspections, window 2023-10 to 2026-09. By stage: Cutting 2,810,109.57, Finishing 2,791,198.60, Sewing 2,699,704.48 **[computed]**. Reject rate across 161 line-month cells with meaningful volume ranges 1.69% to 3.34% (median 2.50%) — a spread, not one bad line.
+**Evidence:** Total QC estimated loss 16,322,914.13 EGP **[computed]**, denominator: all 9,000 QC inspections, window 2023-10 to 2026-09. By stage: Cutting 2,810,109.57, Finishing 2,791,198.60, Sewing 2,699,704.48 **[computed]** — the top two differ by less than 1%. Reject rate across 161 line-month cells with meaningful volume ranges 1.69% to 3.34% (median 2.50%) — a spread, not one bad line.
 
-**Why it matters:** Cutting alone represents roughly 17% of total QC loss; a one-point reject reduction there is worth hundreds of thousands of EGP. The spread pattern means improvement methods can be copied from better cells to worse ones.
+**Why it matters:** No single stage dominates, so a stage-only fix will not move the total much; Cutting leads by a small margin (about 17% of total QC loss). The spread pattern means improvement methods can be copied from better cells to worse ones.
 
-**Recommended action:** Factory manager to audit Cutting stations first (blades, markers, operator training), then Finishing. Quality to publish a monthly reject-rate league table per line-month and review the worst 3 cells every month.
+**Recommended action:** Factory manager to audit all three stages, starting with Cutting (blades, markers, operator training), then Finishing and Sewing. Quality to publish a monthly reject-rate league table per line-month and review the worst 3 cells every month.
 
-**Quick win vs long-term fix:** Quick win: Cutting corrective action this month. Long-term: stage-level loss budgets tied to supervisor KPIs.
+**Quick win vs long-term fix:** Quick win: Cutting corrective action this month, extended to Finishing and Sewing next. Long-term: stage-level loss budgets tied to supervisor KPIs.
 
 **How to measure:** KPI: reject rate per line-month — direction: down toward the 1.69% best cells. Second KPI: QC estimated loss per quarter — direction: down.
 
@@ -90,9 +90,9 @@ Time window for sales figures: October 2023 to September 2026. Inventory snapsho
 
 ## Problem 5 — Machines stop too often for the same reason, and 1 in 6 orders ships late
 
-**Problem:** Unplanned stops total 6,173.7 hours, led by mechanical faults, and 407 of 2,500 production orders (16.28%) finished late.
+**Problem:** Total downtime is 6,173.7 hours, of which 1,224.5h is planned maintenance and 4,949.2h is unplanned, led by mechanical faults — and 407 of 2,500 production orders (16.28%) finished late.
 
-**Evidence:** Downtime 6,173.7 hours **[computed]**. By reason: mechanical fault 1,530.9h, setup/changeover 1,284.8h, planned maintenance 1,224.5h **[computed]**. Late orders: 407 of 2,500 (16.28%) **[computed]**; late orders carry 14.43 overtime hours per order versus 5.62 for on-time orders. Plan attainment overall is 90.87%.
+**Evidence:** Downtime 6,173.7 hours total: 1,224.5h planned, 4,949.2h unplanned **[computed]**. By reason: mechanical fault 1,530.9h, setup/changeover 1,284.8h, planned maintenance 1,224.5h **[computed]**. Late orders: 407 of 2,500 (16.28%) **[computed]**; late orders carry 14.43 overtime hours per order versus 5.62 for on-time orders. Plan attainment overall is 90.87%.
 
 **Why it matters:** Mechanical faults alone exceed total planned maintenance — prevention is cheaper than breakdowns. Late orders burn overtime (2.5x the hours) and risk wholesale customer penalties and churn among the concentrated top accounts (see Problem 2).
 
@@ -173,7 +173,7 @@ Time window for sales figures: October 2023 to September 2026. Inventory snapsho
 1. **Enforce the wholesale discount floor** (Problem 1) — stops a counted 1.37M EGP bleed; a policy decision, no investment; computed data.
 2. **Fix size/fit for Online** (Problem 6) — 13,899 returned units and 840k+ EGP Online size/fit refunds; content fix, fast; computed data.
 3. **Rebalance LOC001/LOC002 overstock into LOC003** (Problem 3) — frees working capital (scenario ~7M EGP) and recovers lost sales; one transfer cycle; counts are computed, only the EGP value is scenario.
-4. **Preventive maintenance on mechanical faults** (Problem 4/5) — 1,531 fault hours feeding 16.28% late orders and 2.5x overtime; computed data.
+4. **Preventive maintenance on mechanical faults** (Problem 5) — 1,531 fault hours within 4,949.2 unplanned hours, alongside a 16.28% late-order rate and 2.5x overtime; computed data.
 5. **Win back one-time and never-bought customers** (Problem 2) — 8,392 reachable customers against an 87%-concentrated base; computed data.
 
 ## Do NOT conclude this from this data
