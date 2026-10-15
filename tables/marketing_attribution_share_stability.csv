@@ -1,0 +1,2 @@
+﻿months,mean_attributed_share_online_net_sales,std_attributed_share_online_net_sales,cv_attributed_share_online_net_sales,mean_attributed_share_all_net_sales,std_attributed_share_all_net_sales,note
+36,5.840032795868149,4.095027446359073,0.7011993921089492,0.4331417924172054,0.29259660174895363,Correct base for digital attribution is online channel net sales; all-channel share is context only. No causal claim.

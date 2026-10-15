@@ -1,0 +1,3 @@
+﻿late,orders,planned_qty,produced_qty,rejected_qty,overtime_hours,primary_bottleneck_filled,reject_rate,overtime_hours_per_order,selection_bias_note
+False,2093,5717067,5242348,130495,11752.5,0,0.024892471846584774,5.615145723841376,Primary_Bottleneck is subset-filled and should not be read as factory-wide share.
+True,407,1180409,1025372,25745,5873.4,407,0.025107960818122593,14.43095823095823,Primary_Bottleneck is subset-filled and should not be read as factory-wide share.

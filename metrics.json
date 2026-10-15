@@ -1,0 +1,1151 @@
+[
+  {
+    "id": "sales_total_net_sales_egp",
+    "stage": "SALES",
+    "name": "Net sales",
+    "value": 421338377.53,
+    "unit": "EGP",
+    "grain": "invoice line",
+    "denominator": "all sales rows",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Quantity * List_Price_EGP * (1 - Discount_Pct)); modeled EGP"
+  },
+  {
+    "id": "sales_total_units",
+    "stage": "SALES",
+    "name": "Units sold",
+    "value": 1660589,
+    "unit": "units",
+    "grain": "invoice line",
+    "denominator": "all sales rows",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Quantity)"
+  },
+  {
+    "id": "sales_gross_margin_pct",
+    "stage": "SALES",
+    "name": "Gross margin",
+    "value": 0.154005,
+    "unit": "fraction",
+    "grain": "invoice line",
+    "denominator": "recomputed net sales",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(recomputed profit) / sum(recomputed net sales); COGS is estimated"
+  },
+  {
+    "id": "sales_negative_profit_rows",
+    "stage": "SALES",
+    "name": "Negative-profit rows",
+    "value": 4876,
+    "unit": "rows",
+    "grain": "invoice line",
+    "denominator": "all sales rows",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "count rows where recomputed profit < 0"
+  },
+  {
+    "id": "sales_negative_profit_sum_egp",
+    "stage": "SALES",
+    "name": "Negative-profit sum",
+    "value": -1374655.95,
+    "unit": "EGP",
+    "grain": "invoice line",
+    "denominator": "negative-profit rows",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(recomputed profit where profit < 0); modeled EGP"
+  },
+  {
+    "id": "customers_registered_never_purchased",
+    "stage": "SALES",
+    "name": "Registered never purchased",
+    "value": 4366,
+    "unit": "customers",
+    "grain": "customer",
+    "denominator": "Customers.csv rows not in sales",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Customers.csv",
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "Customers.Customer_ID not present in Sales_Transactions.Customer_ID"
+  },
+  {
+    "id": "customers_one_time_buyers",
+    "stage": "SALES",
+    "name": "One-time buyers",
+    "value": 4026,
+    "unit": "customers",
+    "grain": "customer",
+    "denominator": "buying customers",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "customers with one distinct invoice"
+  },
+  {
+    "id": "customers_top_1pct_net_sales_share",
+    "stage": "SALES",
+    "name": "Top 1% customer share",
+    "value": 0.340196,
+    "unit": "fraction of net sales",
+    "grain": "customer",
+    "denominator": "top 257 buying customers / total net sales",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "buying customers ranked by recomputed net sales"
+  },
+  {
+    "id": "customers_top_5pct_net_sales_share",
+    "stage": "SALES",
+    "name": "Top 5% customer share",
+    "value": 0.797412,
+    "unit": "fraction of net sales",
+    "grain": "customer",
+    "denominator": "top 1282 buying customers / total net sales",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "buying customers ranked by recomputed net sales"
+  },
+  {
+    "id": "customers_top_10pct_net_sales_share",
+    "stage": "SALES",
+    "name": "Top 10% customer share",
+    "value": 0.87004,
+    "unit": "fraction of net sales",
+    "grain": "customer",
+    "denominator": "top 2564 buying customers / total net sales",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "buying customers ranked by recomputed net sales"
+  },
+  {
+    "id": "inventory_stockout_days_rows",
+    "stage": "INVENTORY",
+    "name": "Stockout-days rows",
+    "value": 147,
+    "unit": "location-product-month rows",
+    "grain": "location x product x month",
+    "denominator": "inventory rows",
+    "time_window": "2023-10-01 to 2026-09-01",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Inventory_History.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "count rows where Stockout_Days_In_Month > 0"
+  },
+  {
+    "id": "inventory_closing_stock_zero_rows",
+    "stage": "INVENTORY",
+    "name": "Closing-stock-zero rows",
+    "value": 150,
+    "unit": "location-product-month rows",
+    "grain": "location x product x month",
+    "denominator": "inventory rows",
+    "time_window": "2023-10-01 to 2026-09-01",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Inventory_History.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "count rows where Closing_Stock == 0"
+  },
+  {
+    "id": "inventory_stockout_overlap_rows",
+    "stage": "INVENTORY",
+    "name": "Stockout-days and zero-stock overlap",
+    "value": 147,
+    "unit": "location-product-month rows",
+    "grain": "location x product x month",
+    "denominator": "inventory rows",
+    "time_window": "2023-10-01 to 2026-09-01",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Inventory_History.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "count rows where Stockout_Days_In_Month > 0 and Closing_Stock == 0"
+  },
+  {
+    "id": "inventory_overstock_rows",
+    "stage": "INVENTORY",
+    "name": "Overstock rows",
+    "value": 1958,
+    "unit": "location-product-month rows",
+    "grain": "location x product x month",
+    "denominator": "inventory rows",
+    "time_window": "2023-10-01 to 2026-09-01",
+    "type": "scenario",
+    "assumption": "Overstock watch threshold set at >180 days of cover; severe band is >365.",
+    "source_files": [
+      "Inventory_History.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "count rows where Days_of_Cover > 180; cover bands use 180/365-day decision thresholds"
+  },
+  {
+    "id": "inventory_latest_units_on_hand",
+    "stage": "INVENTORY",
+    "name": "Latest snapshot units on hand",
+    "value": 77867,
+    "unit": "units",
+    "grain": "latest location x product snapshot",
+    "denominator": "latest month 2026-09-01",
+    "time_window": "2026-09-01",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Inventory_History.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Closing_Stock) in latest Snapshot_Month only"
+  },
+  {
+    "id": "inventory_closing_stock_unit_months",
+    "stage": "INVENTORY",
+    "name": "Closing-stock unit-months",
+    "value": 2312112,
+    "unit": "unit-months",
+    "grain": "location x product x month",
+    "denominator": "all inventory rows",
+    "time_window": "2023-10-01 to 2026-09-01",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Inventory_History.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Closing_Stock) across monthly snapshots"
+  },
+  {
+    "id": "inventory_overstock_scenario_value_egp",
+    "stage": "INVENTORY",
+    "name": "Latest overstock scenario value",
+    "value": 7030050.0,
+    "unit": "EGP",
+    "grain": "latest location x product snapshot",
+    "denominator": "latest overstock units",
+    "time_window": "2026-09-01",
+    "type": "scenario",
+    "assumption": "Assumes 150.00 EGP unit cost for overstock scenario value.",
+    "source_files": [
+      "Inventory_History.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "latest overstock units * stated unit-cost assumption"
+  },
+  {
+    "id": "inventory_sales_unit_gap_total",
+    "stage": "INVENTORY",
+    "name": "Inventory sold units minus sales units",
+    "value": 0.0,
+    "unit": "units",
+    "grain": "product x month x location",
+    "denominator": "inventory Sold_Qty vs sales Quantity",
+    "time_window": "2023-10-01 to 2026-09-01",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Inventory_History.csv",
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum Inventory_History.Sold_Qty minus sum Sales_Transactions.Quantity after product x month x location aggregation"
+  },
+  {
+    "id": "inventory_sales_abs_unit_gap_total",
+    "stage": "INVENTORY",
+    "name": "Absolute inventory-sales unit gap",
+    "value": 0.0,
+    "unit": "units",
+    "grain": "product x month x location",
+    "denominator": "absolute gap across joined product-month-location rows",
+    "time_window": "2023-10-01 to 2026-09-01",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Inventory_History.csv",
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum absolute unit gap after product x month x location aggregation"
+  },
+  {
+    "id": "inventory_backtest_all_locations_seasonal_naive_mae",
+    "stage": "INVENTORY",
+    "name": "All-location seasonal naive MAE",
+    "value": 238.80791,
+    "unit": "units",
+    "grain": "product x month",
+    "denominator": "177 common holdout points",
+    "time_window": "2026-07-01, 2026-08-01, 2026-09-01",
+    "type": "scenario",
+    "assumption": "Seasonal naive uses same month prior year.",
+    "source_files": [
+      "Inventory_History.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "last-3-month holdout; both baselines scored on same product-month points; MAPE excludes zero actuals"
+  },
+  {
+    "id": "inventory_backtest_all_locations_moving_avg_3_mae",
+    "stage": "INVENTORY",
+    "name": "All-location moving average MAE",
+    "value": 262.630885,
+    "unit": "units",
+    "grain": "product x month",
+    "denominator": "177 common holdout points",
+    "time_window": "2026-07-01, 2026-08-01, 2026-09-01",
+    "type": "scenario",
+    "assumption": "Moving average uses prior 3 months.",
+    "source_files": [
+      "Inventory_History.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "last-3-month holdout; 3-month moving average; both baselines scored on same product-month points; MAPE excludes zero actuals"
+  },
+  {
+    "id": "supply_accepted_spend_egp",
+    "stage": "SUPPLY",
+    "name": "Accepted PO spend",
+    "value": 869566469.42,
+    "unit": "EGP",
+    "grain": "material PO",
+    "denominator": "accepted quantity x unit cost",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "hypothesis",
+    "assumption": "Supply EGP scale is unreconciled with sales net sales and estimated COGS.",
+    "source_files": [
+      "Purchase_Orders.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Accepted_Qty * Unit_Cost_EGP); modeled EGP; UNRECONCILED WITH SALES/COGS pending unit/timing resolution"
+  },
+  {
+    "id": "supply_late_po_rate",
+    "stage": "SUPPLY",
+    "name": "Late PO rate",
+    "value": 0.346389,
+    "unit": "fraction of POs",
+    "grain": "material PO",
+    "denominator": "all material POs",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Purchase_Orders.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "count Actual_Receipt_Date > Promised_Date / PO rows"
+  },
+  {
+    "id": "supply_acceptance_rate",
+    "stage": "SUPPLY",
+    "name": "Acceptance rate",
+    "value": 0.982478,
+    "unit": "fraction",
+    "grain": "material PO",
+    "denominator": "accepted + rejected qty",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Purchase_Orders.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Accepted_Qty) / sum(Accepted_Qty + Rejected_Qty)"
+  },
+  {
+    "id": "supply_bought_not_bom_materials",
+    "stage": "SUPPLY",
+    "name": "Bought materials not used in BOM",
+    "value": 2,
+    "unit": "materials",
+    "grain": "material",
+    "denominator": "purchased material IDs",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Purchase_Orders.csv",
+      "Product_BOM.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "distinct purchased Material_ID not present in Product_BOM"
+  },
+  {
+    "id": "supply_bought_not_bom_ordered_spend_egp",
+    "stage": "SUPPLY",
+    "name": "Bought-not-BOM ordered spend",
+    "value": 95719791.8,
+    "unit": "EGP",
+    "grain": "material",
+    "denominator": "bought-not-BOM materials",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "hypothesis",
+    "assumption": "Supply EGP scale is unreconciled with sales net sales and estimated COGS.",
+    "source_files": [
+      "Purchase_Orders.csv",
+      "Product_BOM.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum Ordered_Qty * Unit_Cost_EGP for purchased material IDs absent from BOM; modeled EGP; UNRECONCILED WITH SALES/COGS pending unit/timing resolution"
+  },
+  {
+    "id": "production_plan_attainment",
+    "stage": "PRODUCTION",
+    "name": "Plan attainment",
+    "value": 0.908698,
+    "unit": "fraction",
+    "grain": "production order",
+    "denominator": "planned quantity",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Production_Orders.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Produced_Qty) / sum(Planned_Qty)"
+  },
+  {
+    "id": "production_reject_rate",
+    "stage": "PRODUCTION",
+    "name": "Production reject rate",
+    "value": 0.024928,
+    "unit": "fraction",
+    "grain": "production order",
+    "denominator": "produced quantity",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Production_Orders.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Rejected_Qty) / sum(Produced_Qty)"
+  },
+  {
+    "id": "production_late_order_rate",
+    "stage": "PRODUCTION",
+    "name": "Late order rate",
+    "value": 0.1628,
+    "unit": "fraction of orders",
+    "grain": "production order",
+    "denominator": "all production orders",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Production_Orders.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "count Delay_Days > 0 / production orders"
+  },
+  {
+    "id": "production_efficiency_best_formula_mean_abs_diff",
+    "stage": "PRODUCTION",
+    "name": "Efficiency definition test best mean absolute difference",
+    "value": 6.523407,
+    "unit": "percentage points",
+    "grain": "production order",
+    "denominator": "stored Efficiency_Pct vs tested alternatives",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "hypothesis",
+    "assumption": "Efficiency_Pct definition unknown unless a tested formula reproduces it within tolerance.",
+    "source_files": [
+      "Production_Orders.csv",
+      "Data_Dictionary.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "Best tested formula: Good_Qty / Planned_Qty * 100; status: definition unknown. Dictionary gives purpose only, not a formula definition."
+  },
+  {
+    "id": "printing_yield_rate",
+    "stage": "PRODUCTION",
+    "name": "Printing yield",
+    "value": 0.973322,
+    "unit": "fraction",
+    "grain": "print batch",
+    "denominator": "printed quantity",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Printing_Batches.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Good_Qty) / sum(Printed_Qty)"
+  },
+  {
+    "id": "downtime_hours",
+    "stage": "PRODUCTION",
+    "name": "Downtime hours",
+    "value": 6173.7,
+    "unit": "hours",
+    "grain": "downtime event",
+    "denominator": "all downtime events",
+    "time_window": "2023-10-02 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Machine_Downtime.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Downtime_Hours)"
+  },
+  {
+    "id": "quality_reject_rate",
+    "stage": "PRODUCTION",
+    "name": "QC reject rate",
+    "value": 0.02406,
+    "unit": "fraction",
+    "grain": "QC inspection",
+    "denominator": "inspected quantity",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Quality.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Rejected_Qty) / sum(Inspected_Qty)"
+  },
+  {
+    "id": "quality_estimated_loss_egp",
+    "stage": "PRODUCTION",
+    "name": "QC estimated loss",
+    "value": 16322914.13,
+    "unit": "EGP",
+    "grain": "QC inspection",
+    "denominator": "all QC inspections",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Quality.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Estimated_Loss_EGP); modeled EGP"
+  },
+  {
+    "id": "returns_row_rate",
+    "stage": "RETURNS",
+    "name": "Return row rate",
+    "value": 0.047461,
+    "unit": "fraction of rows",
+    "grain": "invoice line",
+    "denominator": "all sales rows",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "returned rows / sales rows"
+  },
+  {
+    "id": "returns_unit_rate",
+    "stage": "RETURNS",
+    "name": "Return unit rate",
+    "value": 0.022422,
+    "unit": "fraction of units",
+    "grain": "invoice line",
+    "denominator": "sold units",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "returned units / sold units"
+  },
+  {
+    "id": "returns_value_rate",
+    "stage": "RETURNS",
+    "name": "Return value rate",
+    "value": 0.022374,
+    "unit": "fraction of net sales",
+    "grain": "invoice line",
+    "denominator": "recomputed net sales",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "refund value / recomputed net sales; modeled EGP"
+  },
+  {
+    "id": "returns_returned_qty_per_returned_row",
+    "stage": "RETURNS",
+    "name": "Returned quantity per returned row",
+    "value": 4.358305,
+    "unit": "units per returned row",
+    "grain": "invoice line",
+    "denominator": "returned rows",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "mean Quantity among returned rows"
+  },
+  {
+    "id": "returns_sold_qty_per_sales_row",
+    "stage": "RETURNS",
+    "name": "Sold quantity per sales row",
+    "value": 9.225494,
+    "unit": "units per sales row",
+    "grain": "invoice line",
+    "denominator": "all sales rows",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "mean Quantity among all sales rows"
+  },
+  {
+    "id": "returns_qc_product_correlation",
+    "stage": "RETURNS",
+    "name": "Product return-vs-QC correlation",
+    "value": 0.017181,
+    "unit": "Pearson r",
+    "grain": "product",
+    "denominator": "59 products",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Sales_Transactions.csv",
+      "Quality.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "Pearson correlation between product return unit rate and product QC reject rate after product-grain aggregation; strength classified as weak"
+  },
+  {
+    "id": "marketing_spend_egp",
+    "stage": "MARKETING/WEB",
+    "name": "Marketing spend",
+    "value": 14583976.0,
+    "unit": "EGP",
+    "grain": "campaign",
+    "denominator": "all campaigns",
+    "time_window": "2023-10-08 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Marketing.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Spend_EGP); modeled EGP"
+  },
+  {
+    "id": "marketing_roas",
+    "stage": "MARKETING/WEB",
+    "name": "Attributed ROAS",
+    "value": 12.32462,
+    "unit": "EGP per EGP",
+    "grain": "campaign",
+    "denominator": "attributed revenue / spend within Marketing.csv",
+    "time_window": "2023-10-08 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Marketing.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Attributed_Revenue_EGP) / sum(Spend_EGP); no sales causality claimed"
+  },
+  {
+    "id": "web_conversion_rate",
+    "stage": "MARKETING/WEB",
+    "name": "Web conversion rate",
+    "value": 0.028284,
+    "unit": "fraction",
+    "grain": "day",
+    "denominator": "web sessions",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Web_Traffic_Daily.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum(Orders) / sum(Sessions)"
+  },
+  {
+    "id": "marketing_attributed_share_online_net_sales",
+    "stage": "MARKETING/WEB",
+    "name": "Marketing attributed share of online net sales",
+    "value": 5.50856,
+    "unit": "fraction",
+    "grain": "month",
+    "denominator": "online channel recomputed net sales",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Marketing.csv",
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum Marketing.Attributed_Revenue_EGP / recomputed Online channel net sales; no causal claim"
+  },
+  {
+    "id": "marketing_attributed_share_all_net_sales_context",
+    "stage": "MARKETING/WEB",
+    "name": "Marketing attributed share of all net sales context",
+    "value": 0.426598,
+    "unit": "fraction",
+    "grain": "month",
+    "denominator": "all-channel recomputed net sales",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Marketing.csv",
+      "Sales_Transactions.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "context check only; correct base is online net sales; no causal claim"
+  },
+  {
+    "id": "customer_service_total_tickets",
+    "stage": "SERVICE/OPS",
+    "name": "Customer service tickets",
+    "value": 6500,
+    "unit": "tickets",
+    "grain": "support ticket",
+    "denominator": "all Customer_Service rows",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Customer_Service.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "count support tickets"
+  },
+  {
+    "id": "customer_service_median_resolution_hours",
+    "stage": "SERVICE/OPS",
+    "name": "Median resolution hours",
+    "value": 15.8,
+    "unit": "hours",
+    "grain": "support ticket",
+    "denominator": "all Customer_Service rows",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Customer_Service.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "median Resolution_Hours"
+  },
+  {
+    "id": "group_operations_open_issues",
+    "stage": "SERVICE/OPS",
+    "name": "Group operations open issues",
+    "value": 721,
+    "unit": "issues",
+    "grain": "business unit x month",
+    "denominator": "all Group_Operations rows",
+    "time_window": "2023-10-01 to 2026-09-01",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Group_Operations.csv"
+    ],
+    "script": "scripts/p2_metrics.py",
+    "formula_note": "sum Open_Issues_Count"
+  },
+  {
+    "id": "numbers_book_family_rows",
+    "stage": "NUMBERS_BOOK",
+    "name": "Family Rows",
+    "value": 4,
+    "unit": "families",
+    "grain": "family",
+    "denominator": "numbers book headline",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Business_Units.csv",
+      "Case_Briefs.csv",
+      "Customer_Service.csv",
+      "Customers.csv",
+      "Data_Dictionary.csv",
+      "Group_Operations.csv",
+      "Inventory_History.csv",
+      "Locations.csv",
+      "Machine_Downtime.csv",
+      "Marketing.csv",
+      "Materials.csv",
+      "Printing_Batches.csv",
+      "Product_BOM.csv",
+      "Product_Master.csv",
+      "Production_Orders.csv",
+      "Purchase_Orders.csv",
+      "Quality.csv",
+      "Sales_Transactions.csv",
+      "Suppliers.csv",
+      "Web_Traffic_Daily.csv"
+    ],
+    "script": "scripts/p5_numbers_book.py",
+    "formula_note": "row count family_360"
+  },
+  {
+    "id": "numbers_book_product_rows",
+    "stage": "NUMBERS_BOOK",
+    "name": "Product Rows",
+    "value": 59,
+    "unit": "products",
+    "grain": "product",
+    "denominator": "numbers book headline",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Business_Units.csv",
+      "Case_Briefs.csv",
+      "Customer_Service.csv",
+      "Customers.csv",
+      "Data_Dictionary.csv",
+      "Group_Operations.csv",
+      "Inventory_History.csv",
+      "Locations.csv",
+      "Machine_Downtime.csv",
+      "Marketing.csv",
+      "Materials.csv",
+      "Printing_Batches.csv",
+      "Product_BOM.csv",
+      "Product_Master.csv",
+      "Production_Orders.csv",
+      "Purchase_Orders.csv",
+      "Quality.csv",
+      "Sales_Transactions.csv",
+      "Suppliers.csv",
+      "Web_Traffic_Daily.csv"
+    ],
+    "script": "scripts/p5_numbers_book.py",
+    "formula_note": "row count product_360"
+  },
+  {
+    "id": "numbers_book_material_rows",
+    "stage": "NUMBERS_BOOK",
+    "name": "Material Rows",
+    "value": 12,
+    "unit": "materials",
+    "grain": "material",
+    "denominator": "numbers book headline",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Business_Units.csv",
+      "Case_Briefs.csv",
+      "Customer_Service.csv",
+      "Customers.csv",
+      "Data_Dictionary.csv",
+      "Group_Operations.csv",
+      "Inventory_History.csv",
+      "Locations.csv",
+      "Machine_Downtime.csv",
+      "Marketing.csv",
+      "Materials.csv",
+      "Printing_Batches.csv",
+      "Product_BOM.csv",
+      "Product_Master.csv",
+      "Production_Orders.csv",
+      "Purchase_Orders.csv",
+      "Quality.csv",
+      "Sales_Transactions.csv",
+      "Suppliers.csv",
+      "Web_Traffic_Daily.csv"
+    ],
+    "script": "scripts/p5_numbers_book.py",
+    "formula_note": "row count material_360"
+  },
+  {
+    "id": "numbers_book_supplier_rows",
+    "stage": "NUMBERS_BOOK",
+    "name": "Supplier Rows",
+    "value": 12,
+    "unit": "suppliers",
+    "grain": "supplier",
+    "denominator": "numbers book headline",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Business_Units.csv",
+      "Case_Briefs.csv",
+      "Customer_Service.csv",
+      "Customers.csv",
+      "Data_Dictionary.csv",
+      "Group_Operations.csv",
+      "Inventory_History.csv",
+      "Locations.csv",
+      "Machine_Downtime.csv",
+      "Marketing.csv",
+      "Materials.csv",
+      "Printing_Batches.csv",
+      "Product_BOM.csv",
+      "Product_Master.csv",
+      "Production_Orders.csv",
+      "Purchase_Orders.csv",
+      "Quality.csv",
+      "Sales_Transactions.csv",
+      "Suppliers.csv",
+      "Web_Traffic_Daily.csv"
+    ],
+    "script": "scripts/p5_numbers_book.py",
+    "formula_note": "row count supplier_360"
+  },
+  {
+    "id": "numbers_book_total_net_sales_egp",
+    "stage": "NUMBERS_BOOK",
+    "name": "Total Net Sales Egp",
+    "value": 421338377.53,
+    "unit": "EGP",
+    "grain": "invoice line",
+    "denominator": "numbers book headline",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Business_Units.csv",
+      "Case_Briefs.csv",
+      "Customer_Service.csv",
+      "Customers.csv",
+      "Data_Dictionary.csv",
+      "Group_Operations.csv",
+      "Inventory_History.csv",
+      "Locations.csv",
+      "Machine_Downtime.csv",
+      "Marketing.csv",
+      "Materials.csv",
+      "Printing_Batches.csv",
+      "Product_BOM.csv",
+      "Product_Master.csv",
+      "Production_Orders.csv",
+      "Purchase_Orders.csv",
+      "Quality.csv",
+      "Sales_Transactions.csv",
+      "Suppliers.csv",
+      "Web_Traffic_Daily.csv"
+    ],
+    "script": "scripts/p5_numbers_book.py",
+    "formula_note": "sum recomputed net sales"
+  },
+  {
+    "id": "numbers_book_total_units",
+    "stage": "NUMBERS_BOOK",
+    "name": "Total Units",
+    "value": 1660589.0,
+    "unit": "units",
+    "grain": "invoice line",
+    "denominator": "numbers book headline",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Business_Units.csv",
+      "Case_Briefs.csv",
+      "Customer_Service.csv",
+      "Customers.csv",
+      "Data_Dictionary.csv",
+      "Group_Operations.csv",
+      "Inventory_History.csv",
+      "Locations.csv",
+      "Machine_Downtime.csv",
+      "Marketing.csv",
+      "Materials.csv",
+      "Printing_Batches.csv",
+      "Product_BOM.csv",
+      "Product_Master.csv",
+      "Production_Orders.csv",
+      "Purchase_Orders.csv",
+      "Quality.csv",
+      "Sales_Transactions.csv",
+      "Suppliers.csv",
+      "Web_Traffic_Daily.csv"
+    ],
+    "script": "scripts/p5_numbers_book.py",
+    "formula_note": "sum Quantity"
+  },
+  {
+    "id": "numbers_book_accepted_po_spend_egp_unreconciled",
+    "stage": "NUMBERS_BOOK",
+    "name": "Accepted Po Spend Egp Unreconciled",
+    "value": 869566469.42,
+    "unit": "EGP",
+    "grain": "material PO",
+    "denominator": "numbers book headline",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "hypothesis",
+    "assumption": "unreconciled with sales/COGS",
+    "source_files": [
+      "Business_Units.csv",
+      "Case_Briefs.csv",
+      "Customer_Service.csv",
+      "Customers.csv",
+      "Data_Dictionary.csv",
+      "Group_Operations.csv",
+      "Inventory_History.csv",
+      "Locations.csv",
+      "Machine_Downtime.csv",
+      "Marketing.csv",
+      "Materials.csv",
+      "Printing_Batches.csv",
+      "Product_BOM.csv",
+      "Product_Master.csv",
+      "Production_Orders.csv",
+      "Purchase_Orders.csv",
+      "Quality.csv",
+      "Sales_Transactions.csv",
+      "Suppliers.csv",
+      "Web_Traffic_Daily.csv"
+    ],
+    "script": "scripts/p5_numbers_book.py",
+    "formula_note": "sum Accepted_Qty * Unit_Cost_EGP; unreconciled with sales/COGS"
+  },
+  {
+    "id": "numbers_book_inventory_latest_units",
+    "stage": "NUMBERS_BOOK",
+    "name": "Inventory Latest Units",
+    "value": 77867,
+    "unit": "units",
+    "grain": "latest inventory snapshot",
+    "denominator": "numbers book headline",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Business_Units.csv",
+      "Case_Briefs.csv",
+      "Customer_Service.csv",
+      "Customers.csv",
+      "Data_Dictionary.csv",
+      "Group_Operations.csv",
+      "Inventory_History.csv",
+      "Locations.csv",
+      "Machine_Downtime.csv",
+      "Marketing.csv",
+      "Materials.csv",
+      "Printing_Batches.csv",
+      "Product_BOM.csv",
+      "Product_Master.csv",
+      "Production_Orders.csv",
+      "Purchase_Orders.csv",
+      "Quality.csv",
+      "Sales_Transactions.csv",
+      "Suppliers.csv",
+      "Web_Traffic_Daily.csv"
+    ],
+    "script": "scripts/p5_numbers_book.py",
+    "formula_note": "latest-month Closing_Stock"
+  },
+  {
+    "id": "numbers_book_customer_service_tickets",
+    "stage": "NUMBERS_BOOK",
+    "name": "Customer Service Tickets",
+    "value": 6500,
+    "unit": "tickets",
+    "grain": "support ticket",
+    "denominator": "numbers book headline",
+    "time_window": "2023-10-01 to 2026-09-30",
+    "type": "computed",
+    "assumption": null,
+    "source_files": [
+      "Business_Units.csv",
+      "Case_Briefs.csv",
+      "Customer_Service.csv",
+      "Customers.csv",
+      "Data_Dictionary.csv",
+      "Group_Operations.csv",
+      "Inventory_History.csv",
+      "Locations.csv",
+      "Machine_Downtime.csv",
+      "Marketing.csv",
+      "Materials.csv",
+      "Printing_Batches.csv",
+      "Product_BOM.csv",
+      "Product_Master.csv",
+      "Production_Orders.csv",
+      "Purchase_Orders.csv",
+      "Quality.csv",
+      "Sales_Transactions.csv",
+      "Suppliers.csv",
+      "Web_Traffic_Daily.csv"
+    ],
+    "script": "scripts/p5_numbers_book.py",
+    "formula_note": "count Customer_Service rows"
+  }
+]

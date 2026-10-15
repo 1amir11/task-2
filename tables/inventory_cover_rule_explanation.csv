@@ -1,0 +1,2 @@
+﻿old_rule,old_rule_rows,old_rule_share,new_watch_rule,new_watch_rows,new_watch_share,severe_rule,severe_rows,severe_share,explanation
+Days_of_Cover > 90,3303,0.518361581920904,Days_of_Cover > 180,1958,0.30728185812931574,Days_of_Cover > 365,939,0.14736346516007534,The >90-day rule is broad for this modeled panel; 180/365 bands separate watch and severe overstock.

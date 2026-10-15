@@ -1,0 +1,2 @@
+﻿sales_rows,returned_rows,total_units,returned_units,sold_quantity_per_sales_row,returned_quantity_per_returned_row,row_rate,unit_rate,explanation
+180000,8543,1660589,37233,9.225494444444445,4.358305045066136,0.047461111111111114,0.022421562469702016,Return row rate exceeds return unit rate because returned rows carry fewer units per row than the average sales line; returns are represented at invoice-line grain and can be partial at the unit level.

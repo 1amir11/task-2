@@ -1,0 +1,40 @@
+﻿Customer_Governorate,Channel,rows,customers,net_sales_egp
+Alexandria,Wholesale,13735,813,105934901.7
+Cairo,Wholesale,8223,494,62917627.559999995
+Giza,Wholesale,5493,303,42016678.98
+Beheira,Wholesale,3920,215,30208051.14
+Dakahlia,Wholesale,3083,176,23960902.2
+Gharbia,Wholesale,2482,158,19288531.2
+Sharqia,Wholesale,2266,125,17750504.939999998
+Other,Wholesale,2227,152,16897770.3
+Kafr El Sheikh,Wholesale,1751,108,13415101.32
+Alexandria,Online,20322,6062,9290866.6
+Monufia,Wholesale,1130,80,8699462.1
+Alexandria,Retail,17540,5460,8268310.65
+Port Said,Wholesale,935,53,7362920.46
+Damietta,Wholesale,843,47,6368283.899999999
+Cairo,Online,12638,3899,5791146.1
+Cairo,Retail,11003,3489,5264355.75
+Suez,Wholesale,584,30,4540379.88
+Giza,Online,7751,2359,3542601.15
+Giza,Retail,6756,2186,3214609.4
+Beheira,Online,5834,1726,2621112.55
+Beheira,Retail,4874,1513,2308844.6
+Dakahlia,Online,4409,1307,2000728.6
+Other,Online,4331,1307,1971227.0
+Gharbia,Online,4229,1267,1918192.55
+Dakahlia,Retail,3918,1222,1847253.5
+Gharbia,Retail,3734,1153,1769895.8
+Other,Retail,3682,1179,1760122.6
+Sharqia,Online,3658,1090,1646820.3
+Sharqia,Retail,3008,980,1415958.85
+Kafr El Sheikh,Online,2958,875,1355473.65
+Kafr El Sheikh,Retail,2531,803,1234896.05
+Monufia,Online,2056,635,931442.2
+Monufia,Retail,1802,569,875928.75
+Damietta,Online,1369,427,638846.0
+Port Said,Online,1354,409,623196.05
+Damietta,Retail,1228,385,576006.55
+Port Said,Retail,1151,359,549121.1
+Suez,Online,650,197,297921.7
+Suez,Retail,542,174,262383.8

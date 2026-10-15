@@ -1,0 +1,2 @@
+﻿accepted_po_spend_egp,sales_net_sales_egp,sales_estimated_cogs_egp,accepted_spend_to_net_sales,accepted_spend_to_estimated_cogs,median_material_accepted_to_bom_required_qty_ratio,hypothesis
+869566469.42,421338377.53,356450087.63,2.063819760539343,2.439518181077351,0.7160060421082317,Modeled PO quantities likely represent replenishment/procurement scale or multi-period/material stocking rather than consumption matched to finished-goods sales COGS. Supply EGP metrics remain unreconciled with sales/COGS until units and timing are resolved.

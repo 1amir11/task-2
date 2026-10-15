@@ -1,0 +1,27 @@
+﻿file,grain_key
+channel_360.csv,Channel
+channel_360_by_year.csv,year + Channel
+channel_margin_bands.csv,Channel + margin_band
+column_profiles.csv,file + column
+customer_deciles.csv,decile
+customer_segments.csv,Customer_Type + Governorate + Age_Band + Gender + Acquisition_Channel + Consent_Status
+family_360.csv,Product_Family
+family_360_by_year.csv,year + Product_Family
+geography.csv,Customer_Governorate + Channel
+group_operations_360.csv,year + Business_Unit + Primary_KPI
+line_360.csv,Line_ID
+location_360.csv,Location_ID
+location_360_by_year.csv,year + Location_ID
+machine_360.csv,Machine_ID
+marketing_360.csv,Platform + campaign_type
+material_360.csv,Material_ID
+material_360_by_year.csv,year + Material_ID
+product_360.csv,Product_ID
+product_360_by_year.csv,year + Product_ID
+quality_360.csv,Stage + Defect_Type
+service_ops_360.csv,month + Channel + Issue_Type + Resolved
+supplier_360.csv,Supplier_ID
+supplier_360_by_year.csv,year + Supplier_ID
+time_360.csv,month
+totals_and_checks.csv,check_type + name
+web_360.csv,year + month

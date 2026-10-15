@@ -1,0 +1,76 @@
+# Phase 3 Recheck
+Except Product_Master.csv, Business_Units.csv and Locations.csv, the dataset is modeled/synthetic training data anchored to public products/prices; findings are decision-dashboard evidence, not audited company facts.
+## Headline Metric Recomputations
+- customer_service_median_resolution_hours: first value=15.8 [hours]; recomputed value=15.8 [hours]; match=yes; cause=matches within tolerance
+- customer_service_total_tickets: first value=6500 [tickets]; recomputed value=6500 [tickets]; match=yes; cause=matches within tolerance
+- customers_one_time_buyers: first value=4026 [customers]; recomputed value=4026 [customers]; match=yes; cause=matches within tolerance
+- customers_registered_never_purchased: first value=4366 [customers]; recomputed value=4366 [customers]; match=yes; cause=matches within tolerance
+- customers_top_10pct_net_sales_share: first value=0.87004 [fraction of net sales]; recomputed value=0.87004 [fraction of net sales]; match=yes; cause=matches within tolerance
+- customers_top_1pct_net_sales_share: first value=0.340196 [fraction of net sales]; recomputed value=0.340196 [fraction of net sales]; match=yes; cause=matches within tolerance
+- customers_top_5pct_net_sales_share: first value=0.797412 [fraction of net sales]; recomputed value=0.797412 [fraction of net sales]; match=yes; cause=matches within tolerance
+- downtime_hours: first value=6173.7 [hours]; recomputed value=6173.7 [hours]; match=yes; cause=matches within tolerance
+- group_operations_open_issues: first value=721 [issues]; recomputed value=721 [issues]; match=yes; cause=matches within tolerance
+- inventory_backtest_all_locations_moving_avg_3_mae: first value=262.630885 [units]; recomputed value=262.630885 [units]; match=yes; cause=matches within tolerance
+- inventory_backtest_all_locations_seasonal_naive_mae: first value=238.80791 [units]; recomputed value=238.80791 [units]; match=yes; cause=matches within tolerance
+- inventory_closing_stock_unit_months: first value=2312112 [unit-months]; recomputed value=2312112 [unit-months]; match=yes; cause=matches within tolerance
+- inventory_closing_stock_zero_rows: first value=150 [location-product-month rows]; recomputed value=150 [location-product-month rows]; match=yes; cause=matches within tolerance
+- inventory_latest_units_on_hand: first value=77867 [units]; recomputed value=77867 [units]; match=yes; cause=matches within tolerance
+- inventory_overstock_rows: first value=1958 [location-product-month rows]; recomputed value=1958 [location-product-month rows]; match=yes; cause=matches within tolerance
+- inventory_overstock_scenario_value_egp: first value=7030050.0 [EGP]; recomputed value=7030050.0 [EGP]; match=yes; cause=matches within tolerance
+- inventory_sales_abs_unit_gap_total: first value=0.0 [units]; recomputed value=0.0 [units]; match=yes; cause=matches within tolerance
+- inventory_sales_unit_gap_total: first value=0.0 [units]; recomputed value=0.0 [units]; match=yes; cause=matches within tolerance
+- inventory_stockout_days_rows: first value=147 [location-product-month rows]; recomputed value=147 [location-product-month rows]; match=yes; cause=matches within tolerance
+- inventory_stockout_overlap_rows: first value=147 [location-product-month rows]; recomputed value=147 [location-product-month rows]; match=yes; cause=matches within tolerance
+- marketing_attributed_share_all_net_sales_context: first value=0.426598 [fraction]; recomputed value=0.426598 [fraction]; match=yes; cause=matches within tolerance
+- marketing_attributed_share_online_net_sales: first value=5.50856 [fraction]; recomputed value=5.50856 [fraction]; match=yes; cause=matches within tolerance
+- marketing_roas: first value=12.32462 [EGP per EGP]; recomputed value=12.32462 [EGP per EGP]; match=yes; cause=matches within tolerance
+- marketing_spend_egp: first value=14583976.0 [EGP]; recomputed value=14583976.0 [EGP]; match=yes; cause=matches within tolerance
+- numbers_book_accepted_po_spend_egp_unreconciled: first value=869566469.42 [EGP]; recomputed value=869566469.42 [EGP]; match=yes; cause=matches within tolerance
+- numbers_book_customer_service_tickets: first value=6500 [tickets]; recomputed value=6500 [tickets]; match=yes; cause=matches within tolerance
+- numbers_book_family_rows: first value=4 [families]; recomputed value=4 [families]; match=yes; cause=matches within tolerance
+- numbers_book_inventory_latest_units: first value=77867 [units]; recomputed value=77867 [units]; match=yes; cause=matches within tolerance
+- numbers_book_material_rows: first value=12 [materials]; recomputed value=12 [materials]; match=yes; cause=matches within tolerance
+- numbers_book_product_rows: first value=59 [products]; recomputed value=59 [products]; match=yes; cause=matches within tolerance
+- numbers_book_supplier_rows: first value=12 [suppliers]; recomputed value=12 [suppliers]; match=yes; cause=matches within tolerance
+- numbers_book_total_net_sales_egp: first value=421338377.53 [EGP]; recomputed value=421338377.53 [EGP]; match=yes; cause=matches within tolerance
+- numbers_book_total_units: first value=1660589.0 [units]; recomputed value=1660589 [units]; match=yes; cause=matches within tolerance
+- printing_yield_rate: first value=0.973322 [fraction]; recomputed value=0.973322 [fraction]; match=yes; cause=matches within tolerance
+- production_efficiency_best_formula_mean_abs_diff: first value=6.523407 [percentage points]; recomputed value=6.523407 [percentage points]; match=yes; cause=matches within tolerance
+- production_late_order_rate: first value=0.1628 [fraction of orders]; recomputed value=0.1628 [fraction of orders]; match=yes; cause=matches within tolerance
+- production_plan_attainment: first value=0.908698 [fraction]; recomputed value=0.908698 [fraction]; match=yes; cause=matches within tolerance
+- production_reject_rate: first value=0.024928 [fraction]; recomputed value=0.024928 [fraction]; match=yes; cause=matches within tolerance
+- quality_estimated_loss_egp: first value=16322914.13 [EGP]; recomputed value=16322914.13 [EGP]; match=yes; cause=matches within tolerance
+- quality_reject_rate: first value=0.02406 [fraction]; recomputed value=0.02406 [fraction]; match=yes; cause=matches within tolerance
+- returns_qc_product_correlation: first value=0.017181 [Pearson r]; recomputed value=0.017181 [Pearson r]; match=yes; cause=matches within tolerance
+- returns_returned_qty_per_returned_row: first value=4.358305 [units per returned row]; recomputed value=4.358305 [units per returned row]; match=yes; cause=matches within tolerance
+- returns_row_rate: first value=0.047461 [fraction of rows]; recomputed value=0.047461 [fraction of rows]; match=yes; cause=matches within tolerance
+- returns_sold_qty_per_sales_row: first value=9.225494 [units per sales row]; recomputed value=9.225494 [units per sales row]; match=yes; cause=matches within tolerance
+- returns_unit_rate: first value=0.022422 [fraction of units]; recomputed value=0.022422 [fraction of units]; match=yes; cause=matches within tolerance
+- returns_value_rate: first value=0.022374 [fraction of net sales]; recomputed value=0.022374 [fraction of net sales]; match=yes; cause=matches within tolerance
+- sales_gross_margin_pct: first value=0.154005 [fraction]; recomputed value=0.154005 [fraction]; match=yes; cause=matches within tolerance
+- sales_negative_profit_rows: first value=4876 [rows]; recomputed value=4876 [rows]; match=yes; cause=matches within tolerance
+- sales_negative_profit_sum_egp: first value=-1374655.95 [EGP]; recomputed value=-1374655.95 [EGP]; match=yes; cause=matches within tolerance
+- sales_total_net_sales_egp: first value=421338377.53 [EGP]; recomputed value=421338377.53 [EGP]; match=yes; cause=matches within tolerance
+- sales_total_units: first value=1660589 [units]; recomputed value=1660589 [units]; match=yes; cause=matches within tolerance
+- supply_acceptance_rate: first value=0.982478 [fraction]; recomputed value=0.982478 [fraction]; match=yes; cause=matches within tolerance
+- supply_accepted_spend_egp: first value=869566469.42 [EGP]; recomputed value=869566469.42 [EGP]; match=yes; cause=matches within tolerance
+- supply_bought_not_bom_materials: first value=2 [materials]; recomputed value=2 [materials]; match=yes; cause=matches within tolerance
+- supply_bought_not_bom_ordered_spend_egp: first value=95719791.8 [EGP]; recomputed value=95719791.8 [EGP]; match=yes; cause=matches within tolerance
+- supply_late_po_rate: first value=0.346389 [fraction of POs]; recomputed value=0.346389 [fraction of POs]; match=yes; cause=matches within tolerance
+- web_conversion_rate: first value=0.028284 [fraction]; recomputed value=0.028284 [fraction]; match=yes; cause=matches within tolerance
+
+## Synthetic / Too-Clean Flags
+- Sales_Transactions.csv top rounded recomputed margin value covers 1.31% of rows.
+- Inventory_History.csv has a perfectly balanced product-location monthly panel with 36 months per pair.
+
+## 10-Line Phase Summary
+- 1. Ran scripts/p3_recheck.py after Phase 2 v2.
+- 2. Recomputed 57 headline metrics from raw CSVs through a separate code path.
+- 3. Found 0 mismatches against outputs/metrics.json.
+- 4. Rechecked sales, customer, inventory, supply, production, returns, marketing and web metrics.
+- 5. Stockout-days and closing-stock-zero metrics were rechecked separately.
+- 6. Backtest MAE was recomputed on common holdout points for both methods.
+- 7. EGP figures were recomputed from source columns where possible.
+- 8. Product-level returns/QC correlation was recomputed only after product-grain aggregation.
+- 9. No raw CSVs were modified.
+- 10. Wrote outputs/p3_recheck.md.

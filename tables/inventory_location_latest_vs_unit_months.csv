@@ -1,0 +1,4 @@
+﻿Location_ID,Location_Name,latest_units_on_hand,latest_overstock_units,closing_stock_unit_months,overstock_scenario_value_egp,overstock_unit_cost_assumption_egp
+LOC001,LEO MODA - Sidi Bishr Store,21097,15456,569753,2318400.0,150.0
+LOC002,LEO MODA Online Store,25542,17147,651235,2572050.0,150.0
+LOC003,El-Sharnouby Wholesale Desk,31228,14264,1091124,2139600.0,150.0

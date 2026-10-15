@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-10-14T12:03:20",
+  "window_start": "2023-10-01",
+  "window_end": "2026-09-30",
+  "counts_per_file": {
+    "Business_Units.csv": 5,
+    "Case_Briefs.csv": 10,
+    "Customer_Service.csv": 6500,
+    "Customers.csv": 30000,
+    "Data_Dictionary.csv": 19,
+    "Group_Operations.csv": 180,
+    "Inventory_History.csv": 6372,
+    "Locations.csv": 5,
+    "Machine_Downtime.csv": 2800,
+    "Marketing.csv": 420,
+    "Materials.csv": 12,
+    "Printing_Batches.csv": 1900,
+    "Product_BOM.csv": 337,
+    "Product_Master.csv": 59,
+    "Production_Orders.csv": 2500,
+    "Purchase_Orders.csv": 3600,
+    "Quality.csv": 9000,
+    "Sales_Transactions.csv": 180000,
+    "Suppliers.csv": 12,
+    "Web_Traffic_Daily.csv": 1096
+  },
+  "key_totals": {
+    "sales_rows": 180000,
+    "sales_net_sales_egp_recomputed": 421338377.53,
+    "inventory_rows": 6372,
+    "stockout_alert_rows": 147,
+    "closing_stock_zero_rows": 150,
+    "stockout_days_and_closing_zero_overlap_rows": 147,
+    "overstock_alert_rows": 1958,
+    "purchase_order_rows": 3600,
+    "supplier_scorecard_rows": 432,
+    "returns_pareto_rows": 757
+  },
+  "notes": [
+    "Except Product_Master.csv, Business_Units.csv and Locations.csv, the dataset is modeled/synthetic training data anchored to public products/prices; findings are decision-dashboard evidence, not audited company facts.",
+    "Alert files are rewritten in full on every run.",
+    "Discount floor rule is disclosed in discount_floor_breach.csv.",
+    "stockout_new.csv uses Stockout_Days_In_Month > 0; closing_stock_zero is a separate boolean column.",
+    "overstock_watch.csv uses Days_of_Cover > 180 after the addendum decision; cover band also separates >365 days.",
+    "Stockout and overstock use location x product x month inventory grain."
+  ]
+}

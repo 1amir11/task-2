@@ -1,0 +1,1878 @@
+﻿Customer_Type,Governorate,Age_Band,Gender,Acquisition_Channel,Consent_Status,customers,buyers,net_sales_egp,repeat_buyers,one_time_buyers,net_sales_share,repeat_rate
+Retail,Alexandria,18-24,Female,Direct / WhatsApp,Not opted-in,41,37,94531.45,27,10,0.00022435993263696756,0.7297297297297297
+Retail,Alexandria,18-24,Female,Direct / WhatsApp,Opted-in,68,61,208409.04,55,6,0.0004946357870881604,0.9016393442622951
+Retail,Alexandria,18-24,Female,Google Search,Not opted-in,22,19,29637.95,13,6,7.034239362135895e-05,0.6842105263157895
+Retail,Alexandria,18-24,Female,Google Search,Opted-in,45,34,129326.45999999999,31,3,0.0003069420373196167,0.9117647058823529
+Retail,Alexandria,18-24,Female,Organic Social,Not opted-in,36,30,81139.84,25,5,0.00019257642865495373,0.8333333333333334
+Retail,Alexandria,18-24,Female,Organic Social,Opted-in,57,52,185455.72,42,10,0.0004401586228322989,0.8076923076923077
+Retail,Alexandria,18-24,Female,Paid Social,Not opted-in,20,19,48902.85,18,1,0.00011606550128825622,0.9473684210526315
+Retail,Alexandria,18-24,Female,Paid Social,Opted-in,61,54,156020.79,45,9,0.00037029807470811526,0.8333333333333334
+Retail,Alexandria,18-24,Female,Referral,Not opted-in,19,18,64785.6,13,5,0.00015376145030934706,0.7222222222222222
+Retail,Alexandria,18-24,Female,Referral,Opted-in,23,20,66375.1,15,5,0.00015753395261335765,0.75
+Retail,Alexandria,18-24,Female,Store Walk-in,Not opted-in,25,22,38288.55,16,6,9.087363516339975e-05,0.7272727272727273
+Retail,Alexandria,18-24,Female,Store Walk-in,Opted-in,52,47,171411.75,38,9,0.00040682681460175134,0.8085106382978723
+Retail,Alexandria,18-24,Male,Direct / WhatsApp,Not opted-in,14,12,55517.810000000005,11,1,0.00013176537662071158,0.9166666666666666
+Retail,Alexandria,18-24,Male,Direct / WhatsApp,Opted-in,31,26,84437.09999999999,21,5,0.0002004021102824604,0.8076923076923077
+Retail,Alexandria,18-24,Male,Google Search,Not opted-in,13,12,28707.0,9,3,6.81328868456945e-05,0.75
+Retail,Alexandria,18-24,Male,Google Search,Opted-in,12,12,27403.699999999997,8,4,6.50396485614435e-05,0.6666666666666666
+Retail,Alexandria,18-24,Male,Organic Social,Not opted-in,18,14,24418.35,11,3,5.795425079278797e-05,0.7857142857142857
+Retail,Alexandria,18-24,Male,Organic Social,Opted-in,32,24,92093.69,18,6,0.00021857417911911616,0.75
+Retail,Alexandria,18-24,Male,Paid Social,Not opted-in,17,13,31469.61,11,2,7.468963588003401e-05,0.8461538461538461
+Retail,Alexandria,18-24,Male,Paid Social,Opted-in,22,18,101441.69,18,0,0.0002407606223640931,1.0
+Retail,Alexandria,18-24,Male,Referral,Not opted-in,9,8,34663.43,7,1,8.226981411758987e-05,0.875
+Retail,Alexandria,18-24,Male,Referral,Opted-in,15,14,35087.4,14,0,8.327605998222111e-05,1.0
+Retail,Alexandria,18-24,Male,Store Walk-in,Not opted-in,11,10,20739.8,8,2,4.922361955628714e-05,0.8
+Retail,Alexandria,18-24,Male,Store Walk-in,Opted-in,38,32,58744.54,24,8,0.00013942366310037185,0.75
+Retail,Alexandria,18-24,Not specified,Direct / WhatsApp,Not opted-in,3,3,4899.35,3,0,1.1628064902896625e-05,1.0
+Retail,Alexandria,18-24,Not specified,Direct / WhatsApp,Opted-in,2,2,5414.0,2,0,1.2849529709917096e-05,1.0
+Retail,Alexandria,18-24,Not specified,Organic Social,Not opted-in,2,2,7479.3,2,0,1.7751290646358133e-05,1.0
+Retail,Alexandria,18-24,Not specified,Organic Social,Opted-in,2,1,1196.6,1,0,2.8399976451582556e-06,1.0
+Retail,Alexandria,18-24,Not specified,Paid Social,Not opted-in,1,1,3790.2,1,0,8.9956201526649e-06,1.0
+Retail,Alexandria,18-24,Not specified,Paid Social,Opted-in,5,3,3642.4,2,1,8.64483321304064e-06,0.6666666666666666
+Retail,Alexandria,18-24,Not specified,Referral,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Alexandria,18-24,Not specified,Referral,Opted-in,2,2,2012.3,2,0,4.775971303152229e-06,1.0
+Retail,Alexandria,18-24,Not specified,Store Walk-in,Not opted-in,1,1,494.1,0,1,1.1726916567547168e-06,0.0
+Retail,Alexandria,18-24,Not specified,Store Walk-in,Opted-in,5,5,12528.5,5,0,2.9735007936959055e-05,1.0
+Retail,Alexandria,25-34,Female,Direct / WhatsApp,Not opted-in,168,141,474694.01,113,28,0.0011266336875904474,0.8014184397163121
+Retail,Alexandria,25-34,Female,Direct / WhatsApp,Opted-in,277,226,803512.48,190,36,0.00190704792834303,0.8407079646017699
+Retail,Alexandria,25-34,Female,Google Search,Not opted-in,90,75,399165.72000000003,66,9,0.0009473756517030752,0.88
+Retail,Alexandria,25-34,Female,Google Search,Opted-in,165,139,361623.24,114,25,0.0008582727311001995,0.8201438848920863
+Retail,Alexandria,25-34,Female,Organic Social,Not opted-in,128,107,414989.33,90,17,0.0009849312384805301,0.8411214953271028
+Retail,Alexandria,25-34,Female,Organic Social,Opted-in,273,237,819067.84,203,34,0.0019439668534387922,0.8565400843881856
+Retail,Alexandria,25-34,Female,Paid Social,Not opted-in,124,106,359295.1,92,14,0.0008527471485182182,0.8679245283018868
+Retail,Alexandria,25-34,Female,Paid Social,Opted-in,247,208,685855.14,174,34,0.0016278012556574341,0.8365384615384616
+Retail,Alexandria,25-34,Female,Referral,Not opted-in,72,64,219301.03,55,9,0.000520486719689771,0.859375
+Retail,Alexandria,25-34,Female,Referral,Opted-in,110,97,324510.02,82,15,0.000770188611591391,0.845360824742268
+Retail,Alexandria,25-34,Female,Store Walk-in,Not opted-in,143,116,432134.47,100,16,0.0010256233304293087,0.8620689655172413
+Retail,Alexandria,25-34,Female,Store Walk-in,Opted-in,226,194,551176.15,156,38,0.0013081555808686224,0.8041237113402062
+Retail,Alexandria,25-34,Male,Direct / WhatsApp,Not opted-in,79,64,219867.38,55,9,0.0005218308887239807,0.859375
+Retail,Alexandria,25-34,Male,Direct / WhatsApp,Opted-in,129,112,378324.07,104,8,0.0008979103024458358,0.9285714285714286
+Retail,Alexandria,25-34,Male,Google Search,Not opted-in,35,29,62003.75,23,6,0.0001471590372647344,0.7931034482758621
+Retail,Alexandria,25-34,Male,Google Search,Opted-in,71,61,164970.84,50,11,0.0003915400276782378,0.819672131147541
+Retail,Alexandria,25-34,Male,Organic Social,Not opted-in,66,61,220688.84,50,11,0.0005237805331043849,0.819672131147541
+Retail,Alexandria,25-34,Male,Organic Social,Opted-in,104,87,234709.08,69,18,0.0005570560208066694,0.7931034482758621
+Retail,Alexandria,25-34,Male,Paid Social,Not opted-in,50,39,118530.12,32,7,0.00028131811940525274,0.8205128205128205
+Retail,Alexandria,25-34,Male,Paid Social,Opted-in,102,83,345507.54,75,8,0.0008200239010399647,0.9036144578313253
+Retail,Alexandria,25-34,Male,Referral,Not opted-in,33,27,83096.34,22,5,0.0001972199648347566,0.8148148148148148
+Retail,Alexandria,25-34,Male,Referral,Opted-in,48,38,153429.75,35,3,0.0003641485280772354,0.9210526315789473
+Retail,Alexandria,25-34,Male,Store Walk-in,Not opted-in,61,57,272286.93,45,12,0.0006462428881893454,0.7894736842105263
+Retail,Alexandria,25-34,Male,Store Walk-in,Opted-in,119,101,324016.64,80,21,0.0007690176287749376,0.7920792079207921
+Retail,Alexandria,25-34,Not specified,Direct / WhatsApp,Not opted-in,8,8,44044.65,8,0,0.00010453510135535648,1.0
+Retail,Alexandria,25-34,Not specified,Direct / WhatsApp,Opted-in,9,6,46734.37,5,1,0.00011091885404308427,0.8333333333333334
+Retail,Alexandria,25-34,Not specified,Google Search,Not opted-in,4,3,2049.3999999999996,1,2,4.864024046454394e-06,0.3333333333333333
+Retail,Alexandria,25-34,Not specified,Google Search,Opted-in,6,6,21163.79,6,0,5.022991288870453e-05,1.0
+Retail,Alexandria,25-34,Not specified,Organic Social,Not opted-in,5,5,12567.6,4,1,2.9827807458875893e-05,0.8
+Retail,Alexandria,25-34,Not specified,Organic Social,Opted-in,16,15,54116.05,13,2,0.00012843845442526026,0.8666666666666667
+Retail,Alexandria,25-34,Not specified,Paid Social,Not opted-in,11,10,25549.6,10,0,6.063914744671182e-05,1.0
+Retail,Alexandria,25-34,Not specified,Paid Social,Opted-in,6,6,13856.85,5,1,3.288769962335883e-05,0.8333333333333334
+Retail,Alexandria,25-34,Not specified,Referral,Not opted-in,2,2,5771.450000000001,2,0,1.369789771782435e-05,1.0
+Retail,Alexandria,25-34,Not specified,Referral,Opted-in,7,6,6623.5,4,2,1.5720144077139984e-05,0.6666666666666666
+Retail,Alexandria,25-34,Not specified,Store Walk-in,Not opted-in,9,8,18750.1,6,2,4.45012868514807e-05,0.75
+Retail,Alexandria,25-34,Not specified,Store Walk-in,Opted-in,12,11,60482.0,7,4,0.00014354733208629585,0.6363636363636364
+Retail,Alexandria,35-44,Female,Direct / WhatsApp,Not opted-in,125,110,360546.87,90,20,0.0008557180860514623,0.8181818181818182
+Retail,Alexandria,35-44,Female,Direct / WhatsApp,Opted-in,263,218,703271.58,178,40,0.001669137248125293,0.8165137614678899
+Retail,Alexandria,35-44,Female,Google Search,Not opted-in,68,61,167999.28,55,6,0.00039872769479214643,0.9016393442622951
+Retail,Alexandria,35-44,Female,Google Search,Opted-in,139,123,376135.38,99,24,0.0008927156890027625,0.8048780487804879
+Retail,Alexandria,35-44,Female,Organic Social,Not opted-in,123,104,360616.42,86,18,0.0008558831552777875,0.8269230769230769
+Retail,Alexandria,35-44,Female,Organic Social,Opted-in,199,173,645926.16,155,18,0.0015330342414726014,0.8959537572254336
+Retail,Alexandria,35-44,Female,Paid Social,Not opted-in,114,101,285387.01,74,27,0.0006773344779865916,0.7326732673267327
+Retail,Alexandria,35-44,Female,Paid Social,Opted-in,197,162,531302.99,141,21,0.0012609888354216448,0.8703703703703703
+Retail,Alexandria,35-44,Female,Referral,Not opted-in,50,42,125098.88,35,7,0.00029690834415170916,0.8333333333333334
+Retail,Alexandria,35-44,Female,Referral,Opted-in,108,89,356012.99,75,14,0.0008449574237387176,0.8426966292134831
+Retail,Alexandria,35-44,Female,Store Walk-in,Not opted-in,117,93,350736.23,74,19,0.0008324336179773394,0.7956989247311828
+Retail,Alexandria,35-44,Female,Store Walk-in,Opted-in,194,173,492183.96,152,21,0.0011681441479062889,0.8786127167630058
+Retail,Alexandria,35-44,Male,Direct / WhatsApp,Not opted-in,58,55,213651.97,47,8,0.0005070793010892715,0.8545454545454545
+Retail,Alexandria,35-44,Male,Direct / WhatsApp,Opted-in,129,113,366006.74,89,24,0.0008686764831289069,0.7876106194690266
+Retail,Alexandria,35-44,Male,Google Search,Not opted-in,36,32,106133.17,29,3,0.00025189533083167377,0.90625
+Retail,Alexandria,35-44,Male,Google Search,Opted-in,53,44,104412.9,40,4,0.00024781246040794287,0.9090909090909091
+Retail,Alexandria,35-44,Male,Organic Social,Not opted-in,46,37,177224.9,31,6,0.00042062368265369156,0.8378378378378378
+Retail,Alexandria,35-44,Male,Organic Social,Opted-in,116,91,265272.68,80,11,0.0006295953422403639,0.8791208791208791
+Retail,Alexandria,35-44,Male,Paid Social,Not opted-in,55,47,104410.2,40,7,0.00024780605225681307,0.851063829787234
+Retail,Alexandria,35-44,Male,Paid Social,Opted-in,75,60,196894.2,53,7,0.00046730658895647556,0.8833333333333333
+Retail,Alexandria,35-44,Male,Referral,Not opted-in,32,25,95480.91,19,6,0.0002266133708487108,0.76
+Retail,Alexandria,35-44,Male,Referral,Opted-in,38,31,73471.37,26,5,0.00017437616395332684,0.8387096774193549
+Retail,Alexandria,35-44,Male,Store Walk-in,Not opted-in,40,36,104491.65,32,4,0.00024799936481589553,0.8888888888888888
+Retail,Alexandria,35-44,Male,Store Walk-in,Opted-in,81,71,245674.67,62,9,0.0005830816348613,0.8732394366197183
+Retail,Alexandria,35-44,Not specified,Direct / WhatsApp,Not opted-in,5,3,15201.95,3,0,3.6080145580656485e-05,1.0
+Retail,Alexandria,35-44,Not specified,Direct / WhatsApp,Opted-in,9,8,11615.9,7,1,2.756905285508422e-05,0.875
+Retail,Alexandria,35-44,Not specified,Google Search,Not opted-in,3,3,4702.25,3,0,1.1160269870420698e-05,1.0
+Retail,Alexandria,35-44,Not specified,Google Search,Opted-in,3,2,3204.9,1,1,7.606475391081142e-06,0.5
+Retail,Alexandria,35-44,Not specified,Organic Social,Not opted-in,8,6,11831.3,5,1,2.8080280911884397e-05,0.8333333333333334
+Retail,Alexandria,35-44,Not specified,Organic Social,Opted-in,7,5,15070.75,5,0,3.5768756903534e-05,1.0
+Retail,Alexandria,35-44,Not specified,Paid Social,Not opted-in,3,2,7515.35,1,1,1.7836851330887595e-05,0.5
+Retail,Alexandria,35-44,Not specified,Paid Social,Opted-in,7,6,28707.3,5,1,6.81335988624867e-05,0.8333333333333334
+Retail,Alexandria,35-44,Not specified,Referral,Opted-in,4,4,26688.67,4,0,6.334260400501903e-05,1.0
+Retail,Alexandria,35-44,Not specified,Store Walk-in,Not opted-in,6,6,10001.85,4,2,2.3738283843578557e-05,0.6666666666666666
+Retail,Alexandria,35-44,Not specified,Store Walk-in,Opted-in,10,9,23995.2,8,1,5.694995110738875e-05,0.8888888888888888
+Retail,Alexandria,45-54,Female,Direct / WhatsApp,Not opted-in,50,46,184924.75,44,2,0.00043889842431178266,0.9565217391304348
+Retail,Alexandria,45-54,Female,Direct / WhatsApp,Opted-in,109,92,292913.42,77,15,0.0006951975790032184,0.8369565217391305
+Retail,Alexandria,45-54,Female,Google Search,Not opted-in,32,27,117370.15,25,2,0.0002785650590104222,0.9259259259259259
+Retail,Alexandria,45-54,Female,Google Search,Opted-in,56,48,133882.72,34,14,0.0003177558160850594,0.7083333333333334
+Retail,Alexandria,45-54,Female,Organic Social,Not opted-in,61,51,116462.95,38,13,0.000276411920230807,0.7450980392156863
+Retail,Alexandria,45-54,Female,Organic Social,Opted-in,94,82,392959.57,74,8,0.0009326460416533517,0.9024390243902439
+Retail,Alexandria,45-54,Female,Paid Social,Not opted-in,56,51,142466.25,44,7,0.00033812787440625717,0.8627450980392157
+Retail,Alexandria,45-54,Female,Paid Social,Opted-in,91,73,258095.13,55,18,0.0006125602218174944,0.7534246575342466
+Retail,Alexandria,45-54,Female,Referral,Not opted-in,21,16,26931.85,12,4,6.3919764816777e-05,0.75
+Retail,Alexandria,45-54,Female,Referral,Opted-in,58,44,140676.35,39,5,0.0003338797448850565,0.8863636363636364
+Retail,Alexandria,45-54,Female,Store Walk-in,Not opted-in,53,40,136348.65,35,5,0.00032360842797969847,0.875
+Retail,Alexandria,45-54,Female,Store Walk-in,Opted-in,98,79,270628.45,69,10,0.0006423066694909149,0.8734177215189873
+Retail,Alexandria,45-54,Male,Direct / WhatsApp,Not opted-in,34,28,72408.75,26,2,0.00017185415300756548,0.9285714285714286
+Retail,Alexandria,45-54,Male,Direct / WhatsApp,Opted-in,50,45,227871.44,40,5,0.0005408276391432565,0.8888888888888888
+Retail,Alexandria,45-54,Male,Google Search,Not opted-in,10,10,73987.56,7,3,0.00017560128377988062,0.7
+Retail,Alexandria,45-54,Male,Google Search,Opted-in,29,27,94763.88,22,5,0.00022491157951367167,0.8148148148148148
+Retail,Alexandria,45-54,Male,Organic Social,Not opted-in,27,25,144853.16,21,4,0.00034379294107783056,0.84
+Retail,Alexandria,45-54,Male,Organic Social,Opted-in,49,45,134815.58000000002,35,10,0.0003199698560343009,0.7777777777777778
+Retail,Alexandria,45-54,Male,Paid Social,Not opted-in,15,11,36758.7,9,2,8.724270553157175e-05,0.8181818181818182
+Retail,Alexandria,45-54,Male,Paid Social,Opted-in,46,36,79557.2,30,6,0.00018882020780159147,0.8333333333333334
+Retail,Alexandria,45-54,Male,Referral,Not opted-in,18,14,16436.75,8,6,3.9010806697354974e-05,0.5714285714285714
+Retail,Alexandria,45-54,Male,Referral,Opted-in,25,22,64868.979999999996,20,2,0.00015395934350979272,0.9090909090909091
+Retail,Alexandria,45-54,Male,Store Walk-in,Not opted-in,24,21,44764.05,15,6,0.000106242517623054,0.7142857142857143
+Retail,Alexandria,45-54,Male,Store Walk-in,Opted-in,52,47,132447.6,37,10,0.00031434971762231537,0.7872340425531915
+Retail,Alexandria,45-54,Not specified,Direct / WhatsApp,Not opted-in,4,4,37555.65,4,0,8.91341781400532e-05,1.0
+Retail,Alexandria,45-54,Not specified,Direct / WhatsApp,Opted-in,2,2,6329.25,2,0,1.5021774273456367e-05,1.0
+Retail,Alexandria,45-54,Not specified,Google Search,Not opted-in,3,3,3244.4,2,1,7.700224268720913e-06,0.6666666666666666
+Retail,Alexandria,45-54,Not specified,Google Search,Opted-in,3,3,5432.5,2,1,1.289343741210281e-05,0.6666666666666666
+Retail,Alexandria,45-54,Not specified,Organic Social,Not opted-in,3,2,5170.2,2,0,1.2270897396788577e-05,1.0
+Retail,Alexandria,45-54,Not specified,Organic Social,Opted-in,6,5,9296.7,5,0,2.206468837351058e-05,1.0
+Retail,Alexandria,45-54,Not specified,Paid Social,Not opted-in,6,3,13165.65,3,0,3.124721293412818e-05,1.0
+Retail,Alexandria,45-54,Not specified,Paid Social,Opted-in,5,5,40371.16,5,0,9.581647946875077e-05,1.0
+Retail,Alexandria,45-54,Not specified,Referral,Not opted-in,1,1,804.5,1,0,1.9093916977518105e-06,1.0
+Retail,Alexandria,45-54,Not specified,Referral,Opted-in,2,2,3640.1,2,0,8.639374417633767e-06,1.0
+Retail,Alexandria,45-54,Not specified,Store Walk-in,Not opted-in,2,2,3144.25,2,0,7.462529329591213e-06,1.0
+Retail,Alexandria,45-54,Not specified,Store Walk-in,Opted-in,3,3,9874.4,2,1,2.343579537635858e-05,0.6666666666666666
+Retail,Alexandria,55+,Female,Direct / WhatsApp,Not opted-in,26,20,43264.7,16,4,0.00010268397636509976,0.8
+Retail,Alexandria,55+,Female,Direct / WhatsApp,Opted-in,45,38,119764.65,32,6,0.00028424813970683824,0.8421052631578947
+Retail,Alexandria,55+,Female,Google Search,Not opted-in,11,11,23894.4,8,3,5.671071346520928e-05,0.7272727272727273
+Retail,Alexandria,55+,Female,Google Search,Opted-in,24,23,75194.0,19,4,0.00017846463557582307,0.8260869565217391
+Retail,Alexandria,55+,Female,Organic Social,Not opted-in,23,18,25227.25,9,9,5.987408540349206e-05,0.5
+Retail,Alexandria,55+,Female,Organic Social,Opted-in,43,36,159885.85,35,1,0.00037947136678432734,0.9722222222222222
+Retail,Alexandria,55+,Female,Paid Social,Not opted-in,17,13,17650.8,5,8,4.1892219985926236e-05,0.38461538461538464
+Retail,Alexandria,55+,Female,Paid Social,Opted-in,41,36,97814.29,30,6,0.00023215138999066245,0.8333333333333334
+Retail,Alexandria,55+,Female,Referral,Not opted-in,13,11,21431.9,8,3,5.0866242295894385e-05,0.7272727272727273
+Retail,Alexandria,55+,Female,Referral,Opted-in,16,13,44231.1,10,3,0.00010497761979170927,0.7692307692307693
+Retail,Alexandria,55+,Female,Store Walk-in,Not opted-in,27,23,42936.4,17,6,0.00010190479265550137,0.7391304347826086
+Retail,Alexandria,55+,Female,Store Walk-in,Opted-in,37,30,79715.0,28,2,0.0001891947286342891,0.9333333333333333
+Retail,Alexandria,55+,Male,Direct / WhatsApp,Not opted-in,11,9,37066.05,6,3,8.797216673518149e-05,0.6666666666666666
+Retail,Alexandria,55+,Male,Direct / WhatsApp,Opted-in,26,23,94537.14,21,2,0.0002243734372221263,0.9130434782608695
+Retail,Alexandria,55+,Male,Google Search,Not opted-in,5,5,18175.050000000003,4,1,4.313646933029714e-05,0.8
+Retail,Alexandria,55+,Male,Google Search,Opted-in,11,10,54065.05,10,0,0.00012831741157058612,1.0
+Retail,Alexandria,55+,Male,Organic Social,Not opted-in,6,3,3478.35,2,1,8.255478697172169e-06,0.6666666666666666
+Retail,Alexandria,55+,Male,Organic Social,Opted-in,16,15,34496.95,10,5,8.187469226570455e-05,0.6666666666666666
+Retail,Alexandria,55+,Male,Paid Social,Not opted-in,11,9,27282.6,9,0,6.47522311163251e-05,1.0
+Retail,Alexandria,55+,Male,Paid Social,Opted-in,13,9,11825.1,5,4,2.8065565898178916e-05,0.5555555555555556
+Retail,Alexandria,55+,Male,Referral,Not opted-in,7,4,12707.4,4,0,3.0159607284041465e-05,1.0
+Retail,Alexandria,55+,Male,Referral,Opted-in,8,7,10429.300000000001,5,2,2.475278910299933e-05,0.7142857142857143
+Retail,Alexandria,55+,Male,Store Walk-in,Not opted-in,12,11,27039.2,8,3,6.417454815891953e-05,0.7272727272727273
+Retail,Alexandria,55+,Male,Store Walk-in,Opted-in,13,12,74058.03,9,3,0.00017576853652436858,0.75
+Retail,Alexandria,55+,Not specified,Direct / WhatsApp,Opted-in,1,1,1899.3000000000002,1,0,4.507778311423262e-06,1.0
+Retail,Alexandria,55+,Not specified,Google Search,Opted-in,2,2,2918.7,1,1,6.927211371321578e-06,0.5
+Retail,Alexandria,55+,Not specified,Organic Social,Not opted-in,1,1,7750.000000000001,1,0,1.839376713185399e-05,1.0
+Retail,Alexandria,55+,Not specified,Organic Social,Opted-in,1,1,1564.85,1,0,3.7139982575847368e-06,1.0
+Retail,Alexandria,55+,Not specified,Paid Social,Opted-in,1,1,4344.8,1,0,1.0311901862513446e-05,1.0
+Retail,Alexandria,55+,Not specified,Referral,Opted-in,1,1,1116.6,1,0,2.6501265005713756e-06,1.0
+Retail,Alexandria,55+,Not specified,Store Walk-in,Opted-in,3,2,2232.7,2,0,5.299066306489083e-06,1.0
+Retail,Beheira,18-24,Female,Direct / WhatsApp,Not opted-in,12,7,12569.1,4,3,2.9831367542836897e-05,0.5714285714285714
+Retail,Beheira,18-24,Female,Direct / WhatsApp,Opted-in,23,17,50106.700000000004,11,6,0.00011892270600589267,0.6470588235294118
+Retail,Beheira,18-24,Female,Google Search,Not opted-in,7,6,20525.1,5,1,4.871405287200209e-05,0.8333333333333334
+Retail,Beheira,18-24,Female,Google Search,Opted-in,10,8,22458.4,8,0,5.3302526419874785e-05,1.0
+Retail,Beheira,18-24,Female,Organic Social,Not opted-in,4,4,5950.05,4,0,1.4121785048114558e-05,1.0
+Retail,Beheira,18-24,Female,Organic Social,Opted-in,17,13,17918.15,10,3,4.252674561724252e-05,0.7692307692307693
+Retail,Beheira,18-24,Female,Paid Social,Not opted-in,12,12,32998.15,12,0,7.831745637186937e-05,1.0
+Retail,Beheira,18-24,Female,Paid Social,Opted-in,19,17,93044.25,15,2,0.00022083022805909747,0.8823529411764706
+Retail,Beheira,18-24,Female,Referral,Not opted-in,4,4,8504.65,4,0,2.0184845372635096e-05,1.0
+Retail,Beheira,18-24,Female,Referral,Opted-in,8,7,36656.350000000006,6,1,8.699978913596594e-05,0.8571428571428571
+Retail,Beheira,18-24,Female,Store Walk-in,Not opted-in,10,7,16437.55,5,2,3.9012705408800835e-05,0.7142857142857143
+Retail,Beheira,18-24,Female,Store Walk-in,Opted-in,13,10,28893.25,10,0,6.857493060418583e-05,1.0
+Retail,Beheira,18-24,Male,Direct / WhatsApp,Not opted-in,4,3,10056.9,3,0,2.38689389249474e-05,1.0
+Retail,Beheira,18-24,Male,Direct / WhatsApp,Opted-in,6,5,17219.32,4,1,4.08681499675969e-05,0.8
+Retail,Beheira,18-24,Male,Google Search,Not opted-in,2,1,4792.5,1,0,1.1374468255407773e-05,1.0
+Retail,Beheira,18-24,Male,Google Search,Opted-in,5,4,5494.7,3,1,1.304106222701911e-05,0.75
+Retail,Beheira,18-24,Male,Organic Social,Not opted-in,4,4,7332.55,4,0,1.7402995765506574e-05,1.0
+Retail,Beheira,18-24,Male,Organic Social,Opted-in,9,7,25813.25,4,3,6.126489153759096e-05,0.5714285714285714
+Retail,Beheira,18-24,Male,Paid Social,Not opted-in,4,4,11258.75,2,2,2.672139686396917e-05,0.5
+Retail,Beheira,18-24,Male,Paid Social,Opted-in,7,4,4779.15,2,2,1.1342783508154836e-05,0.5
+Retail,Beheira,18-24,Male,Referral,Not opted-in,2,1,1204.1,1,0,2.8577980649632752e-06,1.0
+Retail,Beheira,18-24,Male,Referral,Opted-in,1,1,6513.3,1,0,1.545859657547156e-05,1.0
+Retail,Beheira,18-24,Male,Store Walk-in,Not opted-in,3,2,5413.549999999999,2,0,1.2848461684728792e-05,1.0
+Retail,Beheira,18-24,Male,Store Walk-in,Opted-in,10,9,30322.1,9,0,7.196614791597287e-05,1.0
+Retail,Beheira,18-24,Not specified,Direct / WhatsApp,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Beheira,18-24,Not specified,Direct / WhatsApp,Opted-in,2,1,756.6,1,0,1.7957063499304164e-06,1.0
+Retail,Beheira,18-24,Not specified,Google Search,Opted-in,3,2,5044.7,2,0,1.197303703871791e-05,1.0
+Retail,Beheira,18-24,Not specified,Organic Social,Opted-in,1,1,717.6,0,1,1.7031441669443125e-06,0.0
+Retail,Beheira,18-24,Not specified,Paid Social,Opted-in,2,1,960.0,1,0,2.2784537350425586e-06,1.0
+Retail,Beheira,25-34,Female,Direct / WhatsApp,Not opted-in,46,37,240897.63999999998,32,5,0.0005717438829384767,0.8648648648648649
+Retail,Beheira,25-34,Female,Direct / WhatsApp,Opted-in,90,74,208320.78,57,17,0.0004944263117478949,0.7702702702702703
+Retail,Beheira,25-34,Female,Google Search,Not opted-in,14,10,26073.9,8,2,6.18835154605481e-05,0.8
+Retail,Beheira,25-34,Female,Google Search,Opted-in,41,39,186446.25,32,7,0.0004425095361428944,0.8205128205128205
+Retail,Beheira,25-34,Female,Organic Social,Not opted-in,38,34,99378.47,29,5,0.0002358637980774113,0.8529411764705882
+Retail,Beheira,25-34,Female,Organic Social,Opted-in,79,68,292861.31,55,13,0.0006950739016864131,0.8088235294117647
+Retail,Beheira,25-34,Female,Paid Social,Not opted-in,35,31,67610.05,26,5,0.00016046496973845222,0.8387096774193549
+Retail,Beheira,25-34,Female,Paid Social,Opted-in,76,66,201927.43,56,10,0.00047925240321983827,0.8484848484848485
+Retail,Beheira,25-34,Female,Referral,Not opted-in,22,20,80177.68,15,5,0.00019029284839900732,0.75
+Retail,Beheira,25-34,Female,Referral,Opted-in,30,29,144693.25,27,2,0.00034341341239369443,0.9310344827586207
+Retail,Beheira,25-34,Female,Store Walk-in,Not opted-in,32,25,77050.4,18,7,0.00018287059548596158,0.72
+Retail,Beheira,25-34,Female,Store Walk-in,Opted-in,61,50,166371.96,41,9,0.00039486543090453243,0.82
+Retail,Beheira,25-34,Male,Direct / WhatsApp,Not opted-in,15,13,23093.85,11,2,5.4810696655221445e-05,0.8461538461538461
+Retail,Beheira,25-34,Male,Direct / WhatsApp,Opted-in,27,21,52546.1,15,6,0.0001247123518822081,0.7142857142857143
+Retail,Beheira,25-34,Male,Google Search,Not opted-in,19,17,40454.3,15,2,9.601380305576268e-05,0.8823529411764706
+Retail,Beheira,25-34,Male,Google Search,Opted-in,17,15,74618.15,11,4,0.00017709791934319362,0.7333333333333333
+Retail,Beheira,25-34,Male,Organic Social,Not opted-in,27,26,115502.81999999999,24,2,0.00027413315795515446,0.9230769230769231
+Retail,Beheira,25-34,Male,Organic Social,Opted-in,20,16,48284.1,14,2,0.00011459696665434207,0.875
+Retail,Beheira,25-34,Male,Paid Social,Not opted-in,19,15,39359.85,14,1,9.341624712834879e-05,0.9333333333333333
+Retail,Beheira,25-34,Male,Paid Social,Opted-in,34,28,95421.21,24,4,0.00022647167950706285,0.8571428571428571
+Retail,Beheira,25-34,Male,Referral,Not opted-in,9,6,17360.5,5,1,4.1203225070006596e-05,0.8333333333333334
+Retail,Beheira,25-34,Male,Referral,Opted-in,14,13,46138.149999999994,8,5,0.00010950379187026437,0.6153846153846154
+Retail,Beheira,25-34,Male,Store Walk-in,Not opted-in,18,18,104481.25,15,3,0.0002479746815670993,0.8333333333333334
+Retail,Beheira,25-34,Male,Store Walk-in,Opted-in,25,23,62759.15,21,2,0.00014895189554749603,0.9130434782608695
+Retail,Beheira,25-34,Not specified,Direct / WhatsApp,Not opted-in,1,1,2992.65,1,0,7.102723510599076e-06,1.0
+Retail,Beheira,25-34,Not specified,Google Search,Opted-in,1,1,2325.4,1,0,5.5190794952791305e-06,1.0
+Retail,Beheira,25-34,Not specified,Organic Social,Not opted-in,4,3,6157.05,3,0,1.461307663473311e-05,1.0
+Retail,Beheira,25-34,Not specified,Organic Social,Opted-in,5,4,7817.85,3,1,1.8554801596356735e-05,0.75
+Retail,Beheira,25-34,Not specified,Paid Social,Not opted-in,1,1,3331.0,1,0,7.90575978273621e-06,1.0
+Retail,Beheira,25-34,Not specified,Paid Social,Opted-in,3,3,7936.45,2,1,1.8836285568206784e-05,0.6666666666666666
+Retail,Beheira,25-34,Not specified,Referral,Not opted-in,1,1,4778.65,1,0,1.1341596813501168e-05,1.0
+Retail,Beheira,25-34,Not specified,Referral,Opted-in,1,1,5068.55,1,0,1.2029642373697874e-05,1.0
+Retail,Beheira,25-34,Not specified,Store Walk-in,Not opted-in,1,1,3665.0,1,0,8.698471811386434e-06,1.0
+Retail,Beheira,35-44,Female,Direct / WhatsApp,Not opted-in,45,33,96444.23,29,4,0.0002288997042362537,0.8787878787878788
+Retail,Beheira,35-44,Female,Direct / WhatsApp,Opted-in,66,54,179646.6,44,10,0.00042637131953926716,0.8148148148148148
+Retail,Beheira,35-44,Female,Google Search,Not opted-in,23,21,62267.5,16,5,0.00014778501869454428,0.7619047619047619
+Retail,Beheira,35-44,Female,Google Search,Opted-in,40,36,111190.23,30,6,0.00026389770296223033,0.8333333333333334
+Retail,Beheira,35-44,Female,Organic Social,Not opted-in,45,38,87795.38,30,8,0.00020837261612550076,0.7894736842105263
+Retail,Beheira,35-44,Female,Organic Social,Opted-in,55,47,131442.51,43,4,0.00031196424776340503,0.9148936170212766
+Retail,Beheira,35-44,Female,Paid Social,Not opted-in,30,20,44985.45,16,4,0.00010676798601569818,0.8
+Retail,Beheira,35-44,Female,Paid Social,Opted-in,58,54,192532.58,44,10,0.00045695476668581263,0.8148148148148148
+Retail,Beheira,35-44,Female,Referral,Not opted-in,14,10,30036.1,9,1,7.128735857407478e-05,0.9
+Retail,Beheira,35-44,Female,Referral,Opted-in,23,20,52429.0,18,2,0.00012443442799431906,0.9
+Retail,Beheira,35-44,Female,Store Walk-in,Not opted-in,24,20,33132.4,14,6,7.863608388637923e-05,0.7
+Retail,Beheira,35-44,Female,Store Walk-in,Opted-in,60,52,175551.75,48,4,0.00041665264633412234,0.9230769230769231
+Retail,Beheira,35-44,Male,Direct / WhatsApp,Not opted-in,12,10,21633.65,6,4,5.1345073588649426e-05,0.6
+Retail,Beheira,35-44,Male,Direct / WhatsApp,Opted-in,29,23,61442.47,15,8,0.00014582690131431287,0.6521739130434783
+Retail,Beheira,35-44,Male,Google Search,Not opted-in,12,12,56021.84,9,3,0.00013296163603328812,0.75
+Retail,Beheira,35-44,Male,Google Search,Opted-in,10,9,16780.5,7,2,3.982665927175172e-05,0.7777777777777778
+Retail,Beheira,35-44,Male,Organic Social,Not opted-in,19,15,34367.3,12,3,8.156698234200846e-05,0.8
+Retail,Beheira,35-44,Male,Organic Social,Opted-in,31,28,65645.65,23,5,0.00015580268378312138,0.8214285714285714
+Retail,Beheira,35-44,Male,Paid Social,Not opted-in,13,12,67253.55,12,0,0.00015961885645038694,1.0
+Retail,Beheira,35-44,Male,Paid Social,Opted-in,29,20,80082.8,17,3,0.0001900676612215273,0.85
+Retail,Beheira,35-44,Male,Referral,Not opted-in,5,5,13428.25,5,0,3.187046496623462e-05,1.0
+Retail,Beheira,35-44,Male,Referral,Opted-in,20,15,54440.2,12,3,0.0001292077885692332,0.8
+Retail,Beheira,35-44,Male,Store Walk-in,Not opted-in,18,17,32779.15,11,6,7.77976841135628e-05,0.6470588235294118
+Retail,Beheira,35-44,Male,Store Walk-in,Opted-in,29,29,78824.53,22,7,0.00018708129665778562,0.7586206896551724
+Retail,Beheira,35-44,Not specified,Direct / WhatsApp,Not opted-in,3,3,6339.5,3,0,1.5046101513856562e-05,1.0
+Retail,Beheira,35-44,Not specified,Direct / WhatsApp,Opted-in,8,7,23119.649999999998,6,1,5.487193009935071e-05,0.8571428571428571
+Retail,Beheira,35-44,Not specified,Google Search,Opted-in,1,1,1985.85,1,0,4.713195155973192e-06,1.0
+Retail,Beheira,35-44,Not specified,Organic Social,Not opted-in,2,2,5611.95,2,0,1.3319342123304256e-05,1.0
+Retail,Beheira,35-44,Not specified,Paid Social,Not opted-in,1,1,9300.9,1,0,2.2074656608601386e-05,1.0
+Retail,Beheira,35-44,Not specified,Paid Social,Opted-in,1,1,2234.25,1,0,5.302745059915454e-06,1.0
+Retail,Beheira,35-44,Not specified,Referral,Not opted-in,2,1,11872.25,1,0,2.8177471204019805e-05,1.0
+Retail,Beheira,35-44,Not specified,Referral,Opted-in,2,1,3462.55,1,0,8.21797914611626e-06,1.0
+Retail,Beheira,35-44,Not specified,Store Walk-in,Not opted-in,2,2,8082.35,2,0,1.9182563068147108e-05,1.0
+Retail,Beheira,35-44,Not specified,Store Walk-in,Opted-in,2,1,3370.45,1,0,7.999389990910616e-06,1.0
+Retail,Beheira,45-54,Female,Direct / WhatsApp,Not opted-in,30,29,64127.15,24,5,0.00015219869211993166,0.8275862068965517
+Retail,Beheira,45-54,Female,Direct / WhatsApp,Opted-in,29,24,44844.55,20,4,0.00010643357546229455,0.8333333333333334
+Retail,Beheira,45-54,Female,Google Search,Not opted-in,9,8,27365.95,6,2,6.495005311509157e-05,0.75
+Retail,Beheira,45-54,Female,Google Search,Opted-in,20,18,28531.55,13,5,6.77164756917224e-05,0.7222222222222222
+Retail,Beheira,45-54,Female,Organic Social,Not opted-in,12,11,29762.600000000002,8,3,7.063823659851839e-05,0.7272727272727273
+Retail,Beheira,45-54,Female,Organic Social,Opted-in,34,27,129643.51,22,5,0.00030769452039950757,0.8148148148148148
+Retail,Beheira,45-54,Female,Paid Social,Not opted-in,13,12,30759.25,11,1,7.30036750516748e-05,0.9166666666666666
+Retail,Beheira,45-54,Female,Paid Social,Opted-in,29,22,52125.9,20,2,0.0001237150536952655,0.9090909090909091
+Retail,Beheira,45-54,Female,Referral,Not opted-in,6,6,46366.43,6,0,0.00011004558918134306,1.0
+Retail,Beheira,45-54,Female,Referral,Opted-in,8,7,27897.550000000003,7,0,6.621174687087139e-05,1.0
+Retail,Beheira,45-54,Female,Store Walk-in,Not opted-in,12,11,42696.19,8,3,0.00010133468080998619,0.7272727272727273
+Retail,Beheira,45-54,Female,Store Walk-in,Opted-in,37,30,83892.5,24,6,0.00019910956246568524,0.8
+Retail,Beheira,45-54,Male,Direct / WhatsApp,Not opted-in,13,13,29171.899999999998,12,1,6.9236275534675e-05,0.9230769230769231
+Retail,Beheira,45-54,Male,Direct / WhatsApp,Opted-in,10,9,26675.5,7,2,6.331134646784143e-05,0.7777777777777778
+Retail,Beheira,45-54,Male,Google Search,Not opted-in,4,4,10413.85,3,1,2.4716120238200986e-05,0.75
+Retail,Beheira,45-54,Male,Google Search,Opted-in,5,5,27365.75,5,0,6.49495784372301e-05,1.0
+Retail,Beheira,45-54,Male,Organic Social,Not opted-in,9,8,23426.25,8,0,5.559961126097993e-05,1.0
+Retail,Beheira,45-54,Male,Organic Social,Opted-in,11,9,29958.4,8,1,7.110294622489478e-05,0.8888888888888888
+Retail,Beheira,45-54,Male,Paid Social,Not opted-in,3,2,3432.25,1,1,8.14606545010398e-06,0.5
+Retail,Beheira,45-54,Male,Paid Social,Opted-in,9,8,27503.3,7,1,6.527603813645416e-05,0.875
+Retail,Beheira,45-54,Male,Referral,Not opted-in,3,2,2718.7,2,0,6.452533509854378e-06,1.0
+Retail,Beheira,45-54,Male,Referral,Opted-in,3,3,1577.3,1,2,3.74354695446107e-06,0.3333333333333333
+Retail,Beheira,45-54,Male,Store Walk-in,Not opted-in,6,5,12672.6,5,0,3.0077013336146173e-05,1.0
+Retail,Beheira,45-54,Male,Store Walk-in,Opted-in,14,13,26653.600000000002,9,4,6.325936924201077e-05,0.6923076923076923
+Retail,Beheira,45-54,Not specified,Direct / WhatsApp,Opted-in,2,2,4565.35,2,0,1.0835352874246401e-05,1.0
+Retail,Beheira,45-54,Not specified,Google Search,Opted-in,2,2,5211.7,2,0,1.2369393053043022e-05,1.0
+Retail,Beheira,45-54,Not specified,Organic Social,Not opted-in,1,1,2439.65,1,0,5.790239223642268e-06,1.0
+Retail,Beheira,45-54,Not specified,Organic Social,Opted-in,1,1,33614.19,1,0,7.977955912076065e-05,1.0
+Retail,Beheira,45-54,Not specified,Paid Social,Not opted-in,1,1,1867.95,1,0,4.433372556638278e-06,1.0
+Retail,Beheira,45-54,Not specified,Referral,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Beheira,45-54,Not specified,Store Walk-in,Not opted-in,1,1,2373.2,1,0,5.632527504169791e-06,1.0
+Retail,Beheira,55+,Female,Direct / WhatsApp,Not opted-in,7,6,31320.85,5,1,7.43365704866747e-05,0.8333333333333334
+Retail,Beheira,55+,Female,Direct / WhatsApp,Opted-in,13,12,42115.05,12,0,9.995540934792094e-05,1.0
+Retail,Beheira,55+,Female,Google Search,Not opted-in,2,2,3619.25,1,1,8.589889250575812e-06,0.5
+Retail,Beheira,55+,Female,Google Search,Opted-in,4,3,25298.43,1,2,6.0043023254388243e-05,0.3333333333333333
+Retail,Beheira,55+,Female,Organic Social,Not opted-in,6,5,24973.26,5,0,5.927126825332179e-05,1.0
+Retail,Beheira,55+,Female,Organic Social,Opted-in,13,11,30033.55,8,3,7.128130643134107e-05,0.7272727272727273
+Retail,Beheira,55+,Female,Paid Social,Not opted-in,6,6,15377.85,6,0,3.6497624759816885e-05,1.0
+Retail,Beheira,55+,Female,Paid Social,Opted-in,16,9,26961.35,8,1,6.398977980134341e-05,0.8888888888888888
+Retail,Beheira,55+,Female,Referral,Opted-in,5,4,29405.77,4,0,6.979134009198169e-05,1.0
+Retail,Beheira,55+,Female,Store Walk-in,Not opted-in,3,3,4836.8,2,1,1.1479609401722757e-05,0.6666666666666666
+Retail,Beheira,55+,Female,Store Walk-in,Opted-in,13,11,53868.3,9,2,0.00012785044722436777,0.8181818181818182
+Retail,Beheira,55+,Male,Direct / WhatsApp,Not opted-in,5,5,5167.549999999999,4,1,1.2264607915124137e-05,0.8
+Retail,Beheira,55+,Male,Direct / WhatsApp,Opted-in,6,5,11340.35,3,2,2.691506543144779e-05,0.6
+Retail,Beheira,55+,Male,Google Search,Not opted-in,2,1,3814.65,1,0,9.053649521229266e-06,1.0
+Retail,Beheira,55+,Male,Google Search,Opted-in,2,2,7022.4,1,1,1.6666889071836313e-05,0.5
+Retail,Beheira,55+,Male,Organic Social,Not opted-in,6,6,12709.2,5,1,3.016387938479467e-05,0.8333333333333334
+Retail,Beheira,55+,Male,Organic Social,Opted-in,4,4,40227.619999999995,3,1,9.547580316757574e-05,0.75
+Retail,Beheira,55+,Male,Paid Social,Opted-in,6,5,10746.2,5,0,2.5504916174494107e-05,1.0
+Retail,Beheira,55+,Male,Referral,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Beheira,55+,Male,Referral,Opted-in,1,1,4133.6,1,0,9.810642040804083e-06,1.0
+Retail,Beheira,55+,Male,Store Walk-in,Not opted-in,6,5,15346.050000000001,5,0,3.64221509798436e-05,1.0
+Retail,Beheira,55+,Male,Store Walk-in,Opted-in,6,5,11234.15,5,0,2.6663011487008703e-05,1.0
+Retail,Beheira,55+,Not specified,Organic Social,Opted-in,2,2,6520.200000000001,2,0,1.547497296169218e-05,1.0
+Retail,Beheira,55+,Not specified,Paid Social,Not opted-in,1,1,3188.3,1,0,7.567077128579364e-06,1.0
+Retail,Beheira,55+,Not specified,Paid Social,Opted-in,2,1,10158.25,1,0,2.4109481931245906e-05,1.0
+Retail,Beheira,55+,Not specified,Store Walk-in,Opted-in,1,1,1989.05,1,0,4.7207900017566675e-06,1.0
+Retail,Cairo,18-24,Female,Direct / WhatsApp,Not opted-in,32,25,77092.15,22,3,0.00018296968448954288,0.88
+Retail,Cairo,18-24,Female,Direct / WhatsApp,Opted-in,44,37,104287.37000000001,32,5,0.000247514528848193,0.8648648648648649
+Retail,Cairo,18-24,Female,Google Search,Not opted-in,17,14,43977.6,13,1,0.00010437596560229959,0.9285714285714286
+Retail,Cairo,18-24,Female,Google Search,Opted-in,22,19,30247.3,13,6,7.178861839578414e-05,0.6842105263157895
+Retail,Cairo,18-24,Female,Organic Social,Not opted-in,15,12,39007.259999999995,12,0,9.257941379247519e-05,1.0
+Retail,Cairo,18-24,Female,Organic Social,Opted-in,51,45,186302.53,38,7,0.00044216843263164405,0.8444444444444444
+Retail,Cairo,18-24,Female,Paid Social,Not opted-in,24,23,77313.1,19,4,0.0001834940848569988,0.8260869565217391
+Retail,Cairo,18-24,Female,Paid Social,Opted-in,55,50,161363.4,41,9,0.0003829781681553816,0.82
+Retail,Cairo,18-24,Female,Referral,Not opted-in,11,11,34817.15,10,1,8.263465152191356e-05,0.9090909090909091
+Retail,Cairo,18-24,Female,Referral,Opted-in,18,13,29983.65,12,1,7.116287430490501e-05,0.9230769230769231
+Retail,Cairo,18-24,Female,Store Walk-in,Not opted-in,26,20,42969.45,13,7,0.00010198323317210881,0.65
+Retail,Cairo,18-24,Female,Store Walk-in,Opted-in,55,52,157190.6,44,8,0.00037307448925373,0.8461538461538461
+Retail,Cairo,18-24,Male,Direct / WhatsApp,Not opted-in,19,16,46212.19,10,6,0.00010967951761457955,0.625
+Retail,Cairo,18-24,Male,Direct / WhatsApp,Opted-in,11,11,31717.4,10,1,7.52777380164988e-05,0.9090909090909091
+Retail,Cairo,18-24,Male,Google Search,Not opted-in,8,7,15555.0,6,1,3.6918070675611456e-05,0.8571428571428571
+Retail,Cairo,18-24,Male,Google Search,Opted-in,15,13,34072.75,12,1,8.086790052153264e-05,0.9230769230769231
+Retail,Cairo,18-24,Male,Organic Social,Not opted-in,7,4,4447.05,4,0,1.0554580919188553e-05,1.0
+Retail,Cairo,18-24,Male,Organic Social,Opted-in,21,16,39557.6,14,2,9.388558486387448e-05,0.875
+Retail,Cairo,18-24,Male,Paid Social,Not opted-in,14,12,20645.75,9,3,4.900040229193219e-05,0.75
+Retail,Cairo,18-24,Male,Paid Social,Opted-in,19,17,50734.71,12,5,0.00012041321822479274,0.7058823529411765
+Retail,Cairo,18-24,Male,Referral,Not opted-in,9,6,16826.2,6,0,3.993512316309698e-05,1.0
+Retail,Cairo,18-24,Male,Referral,Opted-in,7,7,11393.3,5,2,2.7040736395271227e-05,0.7142857142857143
+Retail,Cairo,18-24,Male,Store Walk-in,Not opted-in,5,5,8618.1,4,1,2.0454106389552368e-05,0.8
+Retail,Cairo,18-24,Male,Store Walk-in,Opted-in,20,18,67211.95,18,0,0.00015952012345520175,1.0
+Retail,Cairo,18-24,Not specified,Direct / WhatsApp,Not opted-in,1,1,1013.6,1,0,2.405667401915768e-06,1.0
+Retail,Cairo,18-24,Not specified,Direct / WhatsApp,Opted-in,2,2,2833.5,2,0,6.724998602336551e-06,1.0
+Retail,Cairo,18-24,Not specified,Google Search,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Cairo,18-24,Not specified,Google Search,Opted-in,1,1,1105.8,0,1,2.624493896052147e-06,0.0
+Retail,Cairo,18-24,Not specified,Organic Social,Opted-in,2,2,4177.3,1,1,9.914359153534667e-06,0.5
+Retail,Cairo,18-24,Not specified,Paid Social,Not opted-in,2,2,1889.5,2,0,4.484519096211369e-06,1.0
+Retail,Cairo,18-24,Not specified,Paid Social,Opted-in,1,1,2215.65,1,0,5.258600018799005e-06,1.0
+Retail,Cairo,18-24,Not specified,Store Walk-in,Opted-in,1,1,3506.3,1,0,8.321814928312212e-06,1.0
+Retail,Cairo,25-34,Female,Direct / WhatsApp,Not opted-in,99,84,245926.91,72,12,0.0005836802985801824,0.8571428571428571
+Retail,Cairo,25-34,Female,Direct / WhatsApp,Opted-in,214,183,624001.57,154,29,0.0014809986539988753,0.8415300546448088
+Retail,Cairo,25-34,Female,Google Search,Not opted-in,55,40,127623.54,35,5,0.00030290034520036806,0.875
+Retail,Cairo,25-34,Female,Google Search,Opted-in,98,82,344368.59,68,14,0.0008173207292883744,0.8292682926829268
+Retail,Cairo,25-34,Female,Organic Social,Not opted-in,85,72,241351.44,57,15,0.0005728209270061458,0.7916666666666666
+Retail,Cairo,25-34,Female,Organic Social,Opted-in,173,146,365878.88,122,24,0.0008683730215720708,0.8356164383561644
+Retail,Cairo,25-34,Female,Paid Social,Not opted-in,73,63,186024.07,52,11,0.0004415075386451233,0.8253968253968254
+Retail,Cairo,25-34,Female,Paid Social,Opted-in,137,115,394878.06,100,15,0.0009371993653055828,0.8695652173913043
+Retail,Cairo,25-34,Female,Referral,Not opted-in,36,34,96776.40000000001,27,7,0.00022968807296247154,0.7941176470588235
+Retail,Cairo,25-34,Female,Referral,Opted-in,65,55,212709.09,45,10,0.0005048414797791705,0.8181818181818182
+Retail,Cairo,25-34,Female,Store Walk-in,Not opted-in,102,88,306919.63,70,18,0.000728439768053521,0.7954545454545454
+Retail,Cairo,25-34,Female,Store Walk-in,Opted-in,132,110,529150.53,93,17,0.0012558802098731766,0.8454545454545455
+Retail,Cairo,25-34,Male,Direct / WhatsApp,Not opted-in,48,40,151387.58000000002,30,10,0.0003593016636354731,0.75
+Retail,Cairo,25-34,Male,Direct / WhatsApp,Opted-in,80,69,192655.48,56,13,0.0004572464562316843,0.8115942028985508
+Retail,Cairo,25-34,Male,Google Search,Not opted-in,28,20,50495.0,18,2,0.00011984429307393124,0.9
+Retail,Cairo,25-34,Male,Google Search,Opted-in,43,38,119666.73,33,5,0.0002840157374258639,0.868421052631579
+Retail,Cairo,25-34,Male,Organic Social,Not opted-in,41,36,128235.06,27,9,0.0003043517202295902,0.75
+Retail,Cairo,25-34,Male,Organic Social,Opted-in,51,43,121028.7,39,4,0.00028724822246077635,0.9069767441860465
+Retail,Cairo,25-34,Male,Paid Social,Not opted-in,43,38,103158.1,34,4,0.00024483433150509766,0.8947368421052632
+Retail,Cairo,25-34,Male,Paid Social,Opted-in,63,54,189856.4,44,10,0.00045060314968930625,0.8148148148148148
+Retail,Cairo,25-34,Male,Referral,Not opted-in,14,10,21434.6,9,1,5.087265044702419e-05,0.9
+Retail,Cairo,25-34,Male,Referral,Opted-in,41,34,115401.03,31,3,0.00027389157065756077,0.9117647058823529
+Retail,Cairo,25-34,Male,Store Walk-in,Not opted-in,45,39,117046.11,30,9,0.00027779598593927305,0.7692307692307693
+Retail,Cairo,25-34,Male,Store Walk-in,Opted-in,63,56,234624.83,48,8,0.0005568560627575264,0.8571428571428571
+Retail,Cairo,25-34,Not specified,Direct / WhatsApp,Not opted-in,6,4,6812.299999999999,3,1,1.6168239978365018e-05,0.75
+Retail,Cairo,25-34,Not specified,Direct / WhatsApp,Opted-in,9,8,45401.5,8,0,0.00010775543463701533,1.0
+Retail,Cairo,25-34,Not specified,Google Search,Not opted-in,2,2,5868.6,2,0,1.392847248903204e-05,1.0
+Retail,Cairo,25-34,Not specified,Google Search,Opted-in,1,1,27889.61,1,0,6.619290215977113e-05,1.0
+Retail,Cairo,25-34,Not specified,Organic Social,Not opted-in,2,2,6587.3,2,0,1.5634227384214423e-05,1.0
+Retail,Cairo,25-34,Not specified,Organic Social,Opted-in,12,7,33516.590000000004,5,2,7.954791632436466e-05,0.7142857142857143
+Retail,Cairo,25-34,Not specified,Paid Social,Opted-in,6,5,15441.099999999999,3,2,3.664774163350588e-05,0.6
+Retail,Cairo,25-34,Not specified,Referral,Not opted-in,4,2,2116.6,2,0,5.0235158079073736e-06,1.0
+Retail,Cairo,25-34,Not specified,Referral,Opted-in,4,3,3777.85,1,2,8.9663087947193e-06,0.3333333333333333
+Retail,Cairo,25-34,Not specified,Store Walk-in,Not opted-in,4,4,9034.25,3,1,2.1441792349800243e-05,0.75
+Retail,Cairo,25-34,Not specified,Store Walk-in,Opted-in,7,6,13046.800000000001,6,0,3.096513561495131e-05,1.0
+Retail,Cairo,35-44,Female,Direct / WhatsApp,Not opted-in,78,68,198027.05000000002,57,11,0.00046999528303329116,0.8382352941176471
+Retail,Cairo,35-44,Female,Direct / WhatsApp,Opted-in,138,112,303142.0,88,24,0.0007194739814044492,0.7857142857142857
+Retail,Cairo,35-44,Female,Google Search,Not opted-in,50,44,125669.25,39,5,0.0002982620542109344,0.8863636363636364
+Retail,Cairo,35-44,Female,Google Search,Opted-in,78,65,213224.74,55,10,0.0005060653179754983,0.8461538461538461
+Retail,Cairo,35-44,Female,Organic Social,Not opted-in,84,68,197898.62,53,15,0.00046969046864454996,0.7794117647058824
+Retail,Cairo,35-44,Female,Organic Social,Opted-in,132,111,308811.41,92,19,0.0007329296984773529,0.8288288288288288
+Retail,Cairo,35-44,Female,Paid Social,Not opted-in,73,63,186778.58,47,16,0.0004432982846114013,0.746031746031746
+Retail,Cairo,35-44,Female,Paid Social,Opted-in,129,116,263645.63,90,26,0.0006257337191678629,0.7758620689655172
+Retail,Cairo,35-44,Female,Referral,Not opted-in,42,36,119170.05,31,5,0.0002828369224246963,0.8611111111111112
+Retail,Cairo,35-44,Female,Referral,Opted-in,63,57,126651.05,46,11,0.0003005922478328769,0.8070175438596491
+Retail,Cairo,35-44,Female,Store Walk-in,Not opted-in,71,70,209125.94,56,14,0.0004963372698825896,0.8
+Retail,Cairo,35-44,Female,Store Walk-in,Opted-in,122,105,334420.6,84,21,0.0007937102761928889,0.8
+Retail,Cairo,35-44,Male,Direct / WhatsApp,Not opted-in,37,34,118819.25,27,7,0.00028200433745568284,0.7941176470588235
+Retail,Cairo,35-44,Male,Direct / WhatsApp,Opted-in,83,72,248709.4,58,14,0.0005902842305939518,0.8055555555555556
+Retail,Cairo,35-44,Male,Google Search,Not opted-in,15,13,62506.619999999995,12,1,0.00014835254354571444,0.9230769230769231
+Retail,Cairo,35-44,Male,Google Search,Opted-in,31,27,125107.35,23,4,0.00029692844675914234,0.8518518518518519
+Retail,Cairo,35-44,Male,Organic Social,Not opted-in,35,29,115847.16,25,4,0.0002749504108292426,0.8620689655172413
+Retail,Cairo,35-44,Male,Organic Social,Opted-in,58,52,162768.62,44,8,0.00038631330227783633,0.8461538461538461
+Retail,Cairo,35-44,Male,Paid Social,Not opted-in,20,18,33368.15,13,5,7.91956104155837e-05,0.7222222222222222
+Retail,Cairo,35-44,Male,Paid Social,Opted-in,54,44,167611.66,36,8,0.0003978077216288369,0.8181818181818182
+Retail,Cairo,35-44,Male,Referral,Not opted-in,15,11,53593.51,9,2,0.0001271982635766049,0.8181818181818182
+Retail,Cairo,35-44,Male,Referral,Opted-in,23,19,40191.35,17,2,9.538972033739868e-05,0.8947368421052632
+Retail,Cairo,35-44,Male,Store Walk-in,Not opted-in,36,33,73741.95,29,4,0.0001750183556321058,0.8787878787878788
+Retail,Cairo,35-44,Male,Store Walk-in,Opted-in,68,54,162601.16,47,7,0.00038591585450442986,0.8703703703703703
+Retail,Cairo,35-44,Not specified,Direct / WhatsApp,Not opted-in,6,3,6088.1,3,0,1.4449431441992292e-05,1.0
+Retail,Cairo,35-44,Not specified,Direct / WhatsApp,Opted-in,8,5,53520.420000000006,5,0,0.00012702479255213172,1.0
+Retail,Cairo,35-44,Not specified,Google Search,Not opted-in,3,2,2050.6,2,0,4.866872113623198e-06,1.0
+Retail,Cairo,35-44,Not specified,Google Search,Opted-in,4,3,5276.05,3,0,1.2522120654970095e-05,1.0
+Retail,Cairo,35-44,Not specified,Organic Social,Not opted-in,1,1,1019.0,1,0,2.4184837041753824e-06,1.0
+Retail,Cairo,35-44,Not specified,Organic Social,Opted-in,5,4,32019.5,4,0,7.5994738926245e-05,1.0
+Retail,Cairo,35-44,Not specified,Paid Social,Not opted-in,10,5,9224.35,5,0,2.1892973657124818e-05,1.0
+Retail,Cairo,35-44,Not specified,Paid Social,Opted-in,5,2,1820.4499999999998,2,0,4.320636564539818e-06,1.0
+Retail,Cairo,35-44,Not specified,Referral,Not opted-in,2,2,4843.35,2,0,1.1495155101685809e-05,1.0
+Retail,Cairo,35-44,Not specified,Referral,Opted-in,3,2,1755.45,2,0,4.166366259562978e-06,1.0
+Retail,Cairo,35-44,Not specified,Store Walk-in,Not opted-in,1,1,1145.9,1,0,2.7196668072763207e-06,1.0
+Retail,Cairo,35-44,Not specified,Store Walk-in,Opted-in,7,6,18887.05,4,2,4.4826322517120365e-05,0.6666666666666666
+Retail,Cairo,45-54,Female,Direct / WhatsApp,Not opted-in,42,34,76840.92,28,6,0.00018237341789386087,0.8235294117647058
+Retail,Cairo,45-54,Female,Direct / WhatsApp,Opted-in,75,69,228571.0,56,13,0.0005424879673670965,0.8115942028985508
+Retail,Cairo,45-54,Female,Google Search,Not opted-in,33,31,81017.56,26,5,0.00019228621061045267,0.8387096774193549
+Retail,Cairo,45-54,Female,Google Search,Opted-in,34,28,58195.85,24,4,0.00013812140812132965,0.8571428571428571
+Retail,Cairo,45-54,Female,Organic Social,Not opted-in,41,33,75780.2,26,7,0.00017985591638778342,0.7878787878787878
+Retail,Cairo,45-54,Female,Organic Social,Opted-in,60,51,141005.35,46,5,0.00033466058996717003,0.9019607843137255
+Retail,Cairo,45-54,Female,Paid Social,Not opted-in,30,27,68737.2,22,5,0.00016314013549621599,0.8148148148148148
+Retail,Cairo,45-54,Female,Paid Social,Opted-in,59,50,208383.09,48,2,0.000494574197635635,0.96
+Retail,Cairo,45-54,Female,Referral,Not opted-in,26,23,55085.45,20,3,0.00013073921801979175,0.8695652173913043
+Retail,Cairo,45-54,Female,Referral,Opted-in,27,22,75571.59999999999,20,2,0.00017936082737827312,0.9090909090909091
+Retail,Cairo,45-54,Female,Store Walk-in,Not opted-in,24,23,103529.64,18,5,0.00024571614056834526,0.782608695652174
+Retail,Cairo,45-54,Female,Store Walk-in,Opted-in,52,49,221434.31,45,4,0.0005255498236313248,0.9183673469387755
+Retail,Cairo,45-54,Male,Direct / WhatsApp,Not opted-in,11,11,23933.65,9,2,5.680386899552222e-05,0.8181818181818182
+Retail,Cairo,45-54,Male,Direct / WhatsApp,Opted-in,31,27,132416.54,24,3,0.0003142760001504295,0.8888888888888888
+Retail,Cairo,45-54,Male,Google Search,Not opted-in,15,11,15688.099999999999,8,3,3.723396879241787e-05,0.7272727272727273
+Retail,Cairo,45-54,Male,Google Search,Opted-in,14,13,49679.95,10,3,0.00011790986211898702,0.7692307692307693
+Retail,Cairo,45-54,Male,Organic Social,Not opted-in,14,14,27260.9,10,4,6.470072856835591e-05,0.7142857142857143
+Retail,Cairo,45-54,Male,Organic Social,Opted-in,35,29,70660.8,21,8,0.00016770558716780752,0.7241379310344828
+Retail,Cairo,45-54,Male,Paid Social,Not opted-in,16,15,40632.47,13,2,9.643666982865074e-05,0.8666666666666667
+Retail,Cairo,45-54,Male,Paid Social,Opted-in,33,29,63835.42,26,3,0.00015150630325730253,0.896551724137931
+Retail,Cairo,45-54,Male,Referral,Not opted-in,6,5,11985.150000000001,3,2,2.8445426856818043e-05,0.6
+Retail,Cairo,45-54,Male,Referral,Opted-in,10,8,29091.85,8,0,6.904628572062276e-05,1.0
+Retail,Cairo,45-54,Male,Store Walk-in,Not opted-in,20,17,56755.85,14,3,0.0001347037275187658,0.8235294117647058
+Retail,Cairo,45-54,Male,Store Walk-in,Opted-in,25,22,42972.2,19,3,0.00010198975999270398,0.8636363636363636
+Retail,Cairo,45-54,Not specified,Direct / WhatsApp,Not opted-in,2,2,3769.0,2,0,8.945304299349378e-06,1.0
+Retail,Cairo,45-54,Not specified,Direct / WhatsApp,Opted-in,2,2,8276.15,2,0,1.964252591590882e-05,1.0
+Retail,Cairo,45-54,Not specified,Google Search,Not opted-in,1,1,4810.45,1,0,1.1417070593474454e-05,1.0
+Retail,Cairo,45-54,Not specified,Google Search,Opted-in,4,4,9155.35,2,2,2.1729209794918632e-05,0.5
+Retail,Cairo,45-54,Not specified,Organic Social,Not opted-in,1,1,774.2,1,0,1.83747800173953e-06,1.0
+Retail,Cairo,45-54,Not specified,Organic Social,Opted-in,3,3,3673.1,2,1,8.717696264775855e-06,0.6666666666666666
+Retail,Cairo,45-54,Not specified,Paid Social,Not opted-in,2,1,1360.1,1,0,3.2280467969076913e-06,1.0
+Retail,Cairo,45-54,Not specified,Paid Social,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Cairo,45-54,Not specified,Referral,Not opted-in,1,1,1589.4,1,0,3.772264965079836e-06,1.0
+Retail,Cairo,45-54,Not specified,Referral,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Cairo,45-54,Not specified,Store Walk-in,Not opted-in,2,2,5490.25,2,0,1.3030500644601465e-05,1.0
+Retail,Cairo,45-54,Not specified,Store Walk-in,Opted-in,2,2,6453.35,2,0,1.5316311886496766e-05,1.0
+Retail,Cairo,55+,Female,Direct / WhatsApp,Not opted-in,19,18,79969.01,15,3,0.00018979759325224552,0.8333333333333334
+Retail,Cairo,55+,Female,Direct / WhatsApp,Opted-in,32,28,98484.33,22,6,0.0002337416557621499,0.7857142857142857
+Retail,Cairo,55+,Female,Google Search,Not opted-in,8,7,15716.3,7,0,3.730089837088475e-05,1.0
+Retail,Cairo,55+,Female,Google Search,Opted-in,20,16,47861.05,13,3,0.00011359290430787358,0.8125
+Retail,Cairo,55+,Female,Organic Social,Not opted-in,13,12,26762.4,9,3,6.351759399864893e-05,0.75
+Retail,Cairo,55+,Female,Organic Social,Opted-in,22,21,53045.2,18,3,0.00012589691048549948,0.8571428571428571
+Retail,Cairo,55+,Female,Paid Social,Not opted-in,12,9,22158.6,7,2,5.259098430553545e-05,0.7777777777777778
+Retail,Cairo,55+,Female,Paid Social,Opted-in,27,21,63199.81,19,2,0.0001499977532796667,0.9047619047619048
+Retail,Cairo,55+,Female,Referral,Not opted-in,8,7,22170.1,6,1,5.2618278282569816e-05,0.8571428571428571
+Retail,Cairo,55+,Female,Referral,Opted-in,7,6,13725.3,6,0,3.257548025997878e-05,1.0
+Retail,Cairo,55+,Female,Store Walk-in,Not opted-in,13,11,23275.0,9,2,5.524063612824536e-05,0.8181818181818182
+Retail,Cairo,55+,Female,Store Walk-in,Opted-in,23,20,57454.45,16,4,0.00013636177728887074,0.8
+Retail,Cairo,55+,Male,Direct / WhatsApp,Not opted-in,7,4,20714.35,3,1,4.916321679841543e-05,0.75
+Retail,Cairo,55+,Male,Direct / WhatsApp,Opted-in,25,20,89096.44,19,1,0.00021146053801770334,0.95
+Retail,Cairo,55+,Male,Google Search,Not opted-in,3,3,18932.2,3,0,4.493348104434659e-05,1.0
+Retail,Cairo,55+,Male,Google Search,Opted-in,7,6,37836.4,5,1,8.980050718808777e-05,0.8333333333333334
+Retail,Cairo,55+,Male,Organic Social,Not opted-in,5,5,10029.55,4,1,2.380402672739176e-05,0.8
+Retail,Cairo,55+,Male,Organic Social,Opted-in,16,12,32225.45,11,1,7.648353845409085e-05,0.9166666666666666
+Retail,Cairo,55+,Male,Paid Social,Not opted-in,8,6,9315.25,3,3,2.210871474516166e-05,0.5
+Retail,Cairo,55+,Male,Paid Social,Opted-in,11,11,47444.6,9,2,0.0001126045063308335,0.8181818181818182
+Retail,Cairo,55+,Male,Referral,Not opted-in,3,2,5111.400000000001,2,0,1.2131342105517224e-05,1.0
+Retail,Cairo,55+,Male,Referral,Opted-in,4,2,5307.55,2,0,1.2596882418151178e-05,1.0
+Retail,Cairo,55+,Male,Store Walk-in,Not opted-in,8,7,11787.3,7,0,2.7975851782361613e-05,1.0
+Retail,Cairo,55+,Male,Store Walk-in,Opted-in,12,11,26077.35,11,0,6.189170365365839e-05,1.0
+Retail,Cairo,55+,Not specified,Direct / WhatsApp,Opted-in,1,1,599.7,1,0,1.4233215676093983e-06,1.0
+Retail,Cairo,55+,Not specified,Google Search,Opted-in,1,1,888.2,1,0,2.1080443827758337e-06,1.0
+Retail,Cairo,55+,Not specified,Organic Social,Opted-in,2,2,2430.95,2,0,5.769590736668445e-06,1.0
+Retail,Cairo,55+,Not specified,Paid Social,Opted-in,2,1,1787.0,1,0,4.2412466922094294e-06,1.0
+Retail,Cairo,55+,Not specified,Store Walk-in,Not opted-in,1,1,6440.8,1,0,1.52865258506897e-05,1.0
+Retail,Cairo,55+,Not specified,Store Walk-in,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Dakahlia,18-24,Female,Direct / WhatsApp,Not opted-in,10,9,24516.3,7,2,5.818672427544154e-05,0.7777777777777778
+Retail,Dakahlia,18-24,Female,Direct / WhatsApp,Opted-in,18,16,51739.75,13,3,0.0001227985694142377,0.8125
+Retail,Dakahlia,18-24,Female,Google Search,Not opted-in,5,4,37471.98,4,0,8.893559665670839e-05,1.0
+Retail,Dakahlia,18-24,Female,Google Search,Opted-in,3,3,13124.1,3,0,3.1148598608408373e-05,1.0
+Retail,Dakahlia,18-24,Female,Organic Social,Not opted-in,6,4,10125.4,4,0,2.4031516092499917e-05,1.0
+Retail,Dakahlia,18-24,Female,Organic Social,Opted-in,17,17,55006.979999999996,15,2,0.0001305529781608451,0.8823529411764706
+Retail,Dakahlia,18-24,Female,Paid Social,Not opted-in,5,3,4881.75,2,1,1.158629325108751e-05,0.6666666666666666
+Retail,Dakahlia,18-24,Female,Paid Social,Opted-in,12,12,60741.51,11,1,0.0001441632503454426,0.9166666666666666
+Retail,Dakahlia,18-24,Female,Referral,Not opted-in,2,1,5916.95,1,0,1.4043225862041736e-05,1.0
+Retail,Dakahlia,18-24,Female,Referral,Opted-in,8,6,16932.25,4,2,4.018682109913996e-05,0.6666666666666666
+Retail,Dakahlia,18-24,Female,Store Walk-in,Not opted-in,12,11,38670.75,10,1,9.178074455666356e-05,0.9090909090909091
+Retail,Dakahlia,18-24,Female,Store Walk-in,Opted-in,14,11,23351.65,8,3,5.542255641865267e-05,0.7272727272727273
+Retail,Dakahlia,18-24,Male,Direct / WhatsApp,Not opted-in,3,3,9636.65,3,0,2.2871522068539446e-05,1.0
+Retail,Dakahlia,18-24,Male,Direct / WhatsApp,Opted-in,7,6,22639.55,6,0,5.37324658928987e-05,1.0
+Retail,Dakahlia,18-24,Male,Google Search,Not opted-in,1,1,3817.85,1,0,9.061244367012741e-06,1.0
+Retail,Dakahlia,18-24,Male,Google Search,Opted-in,6,5,7760.95,3,2,1.8419755744769317e-05,0.6
+Retail,Dakahlia,18-24,Male,Organic Social,Not opted-in,4,4,52612.15,4,0,0.00012486911424595764,1.0
+Retail,Dakahlia,18-24,Male,Organic Social,Opted-in,5,5,10399.1,4,1,2.4681112745917782e-05,0.8
+Retail,Dakahlia,18-24,Male,Paid Social,Not opted-in,4,3,4776.15,2,1,1.1335663340232827e-05,0.6666666666666666
+Retail,Dakahlia,18-24,Male,Paid Social,Opted-in,3,2,8987.699999999999,2,0,2.133131107754375e-05,1.0
+Retail,Dakahlia,18-24,Male,Referral,Opted-in,4,2,909.3,1,1,2.1581228971606234e-06,0.5
+Retail,Dakahlia,18-24,Male,Store Walk-in,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Dakahlia,18-24,Male,Store Walk-in,Opted-in,4,4,3901.4,4,0,9.259541043640664e-06,1.0
+Retail,Dakahlia,18-24,Not specified,Direct / WhatsApp,Opted-in,2,1,776.0,0,1,1.8417501024927347e-06,0.0
+Retail,Dakahlia,18-24,Not specified,Organic Social,Not opted-in,1,1,501.5,0,1,1.1902547376290032e-06,0.0
+Retail,Dakahlia,18-24,Not specified,Organic Social,Opted-in,2,2,3400.15,2,0,8.069879653338496e-06,1.0
+Retail,Dakahlia,18-24,Not specified,Paid Social,Opted-in,2,2,2771.5,2,0,6.57784846528172e-06,1.0
+Retail,Dakahlia,25-34,Female,Direct / WhatsApp,Not opted-in,35,29,110868.87999999999,26,3,0.0002631350143083179,0.896551724137931
+Retail,Dakahlia,25-34,Female,Direct / WhatsApp,Opted-in,55,51,199716.91,44,7,0.00047400597868818594,0.8627450980392157
+Retail,Dakahlia,25-34,Female,Google Search,Not opted-in,15,12,22600.95,9,3,5.3640853065635534e-05,0.75
+Retail,Dakahlia,25-34,Female,Google Search,Opted-in,38,32,115980.83,25,7,0.0002752676617779542,0.78125
+Retail,Dakahlia,25-34,Female,Organic Social,Not opted-in,26,17,44628.7,16,1,0.00010592127938030606,0.9411764705882353
+Retail,Dakahlia,25-34,Female,Organic Social,Opted-in,57,53,133821.5,46,7,0.0003176105171916643,0.8679245283018868
+Retail,Dakahlia,25-34,Female,Paid Social,Not opted-in,35,28,55021.2,21,7,0.00013058672775679542,0.75
+Retail,Dakahlia,25-34,Female,Paid Social,Opted-in,65,57,183939.44,47,10,0.0004365599000933714,0.8245614035087719
+Retail,Dakahlia,25-34,Female,Referral,Not opted-in,18,15,35481.42,10,5,8.421122283709763e-05,0.6666666666666666
+Retail,Dakahlia,25-34,Female,Referral,Opted-in,31,23,84370.99,20,3,0.00020024520551535245,0.8695652173913043
+Retail,Dakahlia,25-34,Female,Store Walk-in,Not opted-in,33,29,57915.4,25,4,0.0001374557910900873,0.8620689655172413
+Retail,Dakahlia,25-34,Female,Store Walk-in,Opted-in,46,39,95874.8,31,8,0.00022754822516297737,0.7948717948717948
+Retail,Dakahlia,25-34,Male,Direct / WhatsApp,Not opted-in,16,12,56625.89,9,3,0.00013439528184438444,0.75
+Retail,Dakahlia,25-34,Male,Direct / WhatsApp,Opted-in,25,22,53974.9,19,3,0.00012810345052452978,0.8636363636363636
+Retail,Dakahlia,25-34,Male,Google Search,Not opted-in,5,5,20726.8,4,1,4.919276549529177e-05,0.8
+Retail,Dakahlia,25-34,Male,Google Search,Opted-in,14,11,41975.700000000004,9,2,9.962467754794367e-05,0.8181818181818182
+Retail,Dakahlia,25-34,Male,Organic Social,Not opted-in,17,16,63039.3,13,3,0.0001496168005619462,0.8125
+Retail,Dakahlia,25-34,Male,Organic Social,Opted-in,23,17,50909.45,16,1,0.00012082794427235664,0.9411764705882353
+Retail,Dakahlia,25-34,Male,Paid Social,Not opted-in,9,7,20898.65,6,1,4.960063244775747e-05,0.8571428571428571
+Retail,Dakahlia,25-34,Male,Paid Social,Opted-in,19,16,66899.17,12,4,0.00015877777474765319,0.75
+Retail,Dakahlia,25-34,Male,Referral,Not opted-in,6,5,17536.35,5,0,4.162058557970163e-05,1.0
+Retail,Dakahlia,25-34,Male,Referral,Opted-in,16,13,26183.55,11,2,6.214375759809747e-05,0.8461538461538461
+Retail,Dakahlia,25-34,Male,Store Walk-in,Not opted-in,11,9,16033.9,8,1,3.805468681489466e-05,0.8888888888888888
+Retail,Dakahlia,25-34,Male,Store Walk-in,Opted-in,27,22,54377.8,17,5,0.00012905968907645545,0.7727272727272727
+Retail,Dakahlia,25-34,Not specified,Direct / WhatsApp,Opted-in,4,3,3123.75,3,0,7.413874848790825e-06,1.0
+Retail,Dakahlia,25-34,Not specified,Google Search,Opted-in,2,2,1671.6,1,1,3.967357566142855e-06,0.5
+Retail,Dakahlia,25-34,Not specified,Organic Social,Opted-in,4,3,6296.6,3,0,1.4944283112571848e-05,1.0
+Retail,Dakahlia,25-34,Not specified,Paid Social,Not opted-in,2,1,956.35,1,0,2.269790864070782e-06,1.0
+Retail,Dakahlia,25-34,Not specified,Paid Social,Opted-in,1,1,348.0,0,1,8.259394789529274e-07,0.0
+Retail,Dakahlia,25-34,Not specified,Referral,Not opted-in,1,1,1975.75,1,0,4.6892239239690984e-06,1.0
+Retail,Dakahlia,25-34,Not specified,Store Walk-in,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Dakahlia,25-34,Not specified,Store Walk-in,Opted-in,4,3,7040.1,3,0,1.670889806257616e-05,1.0
+Retail,Dakahlia,35-44,Female,Direct / WhatsApp,Not opted-in,32,26,40332.3,20,6,9.57242495602677e-05,0.7692307692307693
+Retail,Dakahlia,35-44,Female,Direct / WhatsApp,Opted-in,54,45,257778.47,38,7,0.0006118086643594334,0.8444444444444444
+Retail,Dakahlia,35-44,Female,Google Search,Not opted-in,20,18,48318.95,16,2,0.00011467967927170273,0.8888888888888888
+Retail,Dakahlia,35-44,Female,Google Search,Opted-in,22,18,34810.45,15,3,8.26187498135544e-05,0.8333333333333334
+Retail,Dakahlia,35-44,Female,Organic Social,Not opted-in,21,17,57660.74,16,1,0.00013685138376908108,0.9411764705882353
+Retail,Dakahlia,35-44,Female,Organic Social,Opted-in,60,50,200596.23,45,5,0.0004760929473739126,0.9
+Retail,Dakahlia,35-44,Female,Paid Social,Not opted-in,29,22,56558.700000000004,17,5,0.00013423581381682455,0.7727272727272727
+Retail,Dakahlia,35-44,Female,Paid Social,Opted-in,40,32,115228.36,28,4,0.00027348175752586306,0.875
+Retail,Dakahlia,35-44,Female,Referral,Not opted-in,5,5,10449.6,4,1,2.480096890593825e-05,0.8
+Retail,Dakahlia,35-44,Female,Referral,Opted-in,21,19,121202.6,18,1,0.0002876609548613221,0.9473684210526315
+Retail,Dakahlia,35-44,Female,Store Walk-in,Not opted-in,23,21,56861.19,16,5,0.0001349537403484006,0.7619047619047619
+Retail,Dakahlia,35-44,Female,Store Walk-in,Opted-in,43,32,82409.05,30,2,0.00019558875809771767,0.9375
+Retail,Dakahlia,35-44,Male,Direct / WhatsApp,Not opted-in,10,10,60782.01,8,2,0.00014425937261238972,0.8
+Retail,Dakahlia,35-44,Male,Direct / WhatsApp,Opted-in,24,20,64055.2,16,4,0.00015202792675926883,0.8
+Retail,Dakahlia,35-44,Male,Google Search,Not opted-in,7,7,48358.380000000005,7,0,0.00011477326201209101,1.0
+Retail,Dakahlia,35-44,Male,Google Search,Opted-in,16,13,29950.7,13,0,7.10846711272283e-05,1.0
+Retail,Dakahlia,35-44,Male,Organic Social,Not opted-in,14,10,33518.409999999996,9,1,7.955223589290399e-05,0.9
+Retail,Dakahlia,35-44,Male,Organic Social,Opted-in,26,23,53184.700000000004,20,3,0.00012622799829387288,0.8695652173913043
+Retail,Dakahlia,35-44,Male,Paid Social,Not opted-in,8,8,64748.41,7,1,0.00015367318396100724,0.875
+Retail,Dakahlia,35-44,Male,Paid Social,Opted-in,15,14,72032.89,12,2,0.00017096209090251016,0.8571428571428571
+Retail,Dakahlia,35-44,Male,Referral,Not opted-in,2,2,6273.400000000001,2,0,1.4889220480641654e-05,1.0
+Retail,Dakahlia,35-44,Male,Referral,Opted-in,5,4,7647.45,2,2,1.815037605838668e-05,0.5
+Retail,Dakahlia,35-44,Male,Store Walk-in,Not opted-in,17,16,69374.56999999999,14,2,0.0001646528626390327,0.875
+Retail,Dakahlia,35-44,Male,Store Walk-in,Opted-in,17,15,39491.65,10,5,9.372905983905568e-05,0.6666666666666666
+Retail,Dakahlia,35-44,Not specified,Direct / WhatsApp,Not opted-in,1,1,3734.35,1,0,8.863066359850186e-06,1.0
+Retail,Dakahlia,35-44,Not specified,Direct / WhatsApp,Opted-in,1,1,997.25,1,0,2.366862486740824e-06,1.0
+Retail,Dakahlia,35-44,Not specified,Google Search,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Dakahlia,35-44,Not specified,Google Search,Opted-in,2,2,1382.65,1,1,3.2815667257881184e-06,0.5
+Retail,Dakahlia,35-44,Not specified,Organic Social,Not opted-in,1,1,3061.5,1,0,7.266131364409159e-06,1.0
+Retail,Dakahlia,35-44,Not specified,Organic Social,Opted-in,1,1,1453.0,1,0,3.4485346635592054e-06,1.0
+Retail,Dakahlia,35-44,Not specified,Paid Social,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Dakahlia,35-44,Not specified,Paid Social,Opted-in,3,2,5372.95,2,0,1.2752102078850953e-05,1.0
+Retail,Dakahlia,35-44,Not specified,Referral,Not opted-in,2,2,4501.2,2,0,1.0683099950180796e-05,1.0
+Retail,Dakahlia,35-44,Not specified,Referral,Opted-in,1,1,3673.6000000000004,1,0,8.718882959429525e-06,1.0
+Retail,Dakahlia,35-44,Not specified,Store Walk-in,Not opted-in,1,1,1386.2,1,0,3.289992257829161e-06,1.0
+Retail,Dakahlia,35-44,Not specified,Store Walk-in,Opted-in,2,2,3395.9,2,0,8.059792748782318e-06,1.0
+Retail,Dakahlia,45-54,Female,Direct / WhatsApp,Not opted-in,6,6,16435.350000000002,6,0,3.900748395232471e-05,1.0
+Retail,Dakahlia,45-54,Female,Direct / WhatsApp,Opted-in,22,17,37692.8,13,4,8.945968848355432e-05,0.7647058823529411
+Retail,Dakahlia,45-54,Female,Google Search,Not opted-in,9,8,16809.45,8,0,3.98953688921991e-05,1.0
+Retail,Dakahlia,45-54,Female,Google Search,Opted-in,15,14,58262.15,12,2,0.00013827876383240605,0.8571428571428571
+Retail,Dakahlia,45-54,Female,Organic Social,Not opted-in,18,14,52091.15,11,3,0.0001236325784168356,0.7857142857142857
+Retail,Dakahlia,45-54,Female,Organic Social,Opted-in,18,15,24835.4,11,4,5.894407280341246e-05,0.7333333333333333
+Retail,Dakahlia,45-54,Female,Paid Social,Not opted-in,12,10,47209.6,9,1,0.00011204675984360955,0.9
+Retail,Dakahlia,45-54,Female,Paid Social,Opted-in,22,16,30971.350000000002,12,4,7.350707092376077e-05,0.75
+Retail,Dakahlia,45-54,Female,Referral,Not opted-in,11,9,35046.7,8,1,8.317946303741253e-05,0.8888888888888888
+Retail,Dakahlia,45-54,Female,Referral,Opted-in,9,6,13641.2,5,1,3.237587821923182e-05,0.8333333333333334
+Retail,Dakahlia,45-54,Female,Store Walk-in,Not opted-in,16,14,78305.78,12,2,0.00018585010095460507,0.8571428571428571
+Retail,Dakahlia,45-54,Female,Store Walk-in,Opted-in,20,15,103258.82999999999,14,1,0.0002450734030100256,0.9333333333333333
+Retail,Dakahlia,45-54,Male,Direct / WhatsApp,Not opted-in,9,8,7352.6,6,2,1.7450582221118662e-05,0.75
+Retail,Dakahlia,45-54,Male,Direct / WhatsApp,Opted-in,10,10,23717.75,10,0,5.629145424406837e-05,1.0
+Retail,Dakahlia,45-54,Male,Google Search,Not opted-in,3,3,12923.75,3,0,3.067309006068361e-05,1.0
+Retail,Dakahlia,45-54,Male,Google Search,Opted-in,10,7,55515.88,7,0,0.0001317607959793484,1.0
+Retail,Dakahlia,45-54,Male,Organic Social,Not opted-in,6,5,7069.800000000001,3,2,1.6779387725004043e-05,0.6
+Retail,Dakahlia,45-54,Male,Organic Social,Opted-in,12,9,19905.5,7,2,4.724350085717672e-05,0.7777777777777778
+Retail,Dakahlia,45-54,Male,Paid Social,Not opted-in,5,4,8126.049999999999,4,0,1.9286280180877686e-05,1.0
+Retail,Dakahlia,45-54,Male,Paid Social,Opted-in,12,10,45302.25,8,2,0.00010751987574826224,0.8
+Retail,Dakahlia,45-54,Male,Referral,Not opted-in,4,4,19768.329999999998,4,0,4.691794304588943e-05,1.0
+Retail,Dakahlia,45-54,Male,Referral,Opted-in,4,3,20088.5,3,0,4.76778311004192e-05,1.0
+Retail,Dakahlia,45-54,Male,Store Walk-in,Not opted-in,5,4,12498.449999999999,2,2,2.9663687588273607e-05,0.5
+Retail,Dakahlia,45-54,Male,Store Walk-in,Opted-in,11,10,25320.75,9,1,6.009599730372798e-05,0.9
+Retail,Dakahlia,45-54,Not specified,Direct / WhatsApp,Opted-in,3,3,3149.9500000000003,2,1,7.4760576486430284e-06,0.6666666666666666
+Retail,Dakahlia,45-54,Not specified,Organic Social,Not opted-in,2,2,5045.3,2,0,1.1974461072302313e-05,1.0
+Retail,Dakahlia,45-54,Not specified,Organic Social,Opted-in,1,1,2160.2,1,0,5.1269955817072236e-06,1.0
+Retail,Dakahlia,45-54,Not specified,Paid Social,Not opted-in,1,1,8759.15,1,0,2.078887295135211e-05,1.0
+Retail,Dakahlia,45-54,Not specified,Referral,Opted-in,1,1,295.0,0,1,7.001498456641195e-07,0.0
+Retail,Dakahlia,45-54,Not specified,Store Walk-in,Not opted-in,1,1,7470.05,1,0,1.7729336795265273e-05,1.0
+Retail,Dakahlia,45-54,Not specified,Store Walk-in,Opted-in,1,1,776.0,0,1,1.8417501024927347e-06,0.0
+Retail,Dakahlia,55+,Female,Direct / WhatsApp,Not opted-in,7,6,43179.21000000001,6,0,0.00010248107531321562,1.0
+Retail,Dakahlia,55+,Female,Direct / WhatsApp,Opted-in,10,10,61863.009999999995,9,1,0.00014682500645361992,0.9
+Retail,Dakahlia,55+,Female,Google Search,Opted-in,4,3,4072.7,1,2,9.66610263198732e-06,0.3333333333333333
+Retail,Dakahlia,55+,Female,Organic Social,Not opted-in,4,4,29589.539999999997,4,0,7.022749784499081e-05,1.0
+Retail,Dakahlia,55+,Female,Organic Social,Opted-in,6,6,9351.3,5,1,2.219427542969112e-05,0.8333333333333334
+Retail,Dakahlia,55+,Female,Paid Social,Not opted-in,5,3,8378.15,3,0,1.9884611625257095e-05,1.0
+Retail,Dakahlia,55+,Female,Paid Social,Opted-in,10,9,21940.35,7,2,5.207299208920937e-05,0.7777777777777778
+Retail,Dakahlia,55+,Female,Referral,Not opted-in,5,4,27294.36,3,1,6.478014217457939e-05,0.75
+Retail,Dakahlia,55+,Female,Referral,Opted-in,3,2,3272.1,1,1,7.76596715253412e-06,0.5
+Retail,Dakahlia,55+,Female,Store Walk-in,Not opted-in,6,4,8878.3,3,1,2.1071662287321192e-05,0.75
+Retail,Dakahlia,55+,Female,Store Walk-in,Opted-in,10,6,20914.05,5,1,4.9637182643090436e-05,0.8333333333333334
+Retail,Dakahlia,55+,Male,Direct / WhatsApp,Not opted-in,5,4,21849.300000000003,2,2,5.1856894992776436e-05,0.5
+Retail,Dakahlia,55+,Male,Direct / WhatsApp,Opted-in,6,6,33497.99,6,0,7.95037712832482e-05,1.0
+Retail,Dakahlia,55+,Male,Google Search,Not opted-in,3,2,2980.7,1,1,7.07436150837641e-06,0.5
+Retail,Dakahlia,55+,Male,Google Search,Opted-in,3,2,25256.86,2,0,5.994436146088228e-05,1.0
+Retail,Dakahlia,55+,Male,Organic Social,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Dakahlia,55+,Male,Organic Social,Opted-in,3,2,10939.95,2,0,2.5964760352790456e-05,1.0
+Retail,Dakahlia,55+,Male,Paid Social,Not opted-in,2,2,4202.049999999999,2,0,9.97310053889123e-06,1.0
+Retail,Dakahlia,55+,Male,Paid Social,Opted-in,3,1,1746.3,1,0,4.1446497474008535e-06,1.0
+Retail,Dakahlia,55+,Male,Referral,Not opted-in,2,2,5915.75,2,0,1.4040377794872932e-05,1.0
+Retail,Dakahlia,55+,Male,Referral,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Dakahlia,55+,Male,Store Walk-in,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Dakahlia,55+,Male,Store Walk-in,Opted-in,2,2,5213.75,2,0,1.2374258501123062e-05,1.0
+Retail,Dakahlia,55+,Not specified,Direct / WhatsApp,Opted-in,1,1,4953.7,1,0,1.1757058611750335e-05,1.0
+Retail,Dakahlia,55+,Not specified,Store Walk-in,Not opted-in,1,1,4919.05,1,0,1.1674820672251143e-05,1.0
+Retail,Dakahlia,55+,Not specified,Store Walk-in,Opted-in,2,2,8942.4,2,0,2.122379654192143e-05,1.0
+Retail,Damietta,18-24,Female,Direct / WhatsApp,Not opted-in,2,2,6929.65,2,0,1.64467572135809e-05,1.0
+Retail,Damietta,18-24,Female,Direct / WhatsApp,Opted-in,6,6,14948.75,6,0,3.5479203408039005e-05,1.0
+Retail,Damietta,18-24,Female,Google Search,Opted-in,2,1,299.0,0,1,7.096434028934635e-07,0.0
+Retail,Damietta,18-24,Female,Organic Social,Not opted-in,3,3,5870.5,3,0,1.3932981928715978e-05,1.0
+Retail,Damietta,18-24,Female,Organic Social,Opted-in,5,4,16463.800000000003,4,0,3.907500687811842e-05,1.0
+Retail,Damietta,18-24,Female,Referral,Not opted-in,1,1,2087.5,1,0,4.954450179063896e-06,1.0
+Retail,Damietta,18-24,Female,Referral,Opted-in,2,2,4307.5,2,0,1.0223374441349812e-05,1.0
+Retail,Damietta,18-24,Female,Store Walk-in,Not opted-in,3,2,7879.3,2,0,1.8700646369292532e-05,1.0
+Retail,Damietta,18-24,Female,Store Walk-in,Opted-in,5,5,18809.4,5,0,4.4642028837405734e-05,1.0
+Retail,Damietta,18-24,Male,Direct / WhatsApp,Opted-in,1,1,1044.0,0,1,2.4778184368587823e-06,0.0
+Retail,Damietta,18-24,Male,Google Search,Opted-in,1,1,556.8,0,1,1.3215031663246838e-06,0.0
+Retail,Damietta,18-24,Male,Organic Social,Not opted-in,2,2,6102.2,2,0,1.448289623122573e-05,1.0
+Retail,Damietta,18-24,Male,Organic Social,Opted-in,2,2,1217.35,1,1,2.8892454732854775e-06,0.5
+Retail,Damietta,18-24,Male,Paid Social,Not opted-in,2,2,633.25,0,2,1.502948778870521e-06,0.0
+Retail,Damietta,18-24,Male,Paid Social,Opted-in,3,3,3831.6,3,0,9.09387846998861e-06,1.0
+Retail,Damietta,18-24,Male,Referral,Not opted-in,1,1,1697.0500000000002,1,0,4.0277603240145565e-06,1.0
+Retail,Damietta,18-24,Male,Referral,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Damietta,18-24,Male,Store Walk-in,Opted-in,3,2,4989.05,1,1,1.1840957923764662e-05,0.5
+Retail,Damietta,18-24,Not specified,Store Walk-in,Not opted-in,1,1,3160.0,1,0,7.4999102111817545e-06,1.0
+Retail,Damietta,25-34,Female,Direct / WhatsApp,Not opted-in,9,8,18991.65,6,2,4.507457903866772e-05,0.75
+Retail,Damietta,25-34,Female,Direct / WhatsApp,Opted-in,23,16,43978.85,13,3,0.00010437893233893377,0.8125
+Retail,Damietta,25-34,Female,Google Search,Not opted-in,7,6,16957.6,6,0,4.0246986518080924e-05,1.0
+Retail,Damietta,25-34,Female,Google Search,Opted-in,9,6,10603.65,3,3,2.516658952873336e-05,0.5
+Retail,Damietta,25-34,Female,Organic Social,Not opted-in,13,9,63311.950000000004,8,1,0.00015026390515659137,0.8888888888888888
+Retail,Damietta,25-34,Female,Organic Social,Opted-in,21,18,56548.65,13,5,0.0001342119612542858,0.7222222222222222
+Retail,Damietta,25-34,Female,Paid Social,Not opted-in,10,9,26634.75,7,2,6.321463085356749e-05,0.7777777777777778
+Retail,Damietta,25-34,Female,Paid Social,Opted-in,12,10,26367.25,10,0,6.25797492138551e-05,1.0
+Retail,Damietta,25-34,Female,Referral,Not opted-in,3,3,9289.4,2,1,2.204736263156702e-05,0.6666666666666666
+Retail,Damietta,25-34,Female,Referral,Opted-in,9,7,43332.54,7,0,0.00010284498709570944,1.0
+Retail,Damietta,25-34,Female,Store Walk-in,Not opted-in,11,10,31743.95,9,1,7.534075150260856e-05,0.9
+Retail,Damietta,25-34,Female,Store Walk-in,Opted-in,20,18,105499.37,18,0,0.0002503910766886842,1.0
+Retail,Damietta,25-34,Male,Direct / WhatsApp,Not opted-in,8,7,12336.65,5,2,2.9279673198346642e-05,0.7142857142857143
+Retail,Damietta,25-34,Male,Direct / WhatsApp,Opted-in,10,6,12536.05,5,1,2.975292702622944e-05,0.8333333333333334
+Retail,Damietta,25-34,Male,Google Search,Not opted-in,4,4,10766.3,4,0,2.5552621299571556e-05,1.0
+Retail,Damietta,25-34,Male,Google Search,Opted-in,2,0,0.0,0,0,0.0,
+Retail,Damietta,25-34,Male,Organic Social,Not opted-in,6,3,5463.1,2,1,1.2966063124907293e-05,0.6666666666666666
+Retail,Damietta,25-34,Male,Organic Social,Opted-in,11,10,16114.2,9,1,3.824526997627375e-05,0.9
+Retail,Damietta,25-34,Male,Paid Social,Not opted-in,6,6,7815.3,4,2,1.8548749453623028e-05,0.6666666666666666
+Retail,Damietta,25-34,Male,Paid Social,Opted-in,8,7,12820.2,4,3,3.0427325597908968e-05,0.5714285714285714
+Retail,Damietta,25-34,Male,Referral,Not opted-in,1,1,3775.85,1,0,8.961562016104629e-06,1.0
+Retail,Damietta,25-34,Male,Referral,Opted-in,5,5,9266.75,5,0,2.1993605363755862e-05,1.0
+Retail,Damietta,25-34,Male,Store Walk-in,Not opted-in,5,2,6113.2,2,0,1.4509003513606425e-05,1.0
+Retail,Damietta,25-34,Male,Store Walk-in,Opted-in,6,5,26422.15,3,2,6.271004828682785e-05,0.6
+Retail,Damietta,25-34,Not specified,Direct / WhatsApp,Opted-in,1,1,3053.2,1,0,7.24643223315827e-06,1.0
+Retail,Damietta,25-34,Not specified,Google Search,Not opted-in,1,1,13177.800000000001,1,0,3.127604961421232e-05,1.0
+Retail,Damietta,25-34,Not specified,Google Search,Opted-in,1,1,4887.8,1,0,1.1600652256396893e-05,1.0
+Retail,Damietta,25-34,Not specified,Paid Social,Opted-in,1,1,3524.4,1,0,8.364773274774992e-06,1.0
+Retail,Damietta,25-34,Not specified,Store Walk-in,Not opted-in,2,0,0.0,0,0,0.0,
+Retail,Damietta,25-34,Not specified,Store Walk-in,Opted-in,3,3,5463.0,3,0,1.2965825785976558e-05,1.0
+Retail,Damietta,35-44,Female,Direct / WhatsApp,Not opted-in,8,8,58815.549999999996,8,0,0.00013959219747508578,1.0
+Retail,Damietta,35-44,Female,Direct / WhatsApp,Opted-in,15,14,36299.05,9,5,8.615177713645478e-05,0.6428571428571429
+Retail,Damietta,35-44,Female,Google Search,Not opted-in,5,4,6355.2,3,1,1.5083363725981736e-05,0.75
+Retail,Damietta,35-44,Female,Google Search,Opted-in,10,8,22441.8,6,2,5.326312815737301e-05,0.75
+Retail,Damietta,35-44,Female,Organic Social,Not opted-in,9,5,16901.65,5,0,4.011419538633548e-05,1.0
+Retail,Damietta,35-44,Female,Organic Social,Opted-in,16,14,26527.25,11,3,6.295949150302886e-05,0.7857142857142857
+Retail,Damietta,35-44,Female,Paid Social,Not opted-in,5,5,7036.3,3,2,1.6699879183208285e-05,0.6
+Retail,Damietta,35-44,Female,Paid Social,Opted-in,8,7,29493.35,6,1,6.999920152751816e-05,0.8571428571428571
+Retail,Damietta,35-44,Female,Referral,Not opted-in,4,3,5834.55,2,1,1.384765858311725e-05,0.6666666666666666
+Retail,Damietta,35-44,Female,Referral,Opted-in,7,6,15888.25,6,0,3.770900266228118e-05,1.0
+Retail,Damietta,35-44,Female,Store Walk-in,Not opted-in,5,4,16735.4,4,0,3.971961941399087e-05,1.0
+Retail,Damietta,35-44,Female,Store Walk-in,Opted-in,19,16,83429.64,13,3,0.0001980110154908917,0.8125
+Retail,Damietta,35-44,Male,Direct / WhatsApp,Not opted-in,5,4,9854.5,3,1,2.3388564929142596e-05,0.75
+Retail,Damietta,35-44,Male,Direct / WhatsApp,Opted-in,8,8,27615.1,6,2,6.554138306101432e-05,0.75
+Retail,Damietta,35-44,Male,Google Search,Not opted-in,2,1,867.0,0,1,2.0577285294603106e-06,0.0
+Retail,Damietta,35-44,Male,Google Search,Opted-in,1,1,1209.2,1,0,2.8699023504306892e-06,1.0
+Retail,Damietta,35-44,Male,Organic Social,Not opted-in,2,2,5953.1,1,1,1.4129023885501932e-05,0.5
+Retail,Damietta,35-44,Male,Organic Social,Opted-in,7,7,10617.4,5,2,2.5199223631709227e-05,0.7142857142857143
+Retail,Damietta,35-44,Male,Paid Social,Not opted-in,4,4,14850.019999999999,3,1,3.524487868172572e-05,0.75
+Retail,Damietta,35-44,Male,Paid Social,Opted-in,7,7,28060.4,7,0,6.659825331957105e-05,1.0
+Retail,Damietta,35-44,Male,Referral,Opted-in,5,5,13790.2,5,0,3.272951322602489e-05,1.0
+Retail,Damietta,35-44,Male,Store Walk-in,Not opted-in,3,2,4589.35,2,0,1.0892314217622465e-05,1.0
+Retail,Damietta,35-44,Male,Store Walk-in,Opted-in,6,6,15421.050000000001,6,0,3.66001551778938e-05,1.0
+Retail,Damietta,35-44,Not specified,Google Search,Not opted-in,1,1,2596.9,1,0,6.1634546922208544e-06,1.0
+Retail,Damietta,35-44,Not specified,Organic Social,Opted-in,1,1,3670.7,1,0,8.712000130438248e-06,1.0
+Retail,Damietta,35-44,Not specified,Paid Social,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Damietta,35-44,Not specified,Paid Social,Opted-in,1,1,698.4,0,1,1.6575750922434613e-06,0.0
+Retail,Damietta,35-44,Not specified,Store Walk-in,Opted-in,1,1,4779.9,1,0,1.1344563550135338e-05,1.0
+Retail,Damietta,45-54,Female,Direct / WhatsApp,Not opted-in,3,3,10323.35,3,0,2.450132850588708e-05,1.0
+Retail,Damietta,45-54,Female,Direct / WhatsApp,Opted-in,8,8,15365.550000000001,8,0,3.646843207133665e-05,1.0
+Retail,Damietta,45-54,Female,Google Search,Not opted-in,3,2,2089.6,2,0,4.9594342966093015e-06,1.0
+Retail,Damietta,45-54,Female,Google Search,Opted-in,5,5,41597.16,5,0,9.872625475954471e-05,1.0
+Retail,Damietta,45-54,Female,Organic Social,Not opted-in,5,5,52156.950000000004,4,1,0.0001237887474332583,0.8
+Retail,Damietta,45-54,Female,Organic Social,Opted-in,5,5,22918.55,5,0,5.439464150964544e-05,1.0
+Retail,Damietta,45-54,Female,Paid Social,Not opted-in,4,3,2036.15,2,1,4.832576638132193e-06,0.6666666666666666
+Retail,Damietta,45-54,Female,Paid Social,Opted-in,4,2,4772.4,2,0,1.1326763130330317e-05,1.0
+Retail,Damietta,45-54,Female,Referral,Not opted-in,5,5,5006.0,3,2,1.1881186872524008e-05,0.6
+Retail,Damietta,45-54,Female,Referral,Opted-in,5,5,8255.95,3,2,1.9594583451900636e-05,0.6
+Retail,Damietta,45-54,Female,Store Walk-in,Not opted-in,4,4,11772.45,4,0,2.7940606951147677e-05,1.0
+Retail,Damietta,45-54,Female,Store Walk-in,Opted-in,8,7,13746.45,4,3,3.262567744382894e-05,0.5714285714285714
+Retail,Damietta,45-54,Male,Direct / WhatsApp,Not opted-in,1,1,1820.9,1,0,4.32170458972812e-06,1.0
+Retail,Damietta,45-54,Male,Direct / WhatsApp,Opted-in,1,1,619.0,1,0,1.469127981240983e-06,1.0
+Retail,Damietta,45-54,Male,Google Search,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Damietta,45-54,Male,Google Search,Opted-in,2,2,8204.7,2,0,1.9472947249899666e-05,1.0
+Retail,Damietta,45-54,Male,Organic Social,Not opted-in,2,2,5052.2,2,0,1.199083745852293e-05,1.0
+Retail,Damietta,45-54,Male,Organic Social,Opted-in,3,3,2339.2,3,0,5.551832267720367e-06,1.0
+Retail,Damietta,45-54,Male,Paid Social,Not opted-in,2,2,4819.9,2,0,1.1439499122428777e-05,1.0
+Retail,Damietta,45-54,Male,Paid Social,Opted-in,2,1,6766.4,1,0,1.60593014091583e-05,1.0
+Retail,Damietta,45-54,Male,Referral,Opted-in,1,1,1140.6,1,0,2.7070878439474393e-06,1.0
+Retail,Damietta,45-54,Male,Store Walk-in,Not opted-in,4,3,6454.449999999999,2,1,1.5318922614734832e-05,0.6666666666666666
+Retail,Damietta,45-54,Male,Store Walk-in,Opted-in,6,5,7316.0,5,0,1.7363716172470164e-05,1.0
+Retail,Damietta,45-54,Not specified,Direct / WhatsApp,Opted-in,1,1,645.0,1,0,1.530836103231719e-06,1.0
+Retail,Damietta,45-54,Not specified,Organic Social,Opted-in,1,1,2741.0,1,0,6.505460091407972e-06,1.0
+Retail,Damietta,45-54,Not specified,Paid Social,Opted-in,1,1,738.5,1,0,1.7527480034676347e-06,1.0
+Retail,Damietta,55+,Female,Direct / WhatsApp,Not opted-in,3,0,0.0,0,0,0.0,
+Retail,Damietta,55+,Female,Google Search,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Damietta,55+,Female,Organic Social,Not opted-in,1,1,310.4,0,1,7.367000409970938e-07,0.0
+Retail,Damietta,55+,Female,Organic Social,Opted-in,6,6,12657.1,5,1,3.0040225801882465e-05,0.8333333333333334
+Retail,Damietta,55+,Female,Paid Social,Not opted-in,2,1,2351.7,1,0,5.581499634062067e-06,1.0
+Retail,Damietta,55+,Female,Paid Social,Opted-in,6,6,8936.45,5,1,2.1209674875542785e-05,0.8333333333333334
+Retail,Damietta,55+,Female,Referral,Not opted-in,2,1,2262.6,1,0,5.37003064677843e-06,1.0
+Retail,Damietta,55+,Female,Referral,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Damietta,55+,Female,Store Walk-in,Not opted-in,2,2,6082.35,2,0,1.443578445347511e-05,1.0
+Retail,Damietta,55+,Female,Store Walk-in,Opted-in,2,2,7060.05,2,0,1.6756247179257514e-05,1.0
+Retail,Damietta,55+,Male,Direct / WhatsApp,Not opted-in,1,1,627.6,1,0,1.4895391292840727e-06,1.0
+Retail,Damietta,55+,Male,Direct / WhatsApp,Opted-in,4,3,7583.05,3,0,1.7997529786994243e-05,1.0
+Retail,Damietta,55+,Male,Google Search,Not opted-in,1,1,2121.1,1,0,5.034196059790386e-06,1.0
+Retail,Damietta,55+,Male,Google Search,Opted-in,1,1,1267.55,1,0,3.0083896165137444e-06,1.0
+Retail,Damietta,55+,Male,Organic Social,Opted-in,1,1,5074.6,1,0,1.2044001379007258e-05,1.0
+Retail,Damietta,55+,Male,Paid Social,Opted-in,2,1,1459.0,1,0,3.4627749994032217e-06,1.0
+Retail,Damietta,55+,Male,Store Walk-in,Not opted-in,1,1,1565.55,1,0,3.715659630099872e-06,1.0
+Retail,Damietta,55+,Male,Store Walk-in,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Gharbia,18-24,Female,Direct / WhatsApp,Not opted-in,10,9,16929.45,7,2,4.018017560907942e-05,0.7777777777777778
+Retail,Gharbia,18-24,Female,Direct / WhatsApp,Opted-in,10,7,6629.75,4,3,1.5734977760310836e-05,0.5714285714285714
+Retail,Gharbia,18-24,Female,Google Search,Not opted-in,1,1,2045.5,1,0,4.854767828155785e-06,1.0
+Retail,Gharbia,18-24,Female,Google Search,Opted-in,8,4,15943.27,3,1,3.7839586541970804e-05,0.75
+Retail,Gharbia,18-24,Female,Organic Social,Not opted-in,7,5,21117.050000000003,3,2,5.011898067247965e-05,0.6
+Retail,Gharbia,18-24,Female,Organic Social,Opted-in,12,11,47187.25,11,0,0.00011199371459259058,1.0
+Retail,Gharbia,18-24,Female,Paid Social,Not opted-in,6,6,18218.85,5,1,4.324042378195845e-05,0.8333333333333334
+Retail,Gharbia,18-24,Female,Paid Social,Opted-in,11,9,22125.05,8,1,5.251135709427433e-05,0.8888888888888888
+Retail,Gharbia,18-24,Female,Referral,Not opted-in,1,1,348.0,0,1,8.259394789529274e-07,0.0
+Retail,Gharbia,18-24,Female,Referral,Opted-in,9,7,65537.7,6,1,0.00015554647640739444,0.8571428571428571
+Retail,Gharbia,18-24,Female,Store Walk-in,Not opted-in,1,1,926.0,1,0,2.1977584985931344e-06,1.0
+Retail,Gharbia,18-24,Female,Store Walk-in,Opted-in,8,8,24613.65,6,2,5.8417773724510696e-05,0.75
+Retail,Gharbia,18-24,Male,Direct / WhatsApp,Not opted-in,3,3,27240.28,3,0,6.465178928083865e-05,1.0
+Retail,Gharbia,18-24,Male,Direct / WhatsApp,Opted-in,6,5,9261.3,4,1,2.198067039203088e-05,0.8
+Retail,Gharbia,18-24,Male,Google Search,Not opted-in,2,2,6657.85,1,1,1.5801669999846978e-05,0.5
+Retail,Gharbia,18-24,Male,Google Search,Opted-in,4,4,6820.1,4,0,1.6186752414962245e-05,1.0
+Retail,Gharbia,18-24,Male,Organic Social,Not opted-in,4,4,9995.4,3,1,2.372297548254624e-05,0.75
+Retail,Gharbia,18-24,Male,Organic Social,Opted-in,4,2,5364.25,2,0,1.273145359187713e-05,1.0
+Retail,Gharbia,18-24,Male,Paid Social,Not opted-in,3,3,21866.97,3,0,5.189883278183706e-05,1.0
+Retail,Gharbia,18-24,Male,Paid Social,Opted-in,1,1,649.8,1,0,1.5422283719069317e-06,1.0
+Retail,Gharbia,18-24,Male,Referral,Not opted-in,1,1,1302.55,1,0,3.0914582422705045e-06,1.0
+Retail,Gharbia,18-24,Male,Referral,Opted-in,1,1,280.25,0,1,6.651423533809136e-07,0.0
+Retail,Gharbia,18-24,Male,Store Walk-in,Not opted-in,1,1,3231.5,1,0,7.669607546656278e-06,1.0
+Retail,Gharbia,18-24,Male,Store Walk-in,Opted-in,6,5,11278.15,4,1,2.6767440616531487e-05,0.8
+Retail,Gharbia,18-24,Not specified,Direct / WhatsApp,Opted-in,1,1,1134.2,1,0,2.6918981523804894e-06,1.0
+Retail,Gharbia,25-34,Female,Direct / WhatsApp,Not opted-in,31,28,62301.35,21,7,0.0001478653579225976,0.75
+Retail,Gharbia,25-34,Female,Direct / WhatsApp,Opted-in,64,50,236421.81,43,7,0.000561120995875023,0.86
+Retail,Gharbia,25-34,Female,Google Search,Not opted-in,31,28,72777.6,24,4,0.00017272957765357636,0.8571428571428571
+Retail,Gharbia,25-34,Female,Google Search,Opted-in,25,22,81540.43,20,2,0.00019352718467757944,0.9090909090909091
+Retail,Gharbia,25-34,Female,Organic Social,Not opted-in,34,27,109241.5,25,2,0.00025927260801734546,0.9259259259259259
+Retail,Gharbia,25-34,Female,Organic Social,Opted-in,52,44,136306.96,39,5,0.0003235094813794756,0.8863636363636364
+Retail,Gharbia,25-34,Female,Paid Social,Not opted-in,27,24,133823.62,21,3,0.00031761554877699584,0.875
+Retail,Gharbia,25-34,Female,Paid Social,Opted-in,56,52,148797.71,47,5,0.0003531548938700827,0.9038461538461539
+Retail,Gharbia,25-34,Female,Referral,Not opted-in,20,17,51837.39,13,4,0.000123030307146206,0.7647058823529411
+Retail,Gharbia,25-34,Female,Referral,Opted-in,19,15,62445.649999999994,9,6,0.00014820783799964618,0.6
+Retail,Gharbia,25-34,Female,Store Walk-in,Not opted-in,28,23,68396.29000000001,17,6,0.00016233102334745208,0.7391304347826086
+Retail,Gharbia,25-34,Female,Store Walk-in,Opted-in,47,39,97787.15,37,2,0.00023208697620486136,0.9487179487179487
+Retail,Gharbia,25-34,Male,Direct / WhatsApp,Not opted-in,12,10,26684.15,8,2,6.333187628534989e-05,0.8
+Retail,Gharbia,25-34,Male,Direct / WhatsApp,Opted-in,36,28,116368.19,25,3,0.00027618701786004385,0.8928571428571429
+Retail,Gharbia,25-34,Male,Google Search,Not opted-in,12,12,42181.57,12,0,0.00010011328720464492,1.0
+Retail,Gharbia,25-34,Male,Google Search,Opted-in,18,15,35249.65,11,4,8.366114239733638e-05,0.7333333333333333
+Retail,Gharbia,25-34,Male,Organic Social,Not opted-in,11,8,33164.65,7,1,7.871262569154082e-05,0.875
+Retail,Gharbia,25-34,Male,Organic Social,Opted-in,25,18,61762.15,15,3,0.00014658562640808203,0.8333333333333334
+Retail,Gharbia,25-34,Male,Paid Social,Not opted-in,10,7,11494.4,4,3,2.72806860542429e-05,0.5714285714285714
+Retail,Gharbia,25-34,Male,Paid Social,Opted-in,22,16,70189.72,15,1,0.00016658753093290766,0.9375
+Retail,Gharbia,25-34,Male,Referral,Not opted-in,7,5,10894.050000000001,4,1,2.5855821783583737e-05,0.8
+Retail,Gharbia,25-34,Male,Referral,Opted-in,10,9,25550.03,6,3,6.064016800411397e-05,0.6666666666666666
+Retail,Gharbia,25-34,Male,Store Walk-in,Not opted-in,11,10,104355.41,7,3,0.0002476760142566641,0.7
+Retail,Gharbia,25-34,Male,Store Walk-in,Opted-in,23,20,37021.15,16,4,8.78656015552821e-05,0.8
+Retail,Gharbia,25-34,Not specified,Direct / WhatsApp,Not opted-in,1,1,946.0,1,0,2.2452262847398542e-06,1.0
+Retail,Gharbia,25-34,Not specified,Direct / WhatsApp,Opted-in,6,6,36875.64,5,1,8.752024967717163e-05,0.8333333333333334
+Retail,Gharbia,25-34,Not specified,Google Search,Not opted-in,1,1,3586.0,1,0,8.51097405610689e-06,1.0
+Retail,Gharbia,25-34,Not specified,Organic Social,Not opted-in,1,1,4733.0,1,0,1.123325159162128e-05,1.0
+Retail,Gharbia,25-34,Not specified,Organic Social,Opted-in,6,6,8972.25,3,3,2.1294642212745412e-05,0.5
+Retail,Gharbia,25-34,Not specified,Paid Social,Opted-in,4,3,31606.63,3,0,7.501483768292519e-05,1.0
+Retail,Gharbia,25-34,Not specified,Referral,Opted-in,1,1,4673.2,1,0,1.1091322911042587e-05,1.0
+Retail,Gharbia,25-34,Not specified,Store Walk-in,Not opted-in,2,1,1414.1,1,0,3.356209819503835e-06,1.0
+Retail,Gharbia,25-34,Not specified,Store Walk-in,Opted-in,2,2,3181.6000000000004,2,0,7.551175420220213e-06,1.0
+Retail,Gharbia,35-44,Female,Direct / WhatsApp,Not opted-in,29,24,64152.8,22,2,0.00015225956955566483,0.9166666666666666
+Retail,Gharbia,35-44,Female,Direct / WhatsApp,Opted-in,41,31,108094.92,26,5,0.00025655132730534016,0.8387096774193549
+Retail,Gharbia,35-44,Female,Google Search,Not opted-in,10,10,21262.05,7,3,5.046312212204336e-05,0.7
+Retail,Gharbia,35-44,Female,Google Search,Opted-in,45,38,72991.35,27,11,0.00017323688961801945,0.7105263157894737
+Retail,Gharbia,35-44,Female,Organic Social,Not opted-in,17,15,39586.6,15,0,9.395441315378723e-05,1.0
+Retail,Gharbia,35-44,Female,Organic Social,Opted-in,27,23,67907.9,21,2,0.00016117188374364222,0.9130434782608695
+Retail,Gharbia,35-44,Female,Paid Social,Not opted-in,15,15,92923.65,14,1,0.00022054399730863272,0.9333333333333333
+Retail,Gharbia,35-44,Female,Paid Social,Opted-in,51,43,172841.11000000002,36,7,0.0004102192423420851,0.8372093023255814
+Retail,Gharbia,35-44,Female,Referral,Not opted-in,12,12,27794.1,10,2,6.596621974702747e-05,0.8333333333333334
+Retail,Gharbia,35-44,Female,Referral,Opted-in,21,18,105729.86,18,0,0.0002509381191901321,1.0
+Retail,Gharbia,35-44,Female,Store Walk-in,Not opted-in,28,18,60515.62,17,1,0.0001436271254348085,0.9444444444444444
+Retail,Gharbia,35-44,Female,Store Walk-in,Opted-in,49,46,184834.86000000002,42,4,0.00043868508034694624,0.9130434782608695
+Retail,Gharbia,35-44,Male,Direct / WhatsApp,Not opted-in,12,11,37934.87,10,1,9.003421483318115e-05,0.9090909090909091
+Retail,Gharbia,35-44,Male,Direct / WhatsApp,Opted-in,30,25,65334.3,22,3,0.00015506372902228234,0.88
+Retail,Gharbia,35-44,Male,Google Search,Not opted-in,7,5,11997.1,5,0,2.8473788859040705e-05,1.0
+Retail,Gharbia,35-44,Male,Google Search,Opted-in,12,10,19686.4,7,3,4.67234912599394e-05,0.7
+Retail,Gharbia,35-44,Male,Organic Social,Not opted-in,17,15,25929.199999999997,10,5,6.154008602777656e-05,0.6666666666666666
+Retail,Gharbia,35-44,Male,Organic Social,Opted-in,28,22,74125.29000000001,18,4,0.00017592817068918002,0.8181818181818182
+Retail,Gharbia,35-44,Male,Paid Social,Not opted-in,7,7,21211.85,5,2,5.0343977978815094e-05,0.7142857142857143
+Retail,Gharbia,35-44,Male,Paid Social,Opted-in,18,16,45681.15,13,3,0.00010841915295681184,0.8125
+Retail,Gharbia,35-44,Male,Referral,Not opted-in,6,6,23890.2,6,0,5.670074523011847e-05,1.0
+Retail,Gharbia,35-44,Male,Referral,Opted-in,10,9,41138.799999999996,8,1,9.763838803663416e-05,0.8888888888888888
+Retail,Gharbia,35-44,Male,Store Walk-in,Not opted-in,10,7,10063.0,5,2,2.3883416599722152e-05,0.7142857142857143
+Retail,Gharbia,35-44,Male,Store Walk-in,Opted-in,20,14,39663.45,11,3,9.4136808122056e-05,0.7857142857142857
+Retail,Gharbia,35-44,Not specified,Direct / WhatsApp,Not opted-in,1,1,2868.65,1,0,6.808423236489412e-06,1.0
+Retail,Gharbia,35-44,Not specified,Direct / WhatsApp,Opted-in,1,1,3646.75,1,0,8.655157456527552e-06,1.0
+Retail,Gharbia,35-44,Not specified,Google Search,Not opted-in,1,1,4978.55,1,0,1.1816037336037634e-05,1.0
+Retail,Gharbia,35-44,Not specified,Organic Social,Opted-in,2,2,2780.7,1,1,6.59968364690921e-06,0.5
+Retail,Gharbia,35-44,Not specified,Paid Social,Not opted-in,1,1,848.0,1,0,2.0126341326209266e-06,1.0
+Retail,Gharbia,35-44,Not specified,Referral,Not opted-in,1,1,752.95,1,0,1.78704347895864e-06,1.0
+Retail,Gharbia,35-44,Not specified,Referral,Opted-in,1,1,5872.95,1,0,1.3938796732518952e-05,1.0
+Retail,Gharbia,35-44,Not specified,Store Walk-in,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Gharbia,35-44,Not specified,Store Walk-in,Opted-in,1,1,3037.35,1,0,7.208814012636994e-06,1.0
+Retail,Gharbia,45-54,Female,Direct / WhatsApp,Not opted-in,16,12,23329.7,12,0,5.5370460523356645e-05,1.0
+Retail,Gharbia,45-54,Female,Direct / WhatsApp,Opted-in,19,12,33483.2,11,1,7.94686688553927e-05,0.9166666666666666
+Retail,Gharbia,45-54,Female,Google Search,Not opted-in,7,5,7844.6,4,1,1.8618289760327972e-05,0.8
+Retail,Gharbia,45-54,Female,Google Search,Opted-in,12,11,32699.3,9,2,7.7608168977372e-05,0.8181818181818182
+Retail,Gharbia,45-54,Female,Organic Social,Not opted-in,12,9,24538.0,8,1,5.823822682341073e-05,0.8888888888888888
+Retail,Gharbia,45-54,Female,Organic Social,Opted-in,23,21,44669.15,18,3,0.00010601728297778782,0.8571428571428571
+Retail,Gharbia,45-54,Female,Paid Social,Not opted-in,7,5,17618.3,5,0,4.181508483343782e-05,1.0
+Retail,Gharbia,45-54,Female,Paid Social,Opted-in,26,22,77134.34,20,2,0.00018306981778441937,0.9090909090909091
+Retail,Gharbia,45-54,Female,Referral,Not opted-in,4,3,6184.25,2,1,1.4677632823892648e-05,0.6666666666666666
+Retail,Gharbia,45-54,Female,Referral,Opted-in,13,12,24637.899999999998,9,3,5.847532841521359e-05,0.75
+Retail,Gharbia,45-54,Female,Store Walk-in,Not opted-in,14,10,25359.6,8,2,6.018820347831798e-05,0.8
+Retail,Gharbia,45-54,Female,Store Walk-in,Opted-in,28,23,80123.75,18,5,0.00019016485151366269,0.782608695652174
+Retail,Gharbia,45-54,Male,Direct / WhatsApp,Not opted-in,9,8,22847.65,8,0,5.422636820775533e-05,1.0
+Retail,Gharbia,45-54,Male,Direct / WhatsApp,Opted-in,13,13,17681.25,9,4,4.196448969033462e-05,0.6923076923076923
+Retail,Gharbia,45-54,Male,Google Search,Not opted-in,6,6,26108.5,5,1,6.196563473058192e-05,0.8333333333333334
+Retail,Gharbia,45-54,Male,Google Search,Opted-in,5,5,13037.3,3,2,3.094258841653161e-05,0.6
+Retail,Gharbia,45-54,Male,Organic Social,Not opted-in,2,2,13457.05,2,0,3.1938818578285896e-05,1.0
+Retail,Gharbia,45-54,Male,Organic Social,Opted-in,4,4,6327.049999999999,3,1,1.5016552816980227e-05,0.75
+Retail,Gharbia,45-54,Male,Paid Social,Not opted-in,3,3,6669.85,3,0,1.5830150671535008e-05,1.0
+Retail,Gharbia,45-54,Male,Paid Social,Opted-in,6,6,9245.25,5,1,2.1942577493648138e-05,0.8333333333333334
+Retail,Gharbia,45-54,Male,Referral,Not opted-in,3,3,4958.25,2,1,1.1767857533098714e-05,0.6666666666666666
+Retail,Gharbia,45-54,Male,Referral,Opted-in,3,2,3804.9500000000003,2,0,9.030627644948108e-06,1.0
+Retail,Gharbia,45-54,Male,Store Walk-in,Not opted-in,6,4,5965.549999999999,3,1,1.4158572582378264e-05,0.75
+Retail,Gharbia,45-54,Male,Store Walk-in,Opted-in,6,6,27869.699999999997,5,1,6.614564797866207e-05,0.8333333333333334
+Retail,Gharbia,45-54,Not specified,Direct / WhatsApp,Not opted-in,1,1,632.05,1,0,1.5001007117017176e-06,1.0
+Retail,Gharbia,45-54,Not specified,Google Search,Not opted-in,1,1,13504.74,1,0,3.205200551435275e-05,1.0
+Retail,Gharbia,45-54,Not specified,Organic Social,Not opted-in,1,1,2972.55,1,0,7.055018385521623e-06,1.0
+Retail,Gharbia,45-54,Not specified,Organic Social,Opted-in,4,4,7801.7,4,0,1.851647135904326e-05,1.0
+Retail,Gharbia,45-54,Not specified,Paid Social,Not opted-in,1,1,3854.2,1,0,9.147517068334405e-06,1.0
+Retail,Gharbia,45-54,Not specified,Store Walk-in,Not opted-in,1,1,388.0,0,1,9.208750512463673e-07,0.0
+Retail,Gharbia,45-54,Not specified,Store Walk-in,Opted-in,1,1,2436.1,1,0,5.781813691601226e-06,1.0
+Retail,Gharbia,55+,Female,Direct / WhatsApp,Not opted-in,5,4,8125.1,3,1,1.9284025461035722e-05,0.75
+Retail,Gharbia,55+,Female,Direct / WhatsApp,Opted-in,12,9,28041.45,9,0,6.655327759219703e-05,1.0
+Retail,Gharbia,55+,Female,Google Search,Not opted-in,8,8,34018.22,7,1,8.07384796026036e-05,0.875
+Retail,Gharbia,55+,Female,Google Search,Opted-in,12,9,56376.439999999995,9,0,0.00013380323988166945,1.0
+Retail,Gharbia,55+,Female,Organic Social,Not opted-in,9,7,15806.25,7,0,3.7514384739079625e-05,1.0
+Retail,Gharbia,55+,Female,Organic Social,Opted-in,3,1,1345.05,1,0,3.1923272878322843e-06,1.0
+Retail,Gharbia,55+,Female,Paid Social,Not opted-in,5,4,5284.6,4,0,1.2542413133547818e-05,1.0
+Retail,Gharbia,55+,Female,Paid Social,Opted-in,9,8,22164.15,6,2,5.260415661619117e-05,0.75
+Retail,Gharbia,55+,Female,Referral,Not opted-in,2,2,2075.5,1,1,4.9259695073758645e-06,0.5
+Retail,Gharbia,55+,Female,Referral,Opted-in,4,3,11884.300000000001,3,0,2.820607054517321e-05,1.0
+Retail,Gharbia,55+,Female,Store Walk-in,Not opted-in,6,6,27506.8,6,0,6.528434499902984e-05,1.0
+Retail,Gharbia,55+,Female,Store Walk-in,Opted-in,8,7,26801.11,5,2,6.36094678987359e-05,0.7142857142857143
+Retail,Gharbia,55+,Male,Direct / WhatsApp,Not opted-in,1,1,2967.75,1,0,7.043626116846409e-06,1.0
+Retail,Gharbia,55+,Male,Direct / WhatsApp,Opted-in,2,2,5632.1,2,0,1.3367165917847077e-05,1.0
+Retail,Gharbia,55+,Male,Google Search,Not opted-in,2,2,1447.0,1,1,3.4342943277151895e-06,0.5
+Retail,Gharbia,55+,Male,Google Search,Opted-in,3,1,3136.5,1,0,7.444135562459359e-06,1.0
+Retail,Gharbia,55+,Male,Organic Social,Not opted-in,2,2,4524.05,2,0,1.0737331895853424e-05,1.0
+Retail,Gharbia,55+,Male,Organic Social,Opted-in,8,7,31976.309999999998,6,1,7.589223224206115e-05,0.8571428571428571
+Retail,Gharbia,55+,Male,Paid Social,Not opted-in,2,2,5925.099999999999,2,0,1.4062568984896522e-05,1.0
+Retail,Gharbia,55+,Male,Paid Social,Opted-in,4,3,8104.150000000001,3,0,1.923430295504703e-05,1.0
+Retail,Gharbia,55+,Male,Referral,Not opted-in,1,1,1937.4,1,0,4.598204444032763e-06,1.0
+Retail,Gharbia,55+,Male,Referral,Opted-in,1,1,3789.2,1,0,8.993246763357564e-06,1.0
+Retail,Gharbia,55+,Male,Store Walk-in,Not opted-in,4,4,20580.15,4,0,4.884470795337095e-05,1.0
+Retail,Gharbia,55+,Male,Store Walk-in,Opted-in,4,4,18283.95,3,1,4.3394931425866026e-05,0.75
+Retail,Gharbia,55+,Not specified,Organic Social,Opted-in,1,1,299.0,0,1,7.096434028934635e-07,0.0
+Retail,Gharbia,55+,Not specified,Store Walk-in,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Giza,18-24,Female,Direct / WhatsApp,Not opted-in,18,15,41330.6,13,2,9.809360410578121e-05,0.8666666666666667
+Retail,Giza,18-24,Female,Direct / WhatsApp,Opted-in,33,31,114107.0,24,7,0.00027082033369218875,0.7741935483870968
+Retail,Giza,18-24,Female,Google Search,Not opted-in,10,6,10011.95,4,2,2.376225507558265e-05,0.6666666666666666
+Retail,Giza,18-24,Female,Google Search,Opted-in,14,14,37300.75,12,2,8.852920120561324e-05,0.8571428571428571
+Retail,Giza,18-24,Female,Organic Social,Not opted-in,10,8,20504.75,8,0,4.866575439959781e-05,1.0
+Retail,Giza,18-24,Female,Organic Social,Opted-in,25,22,35852.5,17,5,8.509194014126389e-05,0.7727272727272727
+Retail,Giza,18-24,Female,Paid Social,Not opted-in,13,12,13860.349999999999,9,3,3.28960064859345e-05,0.75
+Retail,Giza,18-24,Female,Paid Social,Opted-in,22,21,54632.579999999994,15,6,0.0001296643812041785,0.7142857142857143
+Retail,Giza,18-24,Female,Referral,Not opted-in,6,4,13772.400000000001,3,1,3.268726689635431e-05,0.75
+Retail,Giza,18-24,Female,Referral,Opted-in,15,11,24633.4,8,3,5.8464648163330586e-05,0.7272727272727273
+Retail,Giza,18-24,Female,Store Walk-in,Not opted-in,9,5,10438.5,4,1,2.4774624284626818e-05,0.8
+Retail,Giza,18-24,Female,Store Walk-in,Opted-in,22,16,49546.4,15,1,0.00011759289597699231,0.9375
+Retail,Giza,18-24,Male,Direct / WhatsApp,Not opted-in,8,5,13275.4,5,0,3.150769241060831e-05,1.0
+Retail,Giza,18-24,Male,Direct / WhatsApp,Opted-in,12,12,23317.85,10,2,5.534233586006471e-05,0.8333333333333334
+Retail,Giza,18-24,Male,Google Search,Not opted-in,6,4,6607.25,3,1,1.5681576500895776e-05,0.75
+Retail,Giza,18-24,Male,Google Search,Opted-in,3,2,33957.03,2,0,8.059325191088772e-05,1.0
+Retail,Giza,18-24,Male,Organic Social,Not opted-in,8,8,17165.95,7,1,4.074148218026438e-05,0.875
+Retail,Giza,18-24,Male,Organic Social,Opted-in,11,10,27645.65,7,3,6.561389010435345e-05,0.7
+Retail,Giza,18-24,Male,Paid Social,Not opted-in,6,5,8766.65,4,1,2.080667337115713e-05,0.8
+Retail,Giza,18-24,Male,Paid Social,Opted-in,15,14,35699.35,11,3,8.472845556884536e-05,0.7857142857142857
+Retail,Giza,18-24,Male,Referral,Not opted-in,1,1,1850.45,1,0,4.391838243759899e-06,1.0
+Retail,Giza,18-24,Male,Referral,Opted-in,3,3,11228.6,3,0,2.664983917635299e-05,1.0
+Retail,Giza,18-24,Male,Store Walk-in,Not opted-in,7,7,15827.75,6,1,3.7565412609187347e-05,0.8571428571428571
+Retail,Giza,18-24,Male,Store Walk-in,Opted-in,11,11,29271.7,7,4,6.947313978754714e-05,0.6363636363636364
+Retail,Giza,18-24,Not specified,Direct / WhatsApp,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Giza,18-24,Not specified,Google Search,Opted-in,1,1,2485.7,1,0,5.899533801245091e-06,1.0
+Retail,Giza,18-24,Not specified,Organic Social,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Giza,18-24,Not specified,Paid Social,Opted-in,2,2,7764.45,2,0,1.842806260734499e-05,1.0
+Retail,Giza,18-24,Not specified,Referral,Not opted-in,1,1,4326.35,1,0,1.0268112829793098e-05,1.0
+Retail,Giza,18-24,Not specified,Referral,Opted-in,1,1,1643.4,1,0,3.90042798767598e-06,1.0
+Retail,Giza,18-24,Not specified,Store Walk-in,Opted-in,2,1,1734.5,1,0,4.1166437535742895e-06,1.0
+Retail,Giza,25-34,Female,Direct / WhatsApp,Not opted-in,55,45,111279.62,39,6,0.0002641098602324131,0.8666666666666667
+Retail,Giza,25-34,Female,Direct / WhatsApp,Opted-in,129,114,290811.15,101,13,0.0006902080738640852,0.8859649122807017
+Retail,Giza,25-34,Female,Google Search,Not opted-in,38,33,81342.7,25,8,0.0001930578944098399,0.7575757575757576
+Retail,Giza,25-34,Female,Google Search,Opted-in,71,60,151091.23,48,12,0.00035859830971424406,0.8
+Retail,Giza,25-34,Female,Organic Social,Not opted-in,60,50,148060.5,38,12,0.0003514052075388216,0.76
+Retail,Giza,25-34,Female,Organic Social,Opted-in,103,88,339276.94,71,17,0.0008052362616216771,0.8068181818181818
+Retail,Giza,25-34,Female,Paid Social,Not opted-in,41,40,135047.1,33,7,0.0003205193431267353,0.825
+Retail,Giza,25-34,Female,Paid Social,Opted-in,95,80,398302.96,68,12,0.0009453279863442779,0.85
+Retail,Giza,25-34,Female,Referral,Not opted-in,30,24,70787.05,21,3,0.0001680052275678587,0.875
+Retail,Giza,25-34,Female,Referral,Opted-in,41,36,91957.55,30,6,0.00021825106589881544,0.8333333333333334
+Retail,Giza,25-34,Female,Store Walk-in,Not opted-in,51,44,148065.03,39,5,0.0003514159589923838,0.8863636363636364
+Retail,Giza,25-34,Female,Store Walk-in,Opted-in,94,81,217730.6,65,16,0.0005167594779198514,0.8024691358024691
+Retail,Giza,25-34,Male,Direct / WhatsApp,Not opted-in,22,20,74920.18,17,3,0.00017781475411568829,0.85
+Retail,Giza,25-34,Male,Direct / WhatsApp,Opted-in,56,49,137792.35,39,10,0.0003270348901226995,0.7959183673469388
+Retail,Giza,25-34,Male,Google Search,Not opted-in,16,14,24722.75,11,3,5.867671049794105e-05,0.7857142857142857
+Retail,Giza,25-34,Male,Google Search,Opted-in,29,23,67110.42,19,4,0.00015927915323882792,0.8260869565217391
+Retail,Giza,25-34,Male,Organic Social,Not opted-in,23,16,32787.1,15,1,7.781655255855611e-05,0.9375
+Retail,Giza,25-34,Male,Organic Social,Opted-in,39,34,96806.78,27,7,0.00022976017652962837,0.7941176470588235
+Retail,Giza,25-34,Male,Paid Social,Not opted-in,26,22,89315.3,22,0,0.0002119799780015069,1.0
+Retail,Giza,25-34,Male,Paid Social,Opted-in,39,32,71942.05,25,7,0.00017074649221783175,0.78125
+Retail,Giza,25-34,Male,Referral,Not opted-in,9,9,19143.6,9,0,4.543521554391741e-05,1.0
+Retail,Giza,25-34,Male,Referral,Opted-in,32,29,112567.2,22,7,0.0002671657888367528,0.7586206896551724
+Retail,Giza,25-34,Male,Store Walk-in,Not opted-in,35,31,52534.8,25,6,0.0001246855325830352,0.8064516129032258
+Retail,Giza,25-34,Male,Store Walk-in,Opted-in,39,33,113033.67,27,6,0.00026827290374694583,0.8181818181818182
+Retail,Giza,25-34,Not specified,Direct / WhatsApp,Not opted-in,8,6,17389.5,5,1,4.127205335991934e-05,0.8333333333333334
+Retail,Giza,25-34,Not specified,Direct / WhatsApp,Opted-in,3,3,10861.0,3,0,2.5777381266976277e-05,1.0
+Retail,Giza,25-34,Not specified,Google Search,Opted-in,5,3,9661.5,3,0,2.293050079282675e-05,1.0
+Retail,Giza,25-34,Not specified,Organic Social,Not opted-in,4,4,6247.5,4,0,1.482774969758165e-05,1.0
+Retail,Giza,25-34,Not specified,Organic Social,Opted-in,7,6,12916.85,5,1,3.065671367446299e-05,0.8333333333333334
+Retail,Giza,25-34,Not specified,Paid Social,Not opted-in,3,3,9449.599999999999,3,0,2.2427579598602247e-05,1.0
+Retail,Giza,25-34,Not specified,Paid Social,Opted-in,3,2,6068.55,1,1,1.4403031681033874e-05,0.5
+Retail,Giza,25-34,Not specified,Referral,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Giza,25-34,Not specified,Referral,Opted-in,2,2,3823.35,2,0,9.074298008203089e-06,1.0
+Retail,Giza,25-34,Not specified,Store Walk-in,Opted-in,5,5,20790.0,5,0,4.934276369951541e-05,1.0
+Retail,Giza,35-44,Female,Direct / WhatsApp,Not opted-in,46,40,100224.09999999999,33,7,0.0002378708072773738,0.825
+Retail,Giza,35-44,Female,Direct / WhatsApp,Opted-in,104,80,304018.86,68,12,0.0007215551115524798,0.85
+Retail,Giza,35-44,Female,Google Search,Not opted-in,22,20,57216.32,17,3,0.00013579660209311483,0.85
+Retail,Giza,35-44,Female,Google Search,Opted-in,42,34,98338.31999999999,27,7,0.00023339511718938573,0.7941176470588235
+Retail,Giza,35-44,Female,Organic Social,Not opted-in,47,39,104955.35,27,12,0.0002490999054377073,0.6923076923076923
+Retail,Giza,35-44,Female,Organic Social,Opted-in,83,71,224265.55,62,9,0.0005322694583738267,0.8732394366197183
+Retail,Giza,35-44,Female,Paid Social,Not opted-in,35,31,108701.42,26,5,0.00025799078792023946,0.8387096774193549
+Retail,Giza,35-44,Female,Paid Social,Opted-in,73,53,188097.83,50,3,0.00044642937845510436,0.9433962264150944
+Retail,Giza,35-44,Female,Referral,Not opted-in,21,19,54589.200000000004,17,2,0.0001295614235760263,0.8947368421052632
+Retail,Giza,35-44,Female,Referral,Opted-in,36,28,117110.37,24,4,0.0002779484999361625,0.8571428571428571
+Retail,Giza,35-44,Female,Store Walk-in,Not opted-in,45,39,122648.67,34,5,0.0002910930419369814,0.8717948717948718
+Retail,Giza,35-44,Female,Store Walk-in,Opted-in,65,63,174887.66,53,10,0.0004150765022290136,0.8412698412698413
+Retail,Giza,35-44,Male,Direct / WhatsApp,Not opted-in,29,24,51733.25,17,7,0.00012278314238374003,0.7083333333333334
+Retail,Giza,35-44,Male,Direct / WhatsApp,Opted-in,40,35,113801.11,30,5,0.0002700943376369678,0.8571428571428571
+Retail,Giza,35-44,Male,Google Search,Not opted-in,12,9,12952.4,6,3,3.074108766433878e-05,0.6666666666666666
+Retail,Giza,35-44,Male,Google Search,Opted-in,25,22,108252.15,14,8,0.0002569244953061326,0.6363636363636364
+Retail,Giza,35-44,Male,Organic Social,Not opted-in,15,15,52714.4,13,2,0.00012511179330263275,0.8666666666666667
+Retail,Giza,35-44,Male,Organic Social,Opted-in,48,44,190084.47,37,7,0.0004511444485886304,0.8409090909090909
+Retail,Giza,35-44,Male,Paid Social,Not opted-in,21,20,50234.35,19,1,0.0001192256691509741,0.95
+Retail,Giza,35-44,Male,Paid Social,Opted-in,34,27,85900.6,24,3,0.00020387556553374669,0.8888888888888888
+Retail,Giza,35-44,Male,Referral,Not opted-in,10,8,13471.4,6,2,3.1972876714846166e-05,0.75
+Retail,Giza,35-44,Male,Referral,Opted-in,16,13,26253.45,13,0,6.230965751068026e-05,1.0
+Retail,Giza,35-44,Male,Store Walk-in,Not opted-in,28,22,51967.05,20,2,0.0001233380408037952,0.9090909090909091
+Retail,Giza,35-44,Male,Store Walk-in,Opted-in,37,36,132241.63,32,4,0.0003138608706266834,0.8888888888888888
+Retail,Giza,35-44,Not specified,Direct / WhatsApp,Not opted-in,3,3,4027.5,3,0,9.558825435295733e-06,1.0
+Retail,Giza,35-44,Not specified,Direct / WhatsApp,Opted-in,4,4,12187.75,4,0,2.8926275530484313e-05,1.0
+Retail,Giza,35-44,Not specified,Google Search,Opted-in,3,2,1377.0,2,0,3.2681570762016697e-06,1.0
+Retail,Giza,35-44,Not specified,Organic Social,Not opted-in,2,2,24798.26,2,0,5.885592512453799e-05,1.0
+Retail,Giza,35-44,Not specified,Organic Social,Opted-in,4,4,17194.25,4,0,4.080864909766199e-05,1.0
+Retail,Giza,35-44,Not specified,Paid Social,Not opted-in,4,3,9245.0,2,1,2.1941984146321303e-05,0.6666666666666666
+Retail,Giza,35-44,Not specified,Paid Social,Opted-in,4,4,6061.8,3,1,1.4387011303209355e-05,0.75
+Retail,Giza,35-44,Not specified,Referral,Not opted-in,2,2,4186.75,2,0,9.936787682488992e-06,1.0
+Retail,Giza,35-44,Not specified,Referral,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Giza,35-44,Not specified,Store Walk-in,Opted-in,3,3,8546.95,2,1,2.0285239740335412e-05,0.6666666666666666
+Retail,Giza,45-54,Female,Direct / WhatsApp,Not opted-in,21,18,48463.05,15,3,0.00011502168467088986,0.8333333333333334
+Retail,Giza,45-54,Female,Direct / WhatsApp,Opted-in,49,39,83341.4,31,8,0.00019780158761841237,0.7948717948717948
+Retail,Giza,45-54,Female,Google Search,Not opted-in,26,23,97669.7,19,4,0.00023180822163071474,0.8260869565217391
+Retail,Giza,45-54,Female,Google Search,Opted-in,31,27,69014.85,22,5,0.00016379910703739783,0.8148148148148148
+Retail,Giza,45-54,Female,Organic Social,Not opted-in,22,22,46486.3,18,4,0.00011033008735761342,0.8181818181818182
+Retail,Giza,45-54,Female,Organic Social,Opted-in,35,33,144303.69,27,6,0.0003424888348551286,0.8181818181818182
+Retail,Giza,45-54,Female,Paid Social,Not opted-in,18,13,28682.65,10,3,6.807509481606087e-05,0.7692307692307693
+Retail,Giza,45-54,Female,Paid Social,Opted-in,32,26,132513.73,25,1,0.0003145066698572095,0.9615384615384616
+Retail,Giza,45-54,Female,Referral,Not opted-in,17,13,65972.05,12,1,0.00015657735805303584,0.9230769230769231
+Retail,Giza,45-54,Female,Referral,Opted-in,17,14,35217.15,12,2,8.358400724484796e-05,0.8571428571428571
+Retail,Giza,45-54,Female,Store Walk-in,Not opted-in,23,20,91543.3,19,1,0.0002172678893782515,0.95
+Retail,Giza,45-54,Female,Store Walk-in,Opted-in,33,23,59334.75,20,3,0.00014082446120345464,0.8695652173913043
+Retail,Giza,45-54,Male,Direct / WhatsApp,Not opted-in,16,13,40581.1,12,1,9.631474881993287e-05,0.9230769230769231
+Retail,Giza,45-54,Male,Direct / WhatsApp,Opted-in,15,14,35171.25,12,2,8.347506867564123e-05,0.8571428571428571
+Retail,Giza,45-54,Male,Google Search,Not opted-in,5,3,4917.45,3,0,1.1671023249359405e-05,1.0
+Retail,Giza,45-54,Male,Google Search,Opted-in,4,3,10239.349999999999,3,0,2.430196380407085e-05,1.0
+Retail,Giza,45-54,Male,Organic Social,Not opted-in,11,10,25025.45,8,2,5.939513544127166e-05,0.8
+Retail,Giza,45-54,Male,Organic Social,Opted-in,18,14,29640.15,11,3,7.03476150778351e-05,0.7857142857142857
+Retail,Giza,45-54,Male,Paid Social,Not opted-in,10,10,24237.5,8,2,5.752502333655626e-05,0.8
+Retail,Giza,45-54,Male,Paid Social,Opted-in,15,14,45542.92,13,1,0.00010809107935285878,0.9285714285714286
+Retail,Giza,45-54,Male,Referral,Not opted-in,5,4,2853.75,2,2,6.7730597358101054e-06,0.5
+Retail,Giza,45-54,Male,Referral,Opted-in,7,7,13337.2,5,2,3.165436786980168e-05,0.7142857142857143
+Retail,Giza,45-54,Male,Store Walk-in,Not opted-in,14,11,11514.0,9,2,2.7327204484666685e-05,0.8181818181818182
+Retail,Giza,45-54,Male,Store Walk-in,Opted-in,9,9,23526.45,7,2,5.5837424869575e-05,0.7777777777777778
+Retail,Giza,45-54,Not specified,Direct / WhatsApp,Opted-in,3,3,3961.45,2,1,9.40206307154619e-06,0.6666666666666666
+Retail,Giza,45-54,Not specified,Google Search,Opted-in,1,1,1632.1,1,0,3.873608688503082e-06,1.0
+Retail,Giza,45-54,Not specified,Organic Social,Opted-in,2,2,1842.8,2,0,4.373681815558777e-06,1.0
+Retail,Giza,45-54,Not specified,Paid Social,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Giza,45-54,Not specified,Paid Social,Opted-in,2,2,4959.2,1,1,1.1770112252940683e-05,0.5
+Retail,Giza,45-54,Not specified,Referral,Not opted-in,1,1,4413.9,1,0,1.0475903063650363e-05,1.0
+Retail,Giza,45-54,Not specified,Referral,Opted-in,1,1,1722.2,1,0,4.087451065094056e-06,1.0
+Retail,Giza,45-54,Not specified,Store Walk-in,Opted-in,2,1,3721.85,1,0,8.833398993508485e-06,1.0
+Retail,Giza,55+,Female,Direct / WhatsApp,Not opted-in,11,10,15827.4,8,2,3.756458192292978e-05,0.8
+Retail,Giza,55+,Female,Direct / WhatsApp,Opted-in,21,19,74890.34999999999,16,3,0.00017774395591265045,0.8421052631578947
+Retail,Giza,55+,Female,Google Search,Not opted-in,5,5,14373.95,5,0,3.411497923418227e-05,1.0
+Retail,Giza,55+,Female,Google Search,Opted-in,6,6,32353.160000000003,6,0,7.678664400253074e-05,1.0
+Retail,Giza,55+,Female,Organic Social,Not opted-in,12,9,26049.39,8,1,6.182534368862527e-05,0.8888888888888888
+Retail,Giza,55+,Female,Organic Social,Opted-in,10,7,27140.9,5,2,6.44159218514756e-05,0.7142857142857143
+Retail,Giza,55+,Female,Paid Social,Not opted-in,7,7,34661.2,5,2,8.22645214594345e-05,0.7142857142857143
+Retail,Giza,55+,Female,Paid Social,Opted-in,13,13,42230.2,12,1,0.00010022870512666066,0.9230769230769231
+Retail,Giza,55+,Female,Referral,Not opted-in,3,1,2521.9,1,0,5.985450494170654e-06,1.0
+Retail,Giza,55+,Female,Referral,Opted-in,5,5,9618.1,4,1,2.2827495696888366e-05,0.8
+Retail,Giza,55+,Female,Store Walk-in,Not opted-in,4,4,11121.9,3,1,2.639659853726024e-05,0.75
+Retail,Giza,55+,Female,Store Walk-in,Opted-in,12,8,17328.2,5,3,4.112656459537965e-05,0.625
+Retail,Giza,55+,Male,Direct / WhatsApp,Not opted-in,5,4,5928.7,4,0,1.4071113186402933e-05,1.0
+Retail,Giza,55+,Male,Direct / WhatsApp,Opted-in,7,6,19885.7,4,2,4.719650774889146e-05,0.6666666666666666
+Retail,Giza,55+,Male,Google Search,Not opted-in,2,2,2564.3,2,0,6.086082200801701e-06,1.0
+Retail,Giza,55+,Male,Google Search,Opted-in,1,1,1599.9,1,0,3.797185552806864e-06,1.0
+Retail,Giza,55+,Male,Organic Social,Not opted-in,3,2,12949.650000000001,2,0,3.073456084374361e-05,1.0
+Retail,Giza,55+,Male,Organic Social,Opted-in,11,10,29396.899999999998,9,1,6.97702881288256e-05,0.9
+Retail,Giza,55+,Male,Paid Social,Not opted-in,6,5,8061.650000000001,5,0,1.913343390948525e-05,1.0
+Retail,Giza,55+,Male,Paid Social,Opted-in,8,8,42684.5,6,2,0.00010130693588898343,0.75
+Retail,Giza,55+,Male,Referral,Not opted-in,2,1,3369.5,1,0,7.997135271068647e-06,1.0
+Retail,Giza,55+,Male,Referral,Opted-in,5,5,13566.25,5,0,3.2197992690646986e-05,1.0
+Retail,Giza,55+,Male,Store Walk-in,Not opted-in,3,3,10478.3,3,0,2.486908517905879e-05,1.0
+Retail,Giza,55+,Male,Store Walk-in,Opted-in,8,8,19685.75,7,1,4.6721948556889626e-05,0.875
+Retail,Giza,55+,Not specified,Direct / WhatsApp,Not opted-in,1,1,313.5,0,1,7.440575478498355e-07,0.0
+Retail,Giza,55+,Not specified,Organic Social,Opted-in,1,1,2018.65,1,0,4.791042325253813e-06,1.0
+Retail,Kafr El Sheikh,18-24,Female,Direct / WhatsApp,Not opted-in,7,7,29372.829999999998,6,1,6.971316064819803e-05,0.8571428571428571
+Retail,Kafr El Sheikh,18-24,Female,Direct / WhatsApp,Opted-in,12,11,23447.35,8,3,5.564968977536472e-05,0.7272727272727273
+Retail,Kafr El Sheikh,18-24,Female,Google Search,Not opted-in,2,2,7310.8,2,0,1.7351374548072018e-05,1.0
+Retail,Kafr El Sheikh,18-24,Female,Google Search,Opted-in,7,6,18072.35,4,2,4.2892722248433724e-05,0.6666666666666666
+Retail,Kafr El Sheikh,18-24,Female,Organic Social,Not opted-in,8,7,12394.65,6,1,2.941732977817213e-05,0.8571428571428571
+Retail,Kafr El Sheikh,18-24,Female,Organic Social,Opted-in,9,7,30831.35,6,1,7.317479642073372e-05,0.8571428571428571
+Retail,Kafr El Sheikh,18-24,Female,Paid Social,Not opted-in,3,3,6160.8,3,0,1.462197684463562e-05,1.0
+Retail,Kafr El Sheikh,18-24,Female,Paid Social,Opted-in,11,11,28414.65,8,3,6.743902648169482e-05,0.7272727272727273
+Retail,Kafr El Sheikh,18-24,Female,Referral,Not opted-in,2,2,10702.25,2,0,2.5400605714436688e-05,1.0
+Retail,Kafr El Sheikh,18-24,Female,Referral,Opted-in,4,4,7480.4,3,1,1.77539013745962e-05,0.75
+Retail,Kafr El Sheikh,18-24,Female,Store Walk-in,Not opted-in,3,3,4667.45,3,0,1.1077675922525405e-05,1.0
+Retail,Kafr El Sheikh,18-24,Female,Store Walk-in,Opted-in,7,7,22562.7,7,0,5.355007092462993e-05,1.0
+Retail,Kafr El Sheikh,18-24,Male,Direct / WhatsApp,Not opted-in,2,1,2172.4,1,0,5.155950931256723e-06,1.0
+Retail,Kafr El Sheikh,18-24,Male,Direct / WhatsApp,Opted-in,3,1,2402.8,1,0,5.702779827666937e-06,1.0
+Retail,Kafr El Sheikh,18-24,Male,Google Search,Opted-in,3,3,5473.75,2,1,1.299133972103042e-05,0.6666666666666666
+Retail,Kafr El Sheikh,18-24,Male,Organic Social,Not opted-in,3,3,6225.7,3,0,1.4776009810681724e-05,1.0
+Retail,Kafr El Sheikh,18-24,Male,Organic Social,Opted-in,5,4,9566.75,4,0,2.2705622155956664e-05,1.0
+Retail,Kafr El Sheikh,18-24,Male,Paid Social,Not opted-in,4,4,10921.050000000001,4,0,2.591990329488181e-05,1.0
+Retail,Kafr El Sheikh,18-24,Male,Paid Social,Opted-in,6,5,10594.650000000001,4,1,2.5145229024967337e-05,0.8
+Retail,Kafr El Sheikh,18-24,Male,Referral,Not opted-in,1,1,708.6,1,0,1.6817836631782884e-06,1.0
+Retail,Kafr El Sheikh,18-24,Male,Store Walk-in,Not opted-in,2,1,2124.75,1,0,5.042858930762162e-06,1.0
+Retail,Kafr El Sheikh,18-24,Male,Store Walk-in,Opted-in,4,4,13044.45,4,0,3.0959558150079065e-05,1.0
+Retail,Kafr El Sheikh,18-24,Not specified,Direct / WhatsApp,Not opted-in,1,1,1695.0,1,0,4.022894875934517e-06,1.0
+Retail,Kafr El Sheikh,18-24,Not specified,Direct / WhatsApp,Opted-in,3,2,1610.2,1,1,3.821631462672425e-06,0.5
+Retail,Kafr El Sheikh,18-24,Not specified,Store Walk-in,Opted-in,1,1,1345.5,1,0,3.193395313020586e-06,1.0
+Retail,Kafr El Sheikh,25-34,Female,Direct / WhatsApp,Not opted-in,23,20,48236.45,17,3,0.00011448387465384751,0.85
+Retail,Kafr El Sheikh,25-34,Female,Direct / WhatsApp,Opted-in,40,36,198355.02,26,10,0.00047077368352441807,0.7222222222222222
+Retail,Kafr El Sheikh,25-34,Female,Google Search,Not opted-in,9,9,34461.75,9,0,8.179114896208634e-05,1.0
+Retail,Kafr El Sheikh,25-34,Female,Google Search,Opted-in,22,20,80074.55,20,0,0.00019004808075974178,1.0
+Retail,Kafr El Sheikh,25-34,Female,Organic Social,Not opted-in,20,17,63650.65,14,3,0.00015106777211498608,0.8235294117647058
+Retail,Kafr El Sheikh,25-34,Female,Organic Social,Opted-in,28,27,71271.9,23,4,0.00016915596537352053,0.8518518518518519
+Retail,Kafr El Sheikh,25-34,Female,Paid Social,Not opted-in,17,15,60492.05,15,0,0.00014357118464883458,1.0
+Retail,Kafr El Sheikh,25-34,Female,Paid Social,Opted-in,27,25,66102.2,21,4,0.0001568862546713856,0.84
+Retail,Kafr El Sheikh,25-34,Female,Referral,Not opted-in,7,7,62694.229999999996,6,1,0.00014879781511366376,0.8571428571428571
+Retail,Kafr El Sheikh,25-34,Female,Referral,Opted-in,16,11,24472.85,10,1,5.8083600510037786e-05,0.9090909090909091
+Retail,Kafr El Sheikh,25-34,Female,Store Walk-in,Not opted-in,17,15,61335.81,12,3,0.00014557375561079238,0.8
+Retail,Kafr El Sheikh,25-34,Female,Store Walk-in,Opted-in,27,25,91042.55,23,2,0.000216079414682603,0.92
+Retail,Kafr El Sheikh,25-34,Male,Direct / WhatsApp,Not opted-in,17,13,35868.7,10,3,8.513038904804272e-05,0.7692307692307693
+Retail,Kafr El Sheikh,25-34,Male,Direct / WhatsApp,Opted-in,15,10,47885.659999999996,8,2,0.00011365131341872712,0.8
+Retail,Kafr El Sheikh,25-34,Male,Google Search,Not opted-in,5,4,7059.3,3,1,1.6754467137277014e-05,0.75
+Retail,Kafr El Sheikh,25-34,Male,Google Search,Opted-in,11,11,56886.8,10,1,0.0001350145228485615,0.9090909090909091
+Retail,Kafr El Sheikh,25-34,Male,Organic Social,Not opted-in,10,9,41512.15,8,1,9.852449293452807e-05,0.8888888888888888
+Retail,Kafr El Sheikh,25-34,Male,Organic Social,Opted-in,16,14,50669.490000000005,14,0,0.00012025842577416831,1.0
+Retail,Kafr El Sheikh,25-34,Male,Paid Social,Not opted-in,15,15,41878.0,12,3,9.939279741261693e-05,0.8
+Retail,Kafr El Sheikh,25-34,Male,Paid Social,Opted-in,16,15,24042.7,11,4,5.706268709948721e-05,0.7333333333333333
+Retail,Kafr El Sheikh,25-34,Male,Referral,Not opted-in,4,3,4189.45,3,0,9.943195833618798e-06,1.0
+Retail,Kafr El Sheikh,25-34,Male,Referral,Opted-in,10,8,38459.2,8,0,9.127865404869662e-05,1.0
+Retail,Kafr El Sheikh,25-34,Male,Store Walk-in,Not opted-in,9,9,23413.1,8,1,5.556840119158846e-05,0.8888888888888888
+Retail,Kafr El Sheikh,25-34,Male,Store Walk-in,Opted-in,21,17,67688.2,15,2,0.00016065045011282053,0.8823529411764706
+Retail,Kafr El Sheikh,25-34,Not specified,Direct / WhatsApp,Opted-in,1,1,1046.4,1,0,2.483514571196389e-06,1.0
+Retail,Kafr El Sheikh,25-34,Not specified,Google Search,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Kafr El Sheikh,25-34,Not specified,Google Search,Opted-in,1,1,10740.05,1,0,2.5490319830253988e-05,1.0
+Retail,Kafr El Sheikh,25-34,Not specified,Organic Social,Not opted-in,1,1,3508.9,1,0,8.327985740511284e-06,1.0
+Retail,Kafr El Sheikh,25-34,Not specified,Organic Social,Opted-in,3,2,18545.05,2,0,4.401462337401146e-05,1.0
+Retail,Kafr El Sheikh,25-34,Not specified,Paid Social,Opted-in,1,1,1568.4,1,0,3.72242378962578e-06,1.0
+Retail,Kafr El Sheikh,25-34,Not specified,Store Walk-in,Opted-in,2,0,0.0,0,0,0.0,
+Retail,Kafr El Sheikh,35-44,Female,Direct / WhatsApp,Not opted-in,19,14,26210.8,10,4,6.220843245672238e-05,0.7142857142857143
+Retail,Kafr El Sheikh,35-44,Female,Direct / WhatsApp,Opted-in,17,16,33391.25,15,1,7.925043570858316e-05,0.9375
+Retail,Kafr El Sheikh,35-44,Female,Google Search,Not opted-in,10,10,21931.2,10,0,5.2051275577047246e-05,1.0
+Retail,Kafr El Sheikh,35-44,Female,Google Search,Opted-in,21,16,31209.95,13,3,7.407336161249114e-05,0.8125
+Retail,Kafr El Sheikh,35-44,Female,Organic Social,Not opted-in,25,21,51289.87,17,4,0.0001217308290326534,0.8095238095238095
+Retail,Kafr El Sheikh,35-44,Female,Organic Social,Opted-in,32,30,93431.05,20,10,0.00022174825504317505,0.6666666666666666
+Retail,Kafr El Sheikh,35-44,Female,Paid Social,Not opted-in,9,7,19147.15,6,1,4.5443641075958464e-05,0.8571428571428571
+Retail,Kafr El Sheikh,35-44,Female,Paid Social,Opted-in,34,23,57000.45,17,6,0.0001352842585433402,0.7391304347826086
+Retail,Kafr El Sheikh,35-44,Female,Referral,Not opted-in,9,9,26382.55,9,0,6.261606207025734e-05,1.0
+Retail,Kafr El Sheikh,35-44,Female,Referral,Opted-in,14,11,33525.0,10,1,7.956787652843934e-05,0.9090909090909091
+Retail,Kafr El Sheikh,35-44,Female,Store Walk-in,Not opted-in,11,10,50420.07,5,5,0.00011966645501313255,0.5
+Retail,Kafr El Sheikh,35-44,Female,Store Walk-in,Opted-in,23,17,65820.89,16,1,0.00015621859652533893,0.9411764705882353
+Retail,Kafr El Sheikh,35-44,Male,Direct / WhatsApp,Not opted-in,9,7,26218.75,7,0,6.22273009017157e-05,1.0
+Retail,Kafr El Sheikh,35-44,Male,Direct / WhatsApp,Opted-in,18,16,32842.5,15,1,7.794803832618253e-05,0.9375
+Retail,Kafr El Sheikh,35-44,Male,Google Search,Not opted-in,4,4,21754.6,4,0,5.1632135025371705e-05,1.0
+Retail,Kafr El Sheikh,35-44,Male,Google Search,Opted-in,7,4,11290.05,4,0,2.6795683949288786e-05,1.0
+Retail,Kafr El Sheikh,35-44,Male,Organic Social,Not opted-in,8,7,14170.15,6,1,3.363128249334719e-05,0.8571428571428571
+Retail,Kafr El Sheikh,35-44,Male,Organic Social,Opted-in,17,16,49112.67,12,4,0.00011656348583272147,0.75
+Retail,Kafr El Sheikh,35-44,Male,Paid Social,Not opted-in,7,6,19272.73,5,1,4.574169130517372e-05,0.8333333333333334
+Retail,Kafr El Sheikh,35-44,Male,Paid Social,Opted-in,16,15,44063.15,13,2,0.0001045790090575422,0.8666666666666667
+Retail,Kafr El Sheikh,35-44,Male,Referral,Not opted-in,2,2,1566.15,1,1,3.717083663684274e-06,0.5
+Retail,Kafr El Sheikh,35-44,Male,Referral,Opted-in,9,7,28961.95,6,1,6.873798244959983e-05,0.8571428571428571
+Retail,Kafr El Sheikh,35-44,Male,Store Walk-in,Not opted-in,1,1,1829.85,1,0,4.3429464240287765e-06,1.0
+Retail,Kafr El Sheikh,35-44,Male,Store Walk-in,Opted-in,16,12,30291.8,12,0,7.189423421996059e-05,1.0
+Retail,Kafr El Sheikh,35-44,Not specified,Direct / WhatsApp,Not opted-in,1,1,1487.95,1,0,3.5314846198505987e-06,1.0
+Retail,Kafr El Sheikh,35-44,Not specified,Direct / WhatsApp,Opted-in,3,3,7246.6,2,1,1.7199002954541047e-05,0.6666666666666666
+Retail,Kafr El Sheikh,35-44,Not specified,Google Search,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Kafr El Sheikh,35-44,Not specified,Google Search,Opted-in,3,3,23172.88,3,0,5.499826561218021e-05,1.0
+Retail,Kafr El Sheikh,35-44,Not specified,Organic Social,Not opted-in,2,2,4643.6,2,0,1.1021070587545442e-05,1.0
+Retail,Kafr El Sheikh,35-44,Not specified,Organic Social,Opted-in,3,3,10886.4,3,0,2.5837665355382613e-05,1.0
+Retail,Kafr El Sheikh,35-44,Not specified,Paid Social,Not opted-in,1,1,295.0,0,1,7.001498456641195e-07,0.0
+Retail,Kafr El Sheikh,35-44,Not specified,Paid Social,Opted-in,2,2,9743.75,2,0,2.3125712063355134e-05,1.0
+Retail,Kafr El Sheikh,35-44,Not specified,Referral,Opted-in,1,1,2791.35,1,0,6.624960243032339e-06,1.0
+Retail,Kafr El Sheikh,35-44,Not specified,Store Walk-in,Not opted-in,1,1,14348.05,1,0,3.405350845112227e-05,1.0
+Retail,Kafr El Sheikh,35-44,Not specified,Store Walk-in,Opted-in,2,1,330.6,0,1,7.846425050052811e-07,0.0
+Retail,Kafr El Sheikh,45-54,Female,Direct / WhatsApp,Not opted-in,9,9,21650.15,8,1,5.138423451222047e-05,0.8888888888888888
+Retail,Kafr El Sheikh,45-54,Female,Direct / WhatsApp,Opted-in,25,24,157491.47,21,3,0.0003737885708946282,0.875
+Retail,Kafr El Sheikh,45-54,Female,Google Search,Not opted-in,8,8,35708.5,8,0,8.47501720810075e-05,1.0
+Retail,Kafr El Sheikh,45-54,Female,Google Search,Opted-in,8,4,9047.3,4,0,2.1472765080260976e-05,1.0
+Retail,Kafr El Sheikh,45-54,Female,Organic Social,Not opted-in,10,7,14789.55,6,1,3.510135983031111e-05,0.8571428571428571
+Retail,Kafr El Sheikh,45-54,Female,Organic Social,Opted-in,21,20,64771.42,19,1,0.00015372779564896903,0.95
+Retail,Kafr El Sheikh,45-54,Female,Paid Social,Not opted-in,10,9,17657.95,8,1,4.1909189719473694e-05,0.8888888888888888
+Retail,Kafr El Sheikh,45-54,Female,Paid Social,Opted-in,15,12,18383.949999999997,9,3,4.363227035659962e-05,0.75
+Retail,Kafr El Sheikh,45-54,Female,Referral,Not opted-in,3,2,668.0,0,2,1.5854240573004468e-06,0.0
+Retail,Kafr El Sheikh,45-54,Female,Referral,Opted-in,4,3,7603.3,3,0,1.8045590920467798e-05,1.0
+Retail,Kafr El Sheikh,45-54,Female,Store Walk-in,Not opted-in,11,11,26566.8,10,1,6.305335905013399e-05,0.9090909090909091
+Retail,Kafr El Sheikh,45-54,Female,Store Walk-in,Opted-in,13,11,17804.65,9,2,4.2257365930859885e-05,0.8181818181818182
+Retail,Kafr El Sheikh,45-54,Male,Direct / WhatsApp,Not opted-in,3,3,12139.75,3,0,2.8812352843732186e-05,1.0
+Retail,Kafr El Sheikh,45-54,Male,Direct / WhatsApp,Opted-in,6,5,16089.75,4,1,3.818724060770938e-05,0.8
+Retail,Kafr El Sheikh,45-54,Male,Google Search,Opted-in,3,3,7614.75,3,0,1.8072766228036795e-05,1.0
+Retail,Kafr El Sheikh,45-54,Male,Organic Social,Not opted-in,6,4,4845.35,2,2,1.149990188030048e-05,0.5
+Retail,Kafr El Sheikh,45-54,Male,Organic Social,Opted-in,9,7,37391.37,6,1,8.874427774464403e-05,0.8571428571428571
+Retail,Kafr El Sheikh,45-54,Male,Paid Social,Not opted-in,2,2,2781.85,1,1,6.602413044612647e-06,0.5
+Retail,Kafr El Sheikh,45-54,Male,Paid Social,Opted-in,5,4,41233.55,3,1,9.786326667350426e-05,0.75
+Retail,Kafr El Sheikh,45-54,Male,Referral,Opted-in,3,3,26943.51,3,0,6.394743853610054e-05,1.0
+Retail,Kafr El Sheikh,45-54,Male,Store Walk-in,Not opted-in,3,2,4418.4,2,0,1.0486583315533374e-05,1.0
+Retail,Kafr El Sheikh,45-54,Male,Store Walk-in,Opted-in,3,2,4303.75,1,1,1.0214474231447303e-05,0.5
+Retail,Kafr El Sheikh,45-54,Not specified,Direct / WhatsApp,Not opted-in,1,1,5871.05,1,0,1.3934287292835013e-05,1.0
+Retail,Kafr El Sheikh,45-54,Not specified,Google Search,Not opted-in,1,1,2352.6,1,0,5.5836356844386695e-06,1.0
+Retail,Kafr El Sheikh,45-54,Not specified,Organic Social,Opted-in,1,1,4385.65,1,0,1.0408854815718121e-05,1.0
+Retail,Kafr El Sheikh,45-54,Not specified,Store Walk-in,Opted-in,2,1,3658.6,1,0,8.683282119819483e-06,1.0
+Retail,Kafr El Sheikh,55+,Female,Direct / WhatsApp,Not opted-in,2,2,19770.98,2,0,4.692423252755387e-05,1.0
+Retail,Kafr El Sheikh,55+,Female,Direct / WhatsApp,Opted-in,6,4,14822.650000000001,3,1,3.517991901638394e-05,0.75
+Retail,Kafr El Sheikh,55+,Female,Google Search,Not opted-in,2,2,5339.65,2,0,1.2673068214916663e-05,1.0
+Retail,Kafr El Sheikh,55+,Female,Google Search,Opted-in,3,2,2959.5,2,0,7.024045655060887e-06,1.0
+Retail,Kafr El Sheikh,55+,Female,Organic Social,Not opted-in,3,1,2682.8,1,0,6.367328833721017e-06,1.0
+Retail,Kafr El Sheikh,55+,Female,Organic Social,Opted-in,6,5,8791.85,5,0,2.0866482781702e-05,1.0
+Retail,Kafr El Sheikh,55+,Female,Paid Social,Not opted-in,3,3,8474.150000000001,3,0,2.0112456998761353e-05,1.0
+Retail,Kafr El Sheikh,55+,Female,Paid Social,Opted-in,11,10,20719.35,8,2,4.917508374495211e-05,0.8
+Retail,Kafr El Sheikh,55+,Female,Referral,Not opted-in,1,1,1079.3,1,0,2.561599079407743e-06,1.0
+Retail,Kafr El Sheikh,55+,Female,Referral,Opted-in,1,1,569.5,1,0,1.351645210527851e-06,1.0
+Retail,Kafr El Sheikh,55+,Female,Store Walk-in,Not opted-in,4,3,7539.299999999999,2,1,1.789369400479829e-05,0.6666666666666666
+Retail,Kafr El Sheikh,55+,Female,Store Walk-in,Opted-in,2,1,2480.25,1,0,5.88659882952011e-06,1.0
+Retail,Kafr El Sheikh,55+,Male,Direct / WhatsApp,Not opted-in,2,2,2947.1,2,0,6.994615627649921e-06,1.0
+Retail,Kafr El Sheikh,55+,Male,Direct / WhatsApp,Opted-in,6,4,6796.35,3,1,1.6130384418913012e-05,0.75
+Retail,Kafr El Sheikh,55+,Male,Google Search,Opted-in,1,1,549.35,1,0,1.3038214159850307e-06,1.0
+Retail,Kafr El Sheikh,55+,Male,Paid Social,Not opted-in,2,2,2476.0,2,0,5.876511924963932e-06,1.0
+Retail,Kafr El Sheikh,55+,Male,Paid Social,Opted-in,3,3,6539.9,3,0,1.5521728731046694e-05,1.0
+Retail,Kafr El Sheikh,55+,Male,Referral,Opted-in,2,2,6790.0,2,0,1.611531339681143e-05,1.0
+Retail,Kafr El Sheikh,55+,Male,Store Walk-in,Opted-in,3,3,6690.05,3,0,1.5878093135543195e-05,1.0
+Retail,Kafr El Sheikh,55+,Not specified,Google Search,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Kafr El Sheikh,55+,Not specified,Paid Social,Not opted-in,1,1,3604.45,1,0,8.55476308882724e-06,1.0
+Retail,Monufia,18-24,Female,Direct / WhatsApp,Not opted-in,4,3,8141.400000000001,2,1,1.9322711706745298e-05,0.6666666666666666
+Retail,Monufia,18-24,Female,Direct / WhatsApp,Opted-in,8,7,18414.55,7,0,4.370489606940411e-05,1.0
+Retail,Monufia,18-24,Female,Google Search,Not opted-in,3,3,9983.0,3,0,2.369354545513527e-05,1.0
+Retail,Monufia,18-24,Female,Google Search,Opted-in,6,3,4806.1,3,0,1.1406746349987542e-05,1.0
+Retail,Monufia,18-24,Female,Organic Social,Not opted-in,3,3,27328.4,3,0,6.48609323466011e-05,1.0
+Retail,Monufia,18-24,Female,Organic Social,Opted-in,5,4,117284.28,4,0,0.0002783612560706013,1.0
+Retail,Monufia,18-24,Female,Paid Social,Not opted-in,3,3,5600.5,3,0,1.329216681573526e-05,1.0
+Retail,Monufia,18-24,Female,Paid Social,Opted-in,5,5,12084.550000000001,4,1,2.868134175396724e-05,0.8
+Retail,Monufia,18-24,Female,Referral,Not opted-in,2,2,1536.0,0,2,3.6455259760680933e-06,0.0
+Retail,Monufia,18-24,Female,Referral,Opted-in,1,1,245.65,0,1,5.83023083347088e-07,0.0
+Retail,Monufia,18-24,Female,Store Walk-in,Not opted-in,2,2,19947.1,2,0,4.734223385236189e-05,1.0
+Retail,Monufia,18-24,Female,Store Walk-in,Opted-in,9,7,8867.95,3,4,2.104709770799027e-05,0.42857142857142855
+Retail,Monufia,18-24,Male,Direct / WhatsApp,Not opted-in,1,1,3354.15,1,0,7.960703745201038e-06,1.0
+Retail,Monufia,18-24,Male,Direct / WhatsApp,Opted-in,2,2,2254.5,2,0,5.350806193389008e-06,1.0
+Retail,Monufia,18-24,Male,Google Search,Not opted-in,1,1,5001.15,1,0,1.1869675934383427e-05,1.0
+Retail,Monufia,18-24,Male,Google Search,Opted-in,2,1,3037.3,1,0,7.208695343171628e-06,1.0
+Retail,Monufia,18-24,Male,Organic Social,Not opted-in,2,2,2711.9,1,1,6.4363944625644945e-06,0.5
+Retail,Monufia,18-24,Male,Organic Social,Opted-in,4,3,1705.4,2,1,4.047578124730811e-06,0.6666666666666666
+Retail,Monufia,18-24,Male,Paid Social,Not opted-in,3,1,1217.25,1,0,2.889008134354744e-06,1.0
+Retail,Monufia,18-24,Male,Paid Social,Opted-in,2,2,1958.15,1,1,4.6474522721599855e-06,0.5
+Retail,Monufia,18-24,Male,Referral,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Monufia,18-24,Male,Referral,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Monufia,18-24,Male,Store Walk-in,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Monufia,18-24,Male,Store Walk-in,Opted-in,7,5,26503.449999999997,4,1,6.290300483751426e-05,0.8
+Retail,Monufia,18-24,Not specified,Direct / WhatsApp,Opted-in,1,1,5317.4,1,0,1.2620260302828437e-05,1.0
+Retail,Monufia,25-34,Female,Direct / WhatsApp,Not opted-in,17,11,37001.9,10,1,8.781991381111588e-05,0.9090909090909091
+Retail,Monufia,25-34,Female,Direct / WhatsApp,Opted-in,27,24,79926.9,20,4,0.0001896976498285136,0.8333333333333334
+Retail,Monufia,25-34,Female,Google Search,Not opted-in,9,9,10287.45,7,2,2.4416123829753717e-05,0.7777777777777778
+Retail,Monufia,25-34,Female,Google Search,Opted-in,11,9,16744.3,6,3,3.974074257882616e-05,0.6666666666666666
+Retail,Monufia,25-34,Female,Organic Social,Not opted-in,11,8,15756.0,7,1,3.739512192638599e-05,0.875
+Retail,Monufia,25-34,Female,Organic Social,Opted-in,24,22,95613.52,18,4,0.00022692810600475664,0.8181818181818182
+Retail,Monufia,25-34,Female,Paid Social,Not opted-in,17,14,39116.9,10,4,9.283963219613151e-05,0.7142857142857143
+Retail,Monufia,25-34,Female,Paid Social,Opted-in,21,16,78908.15000000001,15,1,0.00018727975947166508,0.9375
+Retail,Monufia,25-34,Female,Referral,Not opted-in,9,8,46175.07,8,0,0.00010959141740349123,1.0
+Retail,Monufia,25-34,Female,Referral,Opted-in,13,9,40753.049999999996,8,1,9.67228531113293e-05,0.8888888888888888
+Retail,Monufia,25-34,Female,Store Walk-in,Not opted-in,24,19,88933.38,18,1,0.00021107353315724913,0.9473684210526315
+Retail,Monufia,25-34,Female,Store Walk-in,Opted-in,31,29,92280.94,25,4,0.00021901859626691483,0.8620689655172413
+Retail,Monufia,25-34,Male,Direct / WhatsApp,Not opted-in,8,6,10238.35,4,2,2.429959041476352e-05,0.6666666666666666
+Retail,Monufia,25-34,Male,Direct / WhatsApp,Opted-in,8,7,34540.5,7,0,8.197805337003905e-05,1.0
+Retail,Monufia,25-34,Male,Google Search,Not opted-in,6,6,13597.95,4,2,3.227322913168954e-05,0.6666666666666666
+Retail,Monufia,25-34,Male,Google Search,Opted-in,8,6,22109.820000000003,6,0,5.2475210375123614e-05,1.0
+Retail,Monufia,25-34,Male,Organic Social,Not opted-in,5,5,4104.2,4,1,9.740864395168404e-06,0.8
+Retail,Monufia,25-34,Male,Organic Social,Opted-in,13,12,26968.75,8,4,6.400734288221771e-05,0.6666666666666666
+Retail,Monufia,25-34,Male,Paid Social,Not opted-in,1,1,2370.2,1,0,5.6254073362477824e-06,1.0
+Retail,Monufia,25-34,Male,Paid Social,Opted-in,14,12,24381.75,9,3,5.7867384744139475e-05,0.75
+Retail,Monufia,25-34,Male,Referral,Not opted-in,4,3,7416.6,2,1,1.7602479136788166e-05,0.6666666666666666
+Retail,Monufia,25-34,Male,Referral,Opted-in,9,9,25348.4,7,2,6.0161621518075824e-05,0.7777777777777778
+Retail,Monufia,25-34,Male,Store Walk-in,Not opted-in,5,4,15201.849999999999,3,1,3.607990824172574e-05,0.75
+Retail,Monufia,25-34,Male,Store Walk-in,Opted-in,12,10,53636.25,8,2,0.00012729970223560044,0.8
+Retail,Monufia,25-34,Not specified,Direct / WhatsApp,Not opted-in,1,1,862.2,1,0,2.046336260785098e-06,1.0
+Retail,Monufia,25-34,Not specified,Direct / WhatsApp,Opted-in,2,2,7029.799999999999,2,0,1.66844521527106e-05,1.0
+Retail,Monufia,25-34,Not specified,Organic Social,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Monufia,25-34,Not specified,Paid Social,Opted-in,2,1,1819.2,1,0,4.317669827905649e-06,1.0
+Retail,Monufia,25-34,Not specified,Referral,Not opted-in,2,1,1693.8,1,0,4.0200468087657136e-06,1.0
+Retail,Monufia,25-34,Not specified,Referral,Opted-in,1,1,579.5,1,0,1.375379103601211e-06,1.0
+Retail,Monufia,25-34,Not specified,Store Walk-in,Not opted-in,3,2,3345.6499999999996,2,0,7.940529936088682e-06,1.0
+Retail,Monufia,25-34,Not specified,Store Walk-in,Opted-in,1,1,2100.0,1,0,4.9841175454055965e-06,1.0
+Retail,Monufia,35-44,Female,Direct / WhatsApp,Not opted-in,15,11,15561.05,8,3,3.693242968092083e-05,0.7272727272727273
+Retail,Monufia,35-44,Female,Direct / WhatsApp,Opted-in,22,18,98757.17,15,3,0.00023438921130076342,0.8333333333333334
+Retail,Monufia,35-44,Female,Google Search,Not opted-in,8,6,44676.5,6,0,0.00010603472738919674,1.0
+Retail,Monufia,35-44,Female,Google Search,Opted-in,12,8,19669.05,7,1,4.668231295545711e-05,0.875
+Retail,Monufia,35-44,Female,Organic Social,Not opted-in,13,11,28287.2,10,1,6.713653801447485e-05,0.9090909090909091
+Retail,Monufia,35-44,Female,Organic Social,Opted-in,24,19,45978.75,15,4,0.00010912547361467504,0.7894736842105263
+Retail,Monufia,35-44,Female,Paid Social,Not opted-in,14,11,32780.95,10,1,7.780195621431599e-05,0.9090909090909091
+Retail,Monufia,35-44,Female,Paid Social,Opted-in,27,24,61240.38,17,7,0.00014534726306919332,0.7083333333333334
+Retail,Monufia,35-44,Female,Referral,Not opted-in,7,7,16610.6,5,2,3.942342042843533e-05,0.7142857142857143
+Retail,Monufia,35-44,Female,Referral,Opted-in,13,9,25353.6,8,1,6.0173963142473966e-05,0.8888888888888888
+Retail,Monufia,35-44,Female,Store Walk-in,Not opted-in,16,14,46429.6,12,2,0.00011019551618388746,0.8571428571428571
+Retail,Monufia,35-44,Female,Store Walk-in,Opted-in,22,18,40753.1,15,3,9.672297178079467e-05,0.8333333333333334
+Retail,Monufia,35-44,Male,Direct / WhatsApp,Not opted-in,8,7,8658.65,6,1,2.0550347325964842e-05,0.8571428571428571
+Retail,Monufia,35-44,Male,Direct / WhatsApp,Opted-in,10,10,65927.06999999999,6,4,0.00015647060300199187,0.6
+Retail,Monufia,35-44,Male,Google Search,Not opted-in,6,5,7536.35,4,1,1.7886692506341653e-05,0.8
+Retail,Monufia,35-44,Male,Google Search,Opted-in,4,3,40227.8,2,1,9.547623037765108e-05,0.6666666666666666
+Retail,Monufia,35-44,Male,Organic Social,Not opted-in,5,4,11018.5,3,1,2.6151190082881697e-05,0.75
+Retail,Monufia,35-44,Male,Organic Social,Opted-in,11,10,75303.74,10,0,0.00017872509131841013,1.0
+Retail,Monufia,35-44,Male,Paid Social,Not opted-in,5,3,4406.4,2,1,1.0458102643845342e-05,0.6666666666666666
+Retail,Monufia,35-44,Male,Paid Social,Opted-in,10,9,19561.85,7,2,4.642788562171069e-05,0.7777777777777778
+Retail,Monufia,35-44,Male,Referral,Not opted-in,3,2,5535.799999999999,2,0,1.3138608527550617e-05,1.0
+Retail,Monufia,35-44,Male,Referral,Opted-in,7,5,4330.25,3,2,1.0277369048091706e-05,0.6
+Retail,Monufia,35-44,Male,Store Walk-in,Not opted-in,5,5,9688.3,5,0,2.299410762626335e-05,1.0
+Retail,Monufia,35-44,Male,Store Walk-in,Opted-in,6,6,10023.4,4,2,2.3789430383151645e-05,0.6666666666666666
+Retail,Monufia,35-44,Not specified,Direct / WhatsApp,Opted-in,3,3,13192.25,3,0,3.1310345089703324e-05,1.0
+Retail,Monufia,35-44,Not specified,Google Search,Opted-in,1,1,2225.65,1,0,5.282333911872365e-06,1.0
+Retail,Monufia,35-44,Not specified,Organic Social,Not opted-in,1,1,299.0,0,1,7.096434028934635e-07,0.0
+Retail,Monufia,35-44,Not specified,Organic Social,Opted-in,2,2,1461.15,0,2,3.467877786413994e-06,0.0
+Retail,Monufia,35-44,Not specified,Paid Social,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Monufia,35-44,Not specified,Referral,Not opted-in,1,1,5148.95,1,0,1.2220462874007688e-05,1.0
+Retail,Monufia,35-44,Not specified,Referral,Opted-in,1,1,5068.05,1,0,1.2028455679044207e-05,1.0
+Retail,Monufia,45-54,Female,Direct / WhatsApp,Not opted-in,10,7,13906.15,5,2,3.300470771621049e-05,0.7142857142857143
+Retail,Monufia,45-54,Female,Direct / WhatsApp,Opted-in,11,8,21748.75,7,1,5.161825069792379e-05,0.875
+Retail,Monufia,45-54,Female,Google Search,Not opted-in,4,3,2280.5,1,2,5.412514315379744e-06,0.3333333333333333
+Retail,Monufia,45-54,Female,Google Search,Opted-in,9,7,32501.899999999998,4,3,7.713966192810388e-05,0.5714285714285714
+Retail,Monufia,45-54,Female,Organic Social,Not opted-in,5,5,8730.55,3,2,2.0720994017162298e-05,0.6
+Retail,Monufia,45-54,Female,Organic Social,Opted-in,15,11,27243.5,9,2,6.465943159440828e-05,0.8181818181818182
+Retail,Monufia,45-54,Female,Paid Social,Not opted-in,10,9,36566.48,7,2,8.678649263891564e-05,0.7777777777777778
+Retail,Monufia,45-54,Female,Paid Social,Opted-in,6,6,19149.85,6,0,4.545004922708827e-05,1.0
+Retail,Monufia,45-54,Female,Referral,Not opted-in,5,4,7381.0,4,0,1.7517986477447003e-05,1.0
+Retail,Monufia,45-54,Female,Referral,Opted-in,6,5,12905.349999999999,5,0,3.062941969742862e-05,1.0
+Retail,Monufia,45-54,Female,Store Walk-in,Not opted-in,8,7,15694.75,5,2,3.724975183131166e-05,0.7142857142857143
+Retail,Monufia,45-54,Female,Store Walk-in,Opted-in,11,8,43615.479999999996,7,1,0.00010351651386632708,0.875
+Retail,Monufia,45-54,Male,Direct / WhatsApp,Not opted-in,5,3,3464.0,1,2,8.221420560611899e-06,0.3333333333333333
+Retail,Monufia,45-54,Male,Direct / WhatsApp,Opted-in,3,3,7066.05,1,2,1.677048751510153e-05,0.3333333333333333
+Retail,Monufia,45-54,Male,Google Search,Not opted-in,1,1,5769.15,1,0,1.3692438922417474e-05,1.0
+Retail,Monufia,45-54,Male,Google Search,Opted-in,2,1,348.0,0,1,8.259394789529274e-07,0.0
+Retail,Monufia,45-54,Male,Organic Social,Not opted-in,4,3,6901.099999999999,3,0,1.6378996948856458e-05,1.0
+Retail,Monufia,45-54,Male,Organic Social,Opted-in,6,4,9004.3,3,1,2.1370709340045527e-05,0.75
+Retail,Monufia,45-54,Male,Paid Social,Not opted-in,3,2,905.05,1,1,2.1480359926044454e-06,0.5
+Retail,Monufia,45-54,Male,Paid Social,Opted-in,3,3,3379.3,2,1,8.02039448628054e-06,0.6666666666666666
+Retail,Monufia,45-54,Male,Referral,Not opted-in,2,2,7439.8,2,0,1.765754176871836e-05,1.0
+Retail,Monufia,45-54,Male,Referral,Opted-in,1,1,2700.45,1,0,6.409219154995496e-06,1.0
+Retail,Monufia,45-54,Male,Store Walk-in,Not opted-in,3,2,7352.1,2,0,1.7449395526464996e-05,1.0
+Retail,Monufia,45-54,Male,Store Walk-in,Opted-in,1,1,1376.1,1,0,3.266021025825067e-06,1.0
+Retail,Monufia,45-54,Not specified,Google Search,Not opted-in,1,1,12095.439999999999,1,0,2.8707187963524124e-05,1.0
+Retail,Monufia,45-54,Not specified,Google Search,Opted-in,1,1,1566.7,1,0,3.7183890278033086e-06,1.0
+Retail,Monufia,45-54,Not specified,Organic Social,Not opted-in,1,1,1118.3000000000002,1,0,2.6541612623938473e-06,1.0
+Retail,Monufia,45-54,Not specified,Organic Social,Opted-in,1,1,299.0,0,1,7.096434028934635e-07,0.0
+Retail,Monufia,45-54,Not specified,Paid Social,Opted-in,1,1,528.0,0,1,1.253149554273407e-06,0.0
+Retail,Monufia,45-54,Not specified,Referral,Opted-in,1,1,3279.2,1,0,7.782818216616205e-06,1.0
+Retail,Monufia,45-54,Not specified,Store Walk-in,Opted-in,1,1,2953.05,1,0,7.008737294028571e-06,1.0
+Retail,Monufia,55+,Female,Direct / WhatsApp,Not opted-in,2,1,1156.0,1,0,2.743638039280414e-06,1.0
+Retail,Monufia,55+,Female,Direct / WhatsApp,Opted-in,7,6,6983.15,4,2,1.6573733541523376e-05,0.6666666666666666
+Retail,Monufia,55+,Female,Google Search,Not opted-in,1,1,972.0,1,0,2.3069344067305904e-06,1.0
+Retail,Monufia,55+,Female,Google Search,Opted-in,5,4,4435.15,2,2,1.0526337586431253e-05,0.5
+Retail,Monufia,55+,Female,Organic Social,Not opted-in,2,1,2398.1,1,0,5.691624897922458e-06,1.0
+Retail,Monufia,55+,Female,Organic Social,Opted-in,6,6,4448.75,4,2,1.0558615681011022e-05,0.6666666666666666
+Retail,Monufia,55+,Female,Paid Social,Opted-in,6,6,20501.28,4,2,4.865751873870135e-05,0.6666666666666666
+Retail,Monufia,55+,Female,Referral,Not opted-in,1,1,2303.0,1,0,5.4659155747948045e-06,1.0
+Retail,Monufia,55+,Female,Referral,Opted-in,1,1,284.05,0,1,6.741612327487904e-07,0.0
+Retail,Monufia,55+,Female,Store Walk-in,Not opted-in,1,1,612.2,1,0,1.4529889339510982e-06,1.0
+Retail,Monufia,55+,Female,Store Walk-in,Opted-in,6,4,6781.15,4,0,1.6094308901441503e-05,1.0
+Retail,Monufia,55+,Male,Direct / WhatsApp,Not opted-in,1,1,3184.65,1,0,7.558414257607588e-06,1.0
+Retail,Monufia,55+,Male,Direct / WhatsApp,Opted-in,5,5,2885.2,2,3,6.847702829525822e-06,0.4
+Retail,Monufia,55+,Male,Google Search,Opted-in,2,1,578.0,0,1,1.371819019640207e-06,0.0
+Retail,Monufia,55+,Male,Organic Social,Not opted-in,1,1,299.0,0,1,7.096434028934635e-07,0.0
+Retail,Monufia,55+,Male,Organic Social,Opted-in,2,1,584.0,1,0,1.3860593554842231e-06,1.0
+Retail,Monufia,55+,Male,Paid Social,Not opted-in,2,2,5364.5,1,1,1.2732046939203963e-05,0.5
+Retail,Monufia,55+,Male,Referral,Opted-in,1,1,15129.26,1,0,3.590762391190623e-05,1.0
+Retail,Monufia,55+,Male,Store Walk-in,Not opted-in,2,1,1320.5500000000002,1,0,3.134179249802553e-06,1.0
+Retail,Monufia,55+,Male,Store Walk-in,Opted-in,3,2,14190.64,2,0,3.367991324025451e-05,1.0
+Retail,Other,18-24,Female,Direct / WhatsApp,Not opted-in,8,7,16264.25,7,0,3.860139704183951e-05,1.0
+Retail,Other,18-24,Female,Direct / WhatsApp,Opted-in,15,14,34726.75,13,1,8.242009712853038e-05,0.9285714285714286
+Retail,Other,18-24,Female,Google Search,Not opted-in,6,5,14921.45,5,0,3.541440987994873e-05,1.0
+Retail,Other,18-24,Female,Google Search,Opted-in,8,8,36839.28,7,1,8.74339532419569e-05,0.875
+Retail,Other,18-24,Female,Organic Social,Not opted-in,5,3,8272.0,3,0,1.9632676350283377e-05,1.0
+Retail,Other,18-24,Female,Organic Social,Opted-in,16,13,35969.700000000004,12,1,8.537010136808366e-05,0.9230769230769231
+Retail,Other,18-24,Female,Paid Social,Not opted-in,6,6,17570.55,6,0,4.170175549401252e-05,1.0
+Retail,Other,18-24,Female,Paid Social,Opted-in,18,14,23562.25,12,2,5.5922392206777625e-05,0.8571428571428571
+Retail,Other,18-24,Female,Referral,Not opted-in,5,5,11672.95,4,1,2.7704454715067745e-05,0.8
+Retail,Other,18-24,Female,Referral,Opted-in,5,4,6269.0,4,0,1.4878777567689373e-05,1.0
+Retail,Other,18-24,Female,Store Walk-in,Not opted-in,1,1,28274.789999999997,1,0,6.710708425317081e-05,1.0
+Retail,Other,18-24,Female,Store Walk-in,Opted-in,18,18,31560.95,13,5,7.490642125936609e-05,0.7222222222222222
+Retail,Other,18-24,Male,Direct / WhatsApp,Not opted-in,4,3,10025.15,2,1,2.3793583814439484e-05,0.6666666666666666
+Retail,Other,18-24,Male,Direct / WhatsApp,Opted-in,4,4,6738.9,3,1,1.5994033203206558e-05,0.75
+Retail,Other,18-24,Male,Google Search,Not opted-in,1,1,2206.15,1,0,5.236052820379313e-06,1.0
+Retail,Other,18-24,Male,Google Search,Opted-in,3,2,2323.8,2,0,5.515282072387394e-06,1.0
+Retail,Other,18-24,Male,Organic Social,Not opted-in,3,3,3858.7,2,1,9.158197320217416e-06,0.6666666666666666
+Retail,Other,18-24,Male,Organic Social,Opted-in,6,6,46184.04,4,2,0.00010961270670557804,0.6666666666666666
+Retail,Other,18-24,Male,Paid Social,Not opted-in,2,2,3438.05,1,1,8.15983110808653e-06,0.5
+Retail,Other,18-24,Male,Paid Social,Opted-in,5,5,13666.3,5,0,3.2435450290845955e-05,1.0
+Retail,Other,18-24,Male,Referral,Not opted-in,4,3,8142.25,3,0,1.9324729087656534e-05,1.0
+Retail,Other,18-24,Male,Referral,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Other,18-24,Male,Store Walk-in,Not opted-in,7,4,8584.6,3,1,2.0374597847756613e-05,0.75
+Retail,Other,18-24,Male,Store Walk-in,Opted-in,5,4,5411.95,3,1,1.2844664261837056e-05,0.75
+Retail,Other,18-24,Not specified,Direct / WhatsApp,Opted-in,1,1,2548.0,1,0,6.047395955092124e-06,1.0
+Retail,Other,18-24,Not specified,Organic Social,Not opted-in,1,1,239.2,0,1,5.677147223147708e-07,0.0
+Retail,Other,18-24,Not specified,Referral,Not opted-in,2,1,236.0,0,1,5.601198765312956e-07,0.0
+Retail,Other,25-34,Female,Direct / WhatsApp,Not opted-in,40,36,101465.59,27,9,0.0002408173463685384,0.75
+Retail,Other,25-34,Female,Direct / WhatsApp,Opted-in,66,55,138139.15,47,8,0.00032785798153448355,0.8545454545454545
+Retail,Other,25-34,Female,Google Search,Not opted-in,27,18,50676.05,15,3,0.00012027399520802442,0.8333333333333334
+Retail,Other,25-34,Female,Google Search,Opted-in,29,23,89669.31,19,4,0.0002128201815501969,0.8260869565217391
+Retail,Other,25-34,Female,Organic Social,Not opted-in,37,30,110295.3,27,3,0.00026177368566941613,0.9
+Retail,Other,25-34,Female,Organic Social,Opted-in,52,44,196169.99,39,5,0.0004655877566862097,0.8863636363636364
+Retail,Other,25-34,Female,Paid Social,Not opted-in,27,22,107570.79,18,4,0.00025530736276768614,0.8181818181818182
+Retail,Other,25-34,Female,Paid Social,Opted-in,46,41,141658.66,35,6,0.0003362111489355457,0.8536585365853658
+Retail,Other,25-34,Female,Referral,Not opted-in,12,9,15780.2,7,2,3.745255794762352e-05,0.7777777777777778
+Retail,Other,25-34,Female,Referral,Opted-in,30,24,50326.1,20,4,0.00011944342761992218,0.8333333333333334
+Retail,Other,25-34,Female,Store Walk-in,Not opted-in,32,28,125330.54,25,3,0.0002974581635186466,0.8928571428571429
+Retail,Other,25-34,Female,Store Walk-in,Opted-in,57,43,118884.85,40,3,0.0002821600317942441,0.9302325581395349
+Retail,Other,25-34,Male,Direct / WhatsApp,Not opted-in,15,14,39412.95,11,3,9.354227410056833e-05,0.7857142857142857
+Retail,Other,25-34,Male,Direct / WhatsApp,Opted-in,21,19,52869.47,14,5,0.00012547983478252136,0.7368421052631579
+Retail,Other,25-34,Male,Google Search,Not opted-in,4,2,8288.0,2,0,1.9670650579200754e-05,1.0
+Retail,Other,25-34,Male,Google Search,Opted-in,20,19,49167.55,16,3,0.00011669373743790808,0.8421052631578947
+Retail,Other,25-34,Male,Organic Social,Not opted-in,14,13,27811.25,12,1,6.600692337364829e-05,0.9230769230769231
+Retail,Other,25-34,Male,Organic Social,Opted-in,29,25,81388.65,21,4,0.000193166951648512,0.84
+Retail,Other,25-34,Male,Paid Social,Not opted-in,18,14,44874.479999999996,12,2,0.0001065046110042631,0.8571428571428571
+Retail,Other,25-34,Male,Paid Social,Opted-in,19,16,40332.95,13,3,9.572579226331745e-05,0.8125
+Retail,Other,25-34,Male,Referral,Not opted-in,8,6,15009.75,4,2,3.56239801557865e-05,0.6666666666666666
+Retail,Other,25-34,Male,Referral,Opted-in,11,7,22728.45,6,1,5.3943460202320874e-05,0.8571428571428571
+Retail,Other,25-34,Male,Store Walk-in,Not opted-in,14,12,23162.35,11,1,5.4973273822773955e-05,0.9166666666666666
+Retail,Other,25-34,Male,Store Walk-in,Opted-in,19,17,34199.9,12,5,8.116967697196042e-05,0.7058823529411765
+Retail,Other,25-34,Not specified,Direct / WhatsApp,Not opted-in,2,2,1373.2,1,1,3.259138196833793e-06,0.5
+Retail,Other,25-34,Not specified,Direct / WhatsApp,Opted-in,1,1,3412.35,1,0,8.098835002887993e-06,1.0
+Retail,Other,25-34,Not specified,Google Search,Not opted-in,2,2,8837.4,2,0,2.097459066465115e-05,1.0
+Retail,Other,25-34,Not specified,Google Search,Opted-in,2,2,2704.2,2,0,6.4181193648980065e-06,1.0
+Retail,Other,25-34,Not specified,Organic Social,Opted-in,4,4,13249.0,3,1,3.1445034932894645e-05,0.75
+Retail,Other,25-34,Not specified,Paid Social,Opted-in,4,4,10871.35,4,0,2.5801945846307207e-05,1.0
+Retail,Other,25-34,Not specified,Referral,Opted-in,1,1,22656.020000000004,1,0,5.3771555614790535e-05,1.0
+Retail,Other,25-34,Not specified,Store Walk-in,Not opted-in,3,2,4844.4,2,0,1.149764716045851e-05,1.0
+Retail,Other,25-34,Not specified,Store Walk-in,Opted-in,1,1,501.5,0,1,1.1902547376290032e-06,0.0
+Retail,Other,35-44,Female,Direct / WhatsApp,Not opted-in,28,24,95189.16,20,4,0.00022592093451829552,0.8333333333333334
+Retail,Other,35-44,Female,Direct / WhatsApp,Opted-in,48,41,165432.03,36,5,0.0003926346110928881,0.8780487804878049
+Retail,Other,35-44,Female,Google Search,Not opted-in,17,12,55663.36,8,4,0.00013211082343439433,0.6666666666666666
+Retail,Other,35-44,Female,Google Search,Opted-in,25,21,65692.6,17,4,0.00015591411441110082,0.8095238095238095
+Retail,Other,35-44,Female,Organic Social,Not opted-in,25,24,141196.1,19,5,0.0003351133139775444,0.7916666666666666
+Retail,Other,35-44,Female,Organic Social,Opted-in,40,38,94812.75,34,4,0.00022502756704912119,0.8947368421052632
+Retail,Other,35-44,Female,Paid Social,Not opted-in,23,16,56234.13,13,3,0.00013346548284934247,0.8125
+Retail,Other,35-44,Female,Paid Social,Opted-in,47,35,119229.05,31,4,0.0002829769523938291,0.8857142857142857
+Retail,Other,35-44,Female,Referral,Not opted-in,15,13,37114.75,11,2,8.808775079444875e-05,0.8461538461538461
+Retail,Other,35-44,Female,Referral,Opted-in,17,13,40500.4,11,2,9.612321630283087e-05,0.8461538461538461
+Retail,Other,35-44,Female,Store Walk-in,Not opted-in,16,16,33326.95,13,3,7.909782677612145e-05,0.8125
+Retail,Other,35-44,Female,Store Walk-in,Opted-in,40,32,100603.45,30,2,0.00023877115251111174,0.9375
+Retail,Other,35-44,Male,Direct / WhatsApp,Not opted-in,13,8,12397.65,7,1,2.9424449946094138e-05,0.875
+Retail,Other,35-44,Male,Direct / WhatsApp,Opted-in,22,19,67112.35,16,3,0.0001592837338801911,0.8421052631578947
+Retail,Other,35-44,Male,Google Search,Not opted-in,5,2,16347.350000000002,2,0,3.879862569327914e-05,1.0
+Retail,Other,35-44,Male,Google Search,Opted-in,8,5,19864.6,5,0,4.714642923450667e-05,1.0
+Retail,Other,35-44,Male,Organic Social,Not opted-in,10,9,24487.2,8,1,5.811765864659806e-05,0.8888888888888888
+Retail,Other,35-44,Male,Organic Social,Opted-in,26,23,71792.7,20,3,0.00017039202652478113,0.8695652173913043
+Retail,Other,35-44,Male,Paid Social,Not opted-in,10,9,19073.0,8,1,4.52676542588195e-05,0.8888888888888888
+Retail,Other,35-44,Male,Paid Social,Opted-in,23,18,39256.6,16,2,9.317119468236634e-05,0.8888888888888888
+Retail,Other,35-44,Male,Referral,Not opted-in,5,5,9117.55,3,2,2.163949567910133e-05,0.6
+Retail,Other,35-44,Male,Referral,Opted-in,12,10,27458.05,10,0,6.51686422702972e-05,1.0
+Retail,Other,35-44,Male,Store Walk-in,Not opted-in,9,9,24159.25,7,2,5.733930562325722e-05,0.7777777777777778
+Retail,Other,35-44,Male,Store Walk-in,Opted-in,20,14,53297.61,12,2,0.00012649597768056418,0.8571428571428571
+Retail,Other,35-44,Not specified,Direct / WhatsApp,Not opted-in,1,1,2411.6,1,0,5.723665653571494e-06,1.0
+Retail,Other,35-44,Not specified,Direct / WhatsApp,Opted-in,6,4,21694.65,4,0,5.148985033639692e-05,1.0
+Retail,Other,35-44,Not specified,Google Search,Not opted-in,3,3,6991.35,3,0,1.6593195333843534e-05,1.0
+Retail,Other,35-44,Not specified,Organic Social,Not opted-in,2,2,11275.5,2,0,2.676115113486705e-05,1.0
+Retail,Other,35-44,Not specified,Organic Social,Opted-in,2,1,1065.8,1,0,2.529558323758707e-06,1.0
+Retail,Other,35-44,Not specified,Paid Social,Not opted-in,2,2,1373.95,1,1,3.260918238814295e-06,0.5
+Retail,Other,35-44,Not specified,Paid Social,Opted-in,1,1,2411.2,1,0,5.722716297848559e-06,1.0
+Retail,Other,35-44,Not specified,Referral,Not opted-in,1,1,280.25,0,1,6.651423533809136e-07,0.0
+Retail,Other,35-44,Not specified,Store Walk-in,Not opted-in,1,1,2227.45,1,0,5.286606012625569e-06,1.0
+Retail,Other,45-54,Female,Direct / WhatsApp,Not opted-in,7,7,16215.55,5,2,3.848581298257225e-05,0.7142857142857143
+Retail,Other,45-54,Female,Direct / WhatsApp,Opted-in,22,19,56653.619999999995,15,4,0.00013446109592987686,0.7894736842105263
+Retail,Other,45-54,Female,Google Search,Not opted-in,7,5,14693.8,5,0,3.487410780413369e-05,1.0
+Retail,Other,45-54,Female,Google Search,Opted-in,5,5,9927.6,4,1,2.3562059687508858e-05,0.8
+Retail,Other,45-54,Female,Organic Social,Not opted-in,15,14,62905.45,11,3,0.00014929912240315926,0.7857142857142857
+Retail,Other,45-54,Female,Organic Social,Opted-in,22,18,66072.09,14,4,0.00015681479191934173,0.7777777777777778
+Retail,Other,45-54,Female,Paid Social,Not opted-in,20,18,50571.05,12,6,0.00012002478933075415,0.6666666666666666
+Retail,Other,45-54,Female,Paid Social,Opted-in,24,20,59853.25,18,2,0.00014205506355930835,0.9
+Retail,Other,45-54,Female,Referral,Not opted-in,8,7,6368.4,3,4,1.511469246483857e-05,0.42857142857142855
+Retail,Other,45-54,Female,Referral,Opted-in,7,6,12320.800000000001,5,1,2.924205497782537e-05,0.8333333333333334
+Retail,Other,45-54,Female,Store Walk-in,Not opted-in,14,11,80877.06999999999,11,0,0.00019195277314666502,1.0
+Retail,Other,45-54,Female,Store Walk-in,Opted-in,22,20,56729.19,15,5,0.00013464045295983224,0.75
+Retail,Other,45-54,Male,Direct / WhatsApp,Not opted-in,8,6,34786.95,6,0,8.2562975164832e-05,1.0
+Retail,Other,45-54,Male,Direct / WhatsApp,Opted-in,9,8,20517.55,7,1,4.869613378273171e-05,0.875
+Retail,Other,45-54,Male,Google Search,Not opted-in,6,6,14679.85,6,0,3.484099902329636e-05,1.0
+Retail,Other,45-54,Male,Google Search,Opted-in,5,4,21504.7,3,1,5.103902503746845e-05,0.75
+Retail,Other,45-54,Male,Organic Social,Not opted-in,7,7,23887.05,7,0,5.669326905380036e-05,1.0
+Retail,Other,45-54,Male,Organic Social,Opted-in,9,5,8650.0,4,1,2.0529817508456386e-05,0.8
+Retail,Other,45-54,Male,Paid Social,Not opted-in,7,7,16200.8,7,0,3.845080549028904e-05,1.0
+Retail,Other,45-54,Male,Paid Social,Opted-in,16,16,88824.18,14,2,0.000210814359044888,0.875
+Retail,Other,45-54,Male,Referral,Not opted-in,1,1,330.6,0,1,7.846425050052811e-07,0.0
+Retail,Other,45-54,Male,Referral,Opted-in,2,2,952.55,1,1,2.2607719847029052e-06,0.5
+Retail,Other,45-54,Male,Store Walk-in,Not opted-in,4,3,12195.7,2,1,2.8945143975477636e-05,0.6666666666666666
+Retail,Other,45-54,Male,Store Walk-in,Opted-in,10,8,14302.5,8,0,3.3945400568173115e-05,1.0
+Retail,Other,45-54,Not specified,Direct / WhatsApp,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Other,45-54,Not specified,Direct / WhatsApp,Opted-in,1,1,5505.0,1,0,1.306550813688467e-05,1.0
+Retail,Other,45-54,Not specified,Organic Social,Not opted-in,1,1,887.0,1,0,2.1051963156070305e-06,1.0
+Retail,Other,45-54,Not specified,Organic Social,Opted-in,2,2,13627.289999999999,2,0,3.2342864373966774e-05,1.0
+Retail,Other,45-54,Not specified,Paid Social,Opted-in,1,1,2072.05,1,0,4.917781314265556e-06,1.0
+Retail,Other,45-54,Not specified,Referral,Not opted-in,1,1,7084.3,1,0,1.6813801869960412e-05,1.0
+Retail,Other,45-54,Not specified,Store Walk-in,Opted-in,1,1,6547.15,1,0,1.553893580352488e-05,1.0
+Retail,Other,55+,Female,Direct / WhatsApp,Not opted-in,5,4,8153.25,3,1,1.935083637003723e-05,0.75
+Retail,Other,55+,Female,Direct / WhatsApp,Opted-in,13,10,36496.21,9,1,8.661971457228914e-05,0.9
+Retail,Other,55+,Female,Google Search,Not opted-in,3,1,299.0,0,1,7.096434028934635e-07,0.0
+Retail,Other,55+,Female,Google Search,Opted-in,7,6,11702.55,3,3,2.7774707038564884e-05,0.5
+Retail,Other,55+,Female,Organic Social,Not opted-in,5,4,3245.8999999999996,2,2,7.703784352681916e-06,0.5
+Retail,Other,55+,Female,Organic Social,Opted-in,5,4,15968.3,4,0,3.789899247633342e-05,1.0
+Retail,Other,55+,Female,Paid Social,Not opted-in,7,5,12284.95,5,0,2.9156968971157374e-05,1.0
+Retail,Other,55+,Female,Paid Social,Opted-in,11,9,16525.8,6,3,3.922215701517324e-05,0.6666666666666666
+Retail,Other,55+,Female,Referral,Not opted-in,4,4,16704.7,4,0,3.964675636225565e-05,1.0
+Retail,Other,55+,Female,Referral,Opted-in,4,3,2648.2,2,1,6.285209563687191e-06,0.6666666666666666
+Retail,Other,55+,Female,Store Walk-in,Not opted-in,7,7,34059.75,6,1,8.083704646053727e-05,0.8571428571428571
+Retail,Other,55+,Female,Store Walk-in,Opted-in,9,8,17157.75,7,1,4.072202038794422e-05,0.875
+Retail,Other,55+,Male,Direct / WhatsApp,Not opted-in,1,1,1679.85,1,0,3.986938027928377e-06,1.0
+Retail,Other,55+,Male,Google Search,Not opted-in,1,1,2278.7999999999997,1,0,5.408479553557272e-06,1.0
+Retail,Other,55+,Male,Organic Social,Not opted-in,3,3,6403.049999999999,2,1,1.5196930404337763e-05,0.6666666666666666
+Retail,Other,55+,Male,Organic Social,Opted-in,1,1,1398.95,1,0,3.320252971497695e-06,1.0
+Retail,Other,55+,Male,Paid Social,Not opted-in,1,1,859.15,1,0,2.039097423397723e-06,1.0
+Retail,Other,55+,Male,Paid Social,Opted-in,4,4,11938.05,4,0,2.8333640220442512e-05,1.0
+Retail,Other,55+,Male,Referral,Not opted-in,4,3,7352.1,2,1,1.7449395526464996e-05,0.6666666666666666
+Retail,Other,55+,Male,Referral,Opted-in,2,1,2337.35,1,0,5.5474414975017956e-06,1.0
+Retail,Other,55+,Male,Store Walk-in,Not opted-in,3,3,4532.4,3,0,1.0757149696569679e-05,1.0
+Retail,Other,55+,Male,Store Walk-in,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Other,55+,Not specified,Google Search,Not opted-in,1,1,7747.469999999999,1,0,1.8387762456906424e-05,1.0
+Retail,Other,55+,Not specified,Paid Social,Opted-in,1,1,977.0,1,0,2.3188013532672705e-06,1.0
+Retail,Port Said,18-24,Female,Direct / WhatsApp,Not opted-in,2,2,5031.45,1,1,1.1941589630395708e-05,0.5
+Retail,Port Said,18-24,Female,Direct / WhatsApp,Opted-in,5,3,5376.45,2,1,1.2760408941426628e-05,0.6666666666666666
+Retail,Port Said,18-24,Female,Google Search,Not opted-in,1,1,7285.25,1,0,1.7290734451269583e-05,1.0
+Retail,Port Said,18-24,Female,Google Search,Opted-in,2,2,3463.3,1,1,8.219759188096763e-06,0.5
+Retail,Port Said,18-24,Female,Organic Social,Not opted-in,2,1,3322.6,1,0,7.885823312554588e-06,1.0
+Retail,Port Said,18-24,Female,Organic Social,Opted-in,5,4,7082.65,3,1,1.680988577760331e-05,0.75
+Retail,Port Said,18-24,Female,Paid Social,Not opted-in,4,3,8449.0,3,0,2.005276625768185e-05,1.0
+Retail,Port Said,18-24,Female,Paid Social,Opted-in,4,4,18516.55,3,1,4.394698177875238e-05,0.75
+Retail,Port Said,18-24,Female,Referral,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Port Said,18-24,Female,Referral,Opted-in,1,1,39969.61,1,0,9.486344499239e-05,1.0
+Retail,Port Said,18-24,Female,Store Walk-in,Not opted-in,1,1,829.5,1,0,1.9687264304352104e-06,1.0
+Retail,Port Said,18-24,Female,Store Walk-in,Opted-in,4,4,7714.950000000001,3,1,1.8310579836631863e-05,0.75
+Retail,Port Said,18-24,Male,Direct / WhatsApp,Not opted-in,1,1,6585.8,1,0,1.563066730025342e-05,1.0
+Retail,Port Said,18-24,Male,Direct / WhatsApp,Opted-in,6,3,7348.599999999999,3,0,1.7441088663889315e-05,1.0
+Retail,Port Said,18-24,Male,Google Search,Not opted-in,1,1,3467.7,1,0,8.230202101049042e-06,1.0
+Retail,Port Said,18-24,Male,Organic Social,Not opted-in,1,1,3825.55,1,0,9.07951946467923e-06,1.0
+Retail,Port Said,18-24,Male,Organic Social,Opted-in,5,5,21801.1,5,0,5.174249762816283e-05,1.0
+Retail,Port Said,18-24,Male,Paid Social,Not opted-in,3,3,5192.6,2,1,1.2324061317272905e-05,0.6666666666666666
+Retail,Port Said,18-24,Male,Paid Social,Opted-in,6,3,3285.8500000000004,2,1,7.79860125550999e-06,0.6666666666666666
+Retail,Port Said,18-24,Male,Store Walk-in,Not opted-in,3,3,11930.650000000001,3,0,2.8316077139568233e-05,1.0
+Retail,Port Said,18-24,Not specified,Direct / WhatsApp,Not opted-in,1,1,3206.9,1,0,7.611222169695813e-06,1.0
+Retail,Port Said,18-24,Not specified,Organic Social,Opted-in,1,1,4177.95,1,0,9.915901856584433e-06,1.0
+Retail,Port Said,25-34,Female,Direct / WhatsApp,Not opted-in,8,8,10307.85,7,1,2.446454097162337e-05,0.875
+Retail,Port Said,25-34,Female,Direct / WhatsApp,Opted-in,18,15,41027.95,10,5,9.737529783191597e-05,0.6666666666666666
+Retail,Port Said,25-34,Female,Google Search,Not opted-in,6,4,7611.65,4,0,1.806540872118405e-05,1.0
+Retail,Port Said,25-34,Female,Google Search,Opted-in,10,10,45145.42,9,1,0.00010714765710319272,0.9
+Retail,Port Said,25-34,Female,Organic Social,Not opted-in,8,8,12644.15,5,3,3.0009490410352464e-05,0.625
+Retail,Port Said,25-34,Female,Organic Social,Opted-in,18,15,31379.350000000002,12,3,7.447541376115386e-05,0.8
+Retail,Port Said,25-34,Female,Paid Social,Not opted-in,7,6,20479.25,4,2,4.8605232972260745e-05,0.6666666666666666
+Retail,Port Said,25-34,Female,Paid Social,Opted-in,14,13,31521.95,10,3,7.481385907637997e-05,0.7692307692307693
+Retail,Port Said,25-34,Female,Referral,Not opted-in,6,5,29004.33,4,1,6.883856668844473e-05,0.8
+Retail,Port Said,25-34,Female,Referral,Opted-in,7,6,9243.9,5,1,2.1939373418083233e-05,0.8333333333333334
+Retail,Port Said,25-34,Female,Store Walk-in,Not opted-in,10,9,34873.51,9,0,8.276841574327502e-05,1.0
+Retail,Port Said,25-34,Female,Store Walk-in,Opted-in,13,12,27018.7,9,3,6.412589367811914e-05,0.75
+Retail,Port Said,25-34,Male,Direct / WhatsApp,Not opted-in,7,6,12458.05,5,1,2.9567802660257233e-05,0.8333333333333334
+Retail,Port Said,25-34,Male,Direct / WhatsApp,Opted-in,6,6,10782.85,4,2,2.559190089260797e-05,0.6666666666666666
+Retail,Port Said,25-34,Male,Google Search,Opted-in,2,2,2779.8,2,0,6.597547596532609e-06,1.0
+Retail,Port Said,25-34,Male,Organic Social,Not opted-in,6,4,10344.85,4,0,2.4552356375994803e-05,1.0
+Retail,Port Said,25-34,Male,Organic Social,Opted-in,11,8,14670.9,7,1,3.4819757188995694e-05,0.875
+Retail,Port Said,25-34,Male,Paid Social,Not opted-in,7,6,22779.25,5,1,5.406402837913354e-05,0.8333333333333334
+Retail,Port Said,25-34,Male,Paid Social,Opted-in,7,6,13650.650000000001,4,2,3.239830674818615e-05,0.6666666666666666
+Retail,Port Said,25-34,Male,Referral,Not opted-in,3,3,4978.3,2,1,1.1815443988710802e-05,0.6666666666666666
+Retail,Port Said,25-34,Male,Referral,Opted-in,2,2,9616.8,2,0,2.282441029078883e-05,1.0
+Retail,Port Said,25-34,Male,Store Walk-in,Not opted-in,7,7,68602.79000000001,7,0,0.00016282112823941697,1.0
+Retail,Port Said,25-34,Male,Store Walk-in,Opted-in,5,3,5255.55,3,0,1.2473466174169707e-05,1.0
+Retail,Port Said,25-34,Not specified,Organic Social,Opted-in,1,1,608.2,1,0,1.4434953767217542e-06,1.0
+Retail,Port Said,25-34,Not specified,Store Walk-in,Opted-in,1,1,330.6,0,1,7.846425050052811e-07,0.0
+Retail,Port Said,35-44,Female,Direct / WhatsApp,Not opted-in,10,9,19620.55,7,2,4.656720357405132e-05,0.7777777777777778
+Retail,Port Said,35-44,Female,Direct / WhatsApp,Opted-in,14,12,19927.4,9,3,4.729547808300738e-05,0.75
+Retail,Port Said,35-44,Female,Google Search,Not opted-in,9,9,24330.1,6,3,5.774479918641557e-05,0.6666666666666666
+Retail,Port Said,35-44,Female,Google Search,Opted-in,5,3,7106.0,3,0,1.6865304417929604e-05,1.0
+Retail,Port Said,35-44,Female,Organic Social,Not opted-in,13,12,48069.15,12,0,0.0001140868066227302,1.0
+Retail,Port Said,35-44,Female,Organic Social,Opted-in,18,14,55055.72,13,1,0.00013066865715568468,0.9285714285714286
+Retail,Port Said,35-44,Female,Paid Social,Not opted-in,11,8,91352.95,5,3,0.00021681611472360008,0.625
+Retail,Port Said,35-44,Female,Paid Social,Opted-in,15,12,57989.71,11,1,0.0001376321576495154,0.9166666666666666
+Retail,Port Said,35-44,Female,Referral,Not opted-in,5,4,5864.1,2,2,1.391779223714903e-05,0.5
+Retail,Port Said,35-44,Female,Referral,Opted-in,5,4,8130.35,3,1,1.9296485754899235e-05,0.75
+Retail,Port Said,35-44,Female,Store Walk-in,Not opted-in,6,4,5726.9,3,1,1.3592163224182528e-05,0.75
+Retail,Port Said,35-44,Female,Store Walk-in,Opted-in,12,11,37557.15,9,2,8.91377382240142e-05,0.8181818181818182
+Retail,Port Said,35-44,Male,Direct / WhatsApp,Not opted-in,9,9,16352.9,5,4,3.881179800393485e-05,0.5555555555555556
+Retail,Port Said,35-44,Male,Direct / WhatsApp,Opted-in,10,9,49069.75,8,1,0.0001164616199636506,0.8888888888888888
+Retail,Port Said,35-44,Male,Google Search,Not opted-in,1,1,28383.25,1,0,6.736450205744447e-05,1.0
+Retail,Port Said,35-44,Male,Google Search,Opted-in,4,2,1863.55,1,1,4.422929643686e-06,0.5
+Retail,Port Said,35-44,Male,Organic Social,Not opted-in,3,3,5487.55,2,1,1.3024092493471659e-05,0.6666666666666666
+Retail,Port Said,35-44,Male,Organic Social,Opted-in,7,6,8290.7,4,2,1.9677058730330564e-05,0.6666666666666666
+Retail,Port Said,35-44,Male,Paid Social,Not opted-in,1,1,2767.15,1,0,6.567524221794808e-06,1.0
+Retail,Port Said,35-44,Male,Paid Social,Opted-in,7,7,26594.87,5,2,6.311998008799093e-05,0.7142857142857143
+Retail,Port Said,35-44,Male,Referral,Not opted-in,3,3,5071.95,2,1,1.2037711897342816e-05,0.6666666666666666
+Retail,Port Said,35-44,Male,Referral,Opted-in,4,1,4041.1,1,0,9.591103529875503e-06,1.0
+Retail,Port Said,35-44,Male,Store Walk-in,Not opted-in,6,4,7365.95,3,1,1.7482266968371597e-05,0.75
+Retail,Port Said,35-44,Male,Store Walk-in,Opted-in,6,6,5805.9,3,3,1.3779660979462071e-05,0.5
+Retail,Port Said,35-44,Not specified,Direct / WhatsApp,Not opted-in,1,1,6296.55,1,0,1.494416444310648e-05,1.0
+Retail,Port Said,35-44,Not specified,Google Search,Not opted-in,1,1,9671.0,1,0,2.295304799124644e-05,1.0
+Retail,Port Said,35-44,Not specified,Organic Social,Opted-in,1,1,1528.0,1,0,3.6265388616094057e-06,1.0
+Retail,Port Said,45-54,Female,Direct / WhatsApp,Not opted-in,5,4,2626.25,2,2,6.2331136683911654e-06,0.5
+Retail,Port Said,45-54,Female,Direct / WhatsApp,Opted-in,6,5,7920.25,3,2,1.879783666142794e-05,0.6
+Retail,Port Said,45-54,Female,Google Search,Not opted-in,1,1,2613.0,1,0,6.201666260068964e-06,1.0
+Retail,Port Said,45-54,Female,Google Search,Opted-in,2,1,970.6,1,0,2.30361166170032e-06,1.0
+Retail,Port Said,45-54,Female,Organic Social,Not opted-in,5,3,7987.85,2,1,1.8958277778603854e-05,0.6666666666666666
+Retail,Port Said,45-54,Female,Organic Social,Opted-in,5,4,10781.95,3,1,2.558976484223137e-05,0.75
+Retail,Port Said,45-54,Female,Paid Social,Not opted-in,11,8,26693.25,6,2,6.335347412804664e-05,0.75
+Retail,Port Said,45-54,Female,Paid Social,Opted-in,4,4,9600.45,3,1,2.278560537561389e-05,0.75
+Retail,Port Said,45-54,Female,Referral,Opted-in,6,6,17480.75,6,0,4.1488625134213756e-05,1.0
+Retail,Port Said,45-54,Female,Store Walk-in,Not opted-in,3,2,7496.5,2,0,1.7792112942444312e-05,1.0
+Retail,Port Said,45-54,Female,Store Walk-in,Opted-in,3,1,3134.25,1,0,7.438795436517853e-06,1.0
+Retail,Port Said,45-54,Male,Direct / WhatsApp,Not opted-in,1,1,239.2,0,1,5.677147223147708e-07,0.0
+Retail,Port Said,45-54,Male,Direct / WhatsApp,Opted-in,3,2,5830.6,2,0,1.3838283695353273e-05,1.0
+Retail,Port Said,45-54,Male,Google Search,Not opted-in,3,2,3032.15,1,1,7.196472388238848e-06,0.5
+Retail,Port Said,45-54,Male,Google Search,Opted-in,1,1,1014.05,1,0,2.406735427104069e-06,1.0
+Retail,Port Said,45-54,Male,Organic Social,Not opted-in,1,1,3008.9,1,0,7.1412910868432854e-06,1.0
+Retail,Port Said,45-54,Male,Organic Social,Opted-in,2,2,3157.9,2,0,7.494926093636349e-06,1.0
+Retail,Port Said,45-54,Male,Paid Social,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Port Said,45-54,Male,Paid Social,Opted-in,3,3,17615.41,3,0,4.180822573833962e-05,1.0
+Retail,Port Said,45-54,Male,Referral,Not opted-in,1,1,1477.6,1,0,3.506920040519671e-06,1.0
+Retail,Port Said,45-54,Male,Referral,Opted-in,1,1,1817.1,1,0,4.3126857103602425e-06,1.0
+Retail,Port Said,45-54,Male,Store Walk-in,Not opted-in,1,1,3004.5,1,0,7.130848173891007e-06,1.0
+Retail,Port Said,45-54,Male,Store Walk-in,Opted-in,3,3,8050.1,3,0,1.9106021262985523e-05,1.0
+Retail,Port Said,45-54,Not specified,Direct / WhatsApp,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Port Said,45-54,Not specified,Direct / WhatsApp,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Port Said,45-54,Not specified,Paid Social,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Port Said,55+,Female,Direct / WhatsApp,Not opted-in,1,1,2779.25,1,0,6.5962422324135735e-06,1.0
+Retail,Port Said,55+,Female,Direct / WhatsApp,Opted-in,5,5,14416.8,3,2,3.421667896600162e-05,0.6
+Retail,Port Said,55+,Female,Google Search,Not opted-in,1,1,2208.65,1,0,5.241986293647653e-06,1.0
+Retail,Port Said,55+,Female,Google Search,Opted-in,1,1,3136.3,1,0,7.443660884597892e-06,1.0
+Retail,Port Said,55+,Female,Organic Social,Not opted-in,3,2,2706.4,2,0,6.423340821374146e-06,1.0
+Retail,Port Said,55+,Female,Organic Social,Opted-in,2,1,1305.35,1,0,3.098103732331045e-06,1.0
+Retail,Port Said,55+,Female,Paid Social,Not opted-in,4,4,9037.65,3,1,2.1449861873445186e-05,0.75
+Retail,Port Said,55+,Female,Paid Social,Opted-in,3,3,3166.3,3,0,7.514862563817972e-06,1.0
+Retail,Port Said,55+,Female,Referral,Not opted-in,2,2,2258.85,2,0,5.361130436875919e-06,1.0
+Retail,Port Said,55+,Female,Store Walk-in,Not opted-in,1,1,2460.9,1,0,5.840673746423158e-06,1.0
+Retail,Port Said,55+,Male,Direct / WhatsApp,Opted-in,1,1,814.5,1,0,1.9331255908251706e-06,1.0
+Retail,Port Said,55+,Male,Google Search,Not opted-in,1,1,1076.5,1,0,2.5549535893472024e-06,1.0
+Retail,Port Said,55+,Male,Paid Social,Opted-in,1,1,939.2,1,0,2.22908723744997e-06,1.0
+Retail,Port Said,55+,Male,Store Walk-in,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Port Said,55+,Not specified,Organic Social,Opted-in,1,1,1200.9,1,0,2.8502032191798007e-06,1.0
+Retail,Sharqia,18-24,Female,Direct / WhatsApp,Not opted-in,10,8,14973.7,5,3,3.553841947125704e-05,0.625
+Retail,Sharqia,18-24,Female,Direct / WhatsApp,Opted-in,12,9,13242.45,6,3,3.142948923293159e-05,0.6666666666666666
+Retail,Sharqia,18-24,Female,Google Search,Not opted-in,7,6,14814.2,4,2,3.515986387673695e-05,0.6666666666666666
+Retail,Sharqia,18-24,Female,Google Search,Opted-in,10,9,30339.0,9,0,7.200625819526686e-05,1.0
+Retail,Sharqia,18-24,Female,Organic Social,Not opted-in,10,10,28096.55,10,0,6.668405134303124e-05,1.0
+Retail,Sharqia,18-24,Female,Organic Social,Opted-in,12,10,52507.04999999999,9,1,0.0001246196710297566,0.9
+Retail,Sharqia,18-24,Female,Paid Social,Not opted-in,5,4,10386.1,4,0,2.4650258684922414e-05,1.0
+Retail,Sharqia,18-24,Female,Paid Social,Opted-in,5,4,13527.09,2,2,3.210505076537171e-05,0.5
+Retail,Sharqia,18-24,Female,Referral,Not opted-in,1,1,3884.2,1,0,9.218718747554484e-06,1.0
+Retail,Sharqia,18-24,Female,Referral,Opted-in,5,3,7033.45,3,0,1.6693115023682376e-05,1.0
+Retail,Sharqia,18-24,Female,Store Walk-in,Not opted-in,9,8,27037.92,7,1,6.417151022060613e-05,0.875
+Retail,Sharqia,18-24,Female,Store Walk-in,Opted-in,11,9,21330.1,7,2,5.062463126440758e-05,0.7777777777777778
+Retail,Sharqia,18-24,Male,Direct / WhatsApp,Not opted-in,1,1,4992.35,1,0,1.1848790108478873e-05,1.0
+Retail,Sharqia,18-24,Male,Direct / WhatsApp,Opted-in,9,9,35607.0,8,1,8.450927306631289e-05,0.8888888888888888
+Retail,Sharqia,18-24,Male,Google Search,Not opted-in,3,3,3033.0,1,2,7.198489769150083e-06,0.3333333333333333
+Retail,Sharqia,18-24,Male,Google Search,Opted-in,3,3,2386.15,2,1,5.663262895699793e-06,0.6666666666666666
+Retail,Sharqia,18-24,Male,Organic Social,Not opted-in,2,2,5073.55,2,0,1.2041509320234554e-05,1.0
+Retail,Sharqia,18-24,Male,Organic Social,Opted-in,5,4,19297.050000000003,3,1,4.5799412133128135e-05,0.75
+Retail,Sharqia,18-24,Male,Paid Social,Not opted-in,5,2,1510.6,1,1,3.585241887661759e-06,0.5
+Retail,Sharqia,18-24,Male,Paid Social,Opted-in,7,7,14052.05,6,1,3.335098521615081e-05,0.8571428571428571
+Retail,Sharqia,18-24,Male,Referral,Opted-in,3,2,10304.35,2,0,2.4456234109047697e-05,1.0
+Retail,Sharqia,18-24,Male,Store Walk-in,Not opted-in,2,2,5139.6,2,0,1.2198271683984098e-05,1.0
+Retail,Sharqia,18-24,Male,Store Walk-in,Opted-in,6,5,7942.200000000001,4,1,1.8849932556723966e-05,0.8
+Retail,Sharqia,18-24,Not specified,Direct / WhatsApp,Opted-in,1,1,591.6,0,1,1.4040971142199767e-06,0.0
+Retail,Sharqia,18-24,Not specified,Organic Social,Opted-in,1,1,1165.35,1,0,2.7658292293040055e-06,1.0
+Retail,Sharqia,18-24,Not specified,Store Walk-in,Opted-in,3,2,6601.7,1,1,1.566840419024006e-05,0.5
+Retail,Sharqia,25-34,Female,Direct / WhatsApp,Not opted-in,30,22,77844.62,18,4,0.000184755588741634,0.8181818181818182
+Retail,Sharqia,25-34,Female,Direct / WhatsApp,Opted-in,47,42,152613.82,39,3,0.00036221200853970073,0.9285714285714286
+Retail,Sharqia,25-34,Female,Google Search,Not opted-in,13,12,44336.36,8,4,0.00010522744275019946,0.6666666666666666
+Retail,Sharqia,25-34,Female,Google Search,Opted-in,31,26,83225.79000000001,22,4,0.00019752720008059128,0.8461538461538461
+Retail,Sharqia,25-34,Female,Organic Social,Not opted-in,31,25,86927.05,20,5,0.0002063117309882617,0.8
+Retail,Sharqia,25-34,Female,Organic Social,Opted-in,36,27,72738.05,22,5,0.0001726357101064712,0.8148148148148148
+Retail,Sharqia,25-34,Female,Paid Social,Not opted-in,28,25,76523.57,22,3,0.0001816202227971778,0.88
+Retail,Sharqia,25-34,Female,Paid Social,Opted-in,52,41,116655.56,32,9,0.000276869058745293,0.7804878048780488
+Retail,Sharqia,25-34,Female,Referral,Not opted-in,8,5,8516.9,4,1,2.0213919391649964e-05,0.8
+Retail,Sharqia,25-34,Female,Referral,Opted-in,21,16,77230.22,13,3,0.00018329737835120677,0.8125
+Retail,Sharqia,25-34,Female,Store Walk-in,Not opted-in,24,20,73501.67,15,5,0.00017444807764933911,0.75
+Retail,Sharqia,25-34,Female,Store Walk-in,Opted-in,49,39,98639.8,34,5,0.0002341106465977614,0.8717948717948718
+Retail,Sharqia,25-34,Male,Direct / WhatsApp,Not opted-in,11,10,39056.8,10,0,9.269699149876063e-05,1.0
+Retail,Sharqia,25-34,Male,Direct / WhatsApp,Opted-in,20,18,59897.32,15,3,0.00014215965882608263,0.8333333333333334
+Retail,Sharqia,25-34,Male,Google Search,Not opted-in,10,8,34903.43,6,2,8.283942755135051e-05,0.75
+Retail,Sharqia,25-34,Male,Google Search,Opted-in,19,17,46128.6,15,2,0.00010948112600237932,0.8823529411764706
+Retail,Sharqia,25-34,Male,Organic Social,Not opted-in,11,9,60921.71000000001,7,2,0.0001445909350986246,0.7777777777777778
+Retail,Sharqia,25-34,Male,Organic Social,Opted-in,18,14,54544.0,12,2,0.0001294541463793347,0.8571428571428571
+Retail,Sharqia,25-34,Male,Paid Social,Not opted-in,8,7,20231.2,5,2,4.8016513754576054e-05,0.7142857142857143
+Retail,Sharqia,25-34,Male,Paid Social,Opted-in,20,18,52364.5,16,2,0.0001242813443839959,0.8888888888888888
+Retail,Sharqia,25-34,Male,Referral,Not opted-in,4,3,7746.2,3,0,1.838474825248611e-05,1.0
+Retail,Sharqia,25-34,Male,Referral,Opted-in,7,7,13480.75,5,2,3.199506790486976e-05,0.7142857142857143
+Retail,Sharqia,25-34,Male,Store Walk-in,Not opted-in,8,6,5323.6,3,3,1.2634975316533922e-05,0.5
+Retail,Sharqia,25-34,Male,Store Walk-in,Opted-in,16,16,67590.50000000001,14,2,0.00016041856997749384,0.875
+Retail,Sharqia,25-34,Not specified,Direct / WhatsApp,Opted-in,4,3,3736.0499999999997,3,0,8.867101121672655e-06,1.0
+Retail,Sharqia,25-34,Not specified,Google Search,Not opted-in,1,1,3942.7,1,0,9.35756202203364e-06,1.0
+Retail,Sharqia,25-34,Not specified,Google Search,Opted-in,4,4,11499.5,3,1,2.7292790339710312e-05,0.75
+Retail,Sharqia,25-34,Not specified,Organic Social,Not opted-in,2,2,1058.6,1,1,2.5124699207458877e-06,0.5
+Retail,Sharqia,25-34,Not specified,Paid Social,Not opted-in,2,2,6158.900000000001,1,1,1.4617467404951681e-05,0.5
+Retail,Sharqia,25-34,Not specified,Paid Social,Opted-in,5,4,8323.1,2,2,1.975395654388825e-05,0.5
+Retail,Sharqia,25-34,Not specified,Referral,Not opted-in,1,1,1122.3000000000002,1,0,2.6636548196231915e-06,1.0
+Retail,Sharqia,25-34,Not specified,Referral,Opted-in,1,1,568.1,0,1,1.3483224654975808e-06,0.0
+Retail,Sharqia,25-34,Not specified,Store Walk-in,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Sharqia,35-44,Female,Direct / WhatsApp,Not opted-in,23,22,75036.58,16,6,0.00017809101663106224,0.7272727272727273
+Retail,Sharqia,35-44,Female,Direct / WhatsApp,Opted-in,47,38,173442.24,33,5,0.000411645957856404,0.868421052631579
+Retail,Sharqia,35-44,Female,Google Search,Not opted-in,12,10,13396.65,8,2,3.17954658641228e-05,0.8
+Retail,Sharqia,35-44,Female,Google Search,Opted-in,22,19,29065.75,12,7,6.898434025970129e-05,0.631578947368421
+Retail,Sharqia,35-44,Female,Organic Social,Not opted-in,29,23,69311.53,19,4,0.00016450324417709828,0.8260869565217391
+Retail,Sharqia,35-44,Female,Organic Social,Opted-in,38,29,91384.15,25,4,0.00021689016446998897,0.8620689655172413
+Retail,Sharqia,35-44,Female,Paid Social,Not opted-in,11,7,52946.43,6,1,0.00012566249082361392,0.8571428571428571
+Retail,Sharqia,35-44,Female,Paid Social,Opted-in,32,28,61932.97,24,4,0.00014699104876956116,0.8571428571428571
+Retail,Sharqia,35-44,Female,Referral,Not opted-in,11,9,30144.5,9,0,7.154463397499e-05,1.0
+Retail,Sharqia,35-44,Female,Referral,Opted-in,14,13,36981.200000000004,11,2,8.777078465245404e-05,0.8461538461538461
+Retail,Sharqia,35-44,Female,Store Walk-in,Not opted-in,18,15,21737.649999999998,11,4,5.159190607661236e-05,0.7333333333333333
+Retail,Sharqia,35-44,Female,Store Walk-in,Opted-in,37,33,87394.08,29,4,0.00020742017499646682,0.8787878787878788
+Retail,Sharqia,35-44,Male,Direct / WhatsApp,Not opted-in,6,4,9703.150000000001,4,0,2.3029352457477296e-05,1.0
+Retail,Sharqia,35-44,Male,Direct / WhatsApp,Opted-in,19,18,59478.950000000004,16,2,0.00014116670394157248,0.8888888888888888
+Retail,Sharqia,35-44,Male,Google Search,Not opted-in,10,10,43459.9,8,2,0.00010314726195789176,0.8
+Retail,Sharqia,35-44,Male,Google Search,Opted-in,9,8,31632.45,8,0,7.50761185948406e-05,1.0
+Retail,Sharqia,35-44,Male,Organic Social,Not opted-in,12,11,22474.3,11,0,5.3340263309861424e-05,1.0
+Retail,Sharqia,35-44,Male,Organic Social,Opted-in,19,17,33956.75,11,6,8.059258736188166e-05,0.6470588235294118
+Retail,Sharqia,35-44,Male,Paid Social,Not opted-in,13,12,59253.630000000005,11,1,0.00014063193186284354,0.9166666666666666
+Retail,Sharqia,35-44,Male,Paid Social,Opted-in,10,7,28172.7,7,0,6.686478493878488e-05,1.0
+Retail,Sharqia,35-44,Male,Referral,Not opted-in,6,5,11457.3,4,1,2.719263331094073e-05,0.8
+Retail,Sharqia,35-44,Male,Referral,Opted-in,11,10,27859.4,10,0,6.612120206879651e-05,1.0
+Retail,Sharqia,35-44,Male,Store Walk-in,Not opted-in,12,7,28112.25,5,2,6.672131355515642e-05,0.7142857142857143
+Retail,Sharqia,35-44,Male,Store Walk-in,Opted-in,16,15,30270.95,13,2,7.184474905290264e-05,0.8666666666666667
+Retail,Sharqia,35-44,Not specified,Direct / WhatsApp,Not opted-in,4,2,5974.35,2,0,1.4179458408282822e-05,1.0
+Retail,Sharqia,35-44,Not specified,Direct / WhatsApp,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Sharqia,35-44,Not specified,Google Search,Not opted-in,2,2,7972.400000000001,1,1,1.8921608913805514e-05,0.5
+Retail,Sharqia,35-44,Not specified,Google Search,Opted-in,3,3,3584.8500000000004,2,1,8.508244658403455e-06,0.6666666666666666
+Retail,Sharqia,35-44,Not specified,Organic Social,Not opted-in,1,1,1364.0,1,0,3.2373030152063016e-06,1.0
+Retail,Sharqia,35-44,Not specified,Organic Social,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Sharqia,35-44,Not specified,Paid Social,Opted-in,3,3,2498.85,3,0,5.93074387063656e-06,1.0
+Retail,Sharqia,35-44,Not specified,Referral,Not opted-in,1,1,4963.25,1,0,1.1779724479635394e-05,1.0
+Retail,Sharqia,35-44,Not specified,Referral,Opted-in,1,1,299.0,0,1,7.096434028934635e-07,0.0
+Retail,Sharqia,35-44,Not specified,Store Walk-in,Opted-in,2,0,0.0,0,0,0.0,
+Retail,Sharqia,45-54,Female,Direct / WhatsApp,Not opted-in,6,5,12717.35,4,1,3.018322250764946e-05,0.8
+Retail,Sharqia,45-54,Female,Direct / WhatsApp,Opted-in,21,20,63783.6,18,2,0.00015138331422339638,0.9
+Retail,Sharqia,45-54,Female,Google Search,Not opted-in,3,3,3868.8,2,1,9.182168552221511e-06,0.6666666666666666
+Retail,Sharqia,45-54,Female,Google Search,Opted-in,13,9,11156.85,5,4,2.6479548493551635e-05,0.5555555555555556
+Retail,Sharqia,45-54,Female,Organic Social,Not opted-in,13,12,30254.7,11,1,7.180618147665843e-05,0.9166666666666666
+Retail,Sharqia,45-54,Female,Organic Social,Opted-in,16,13,52036.17999999999,7,6,0.00012350211320661132,0.5384615384615384
+Retail,Sharqia,45-54,Female,Paid Social,Not opted-in,14,13,38252.85,10,3,9.078890516512784e-05,0.7692307692307693
+Retail,Sharqia,45-54,Female,Paid Social,Opted-in,11,10,25288.2,9,1,6.001874348177419e-05,0.9
+Retail,Sharqia,45-54,Female,Referral,Not opted-in,5,5,33800.369999999995,4,1,8.022143674200045e-05,0.8
+Retail,Sharqia,45-54,Female,Referral,Opted-in,9,8,22111.600000000002,7,1,5.247943500809067e-05,0.875
+Retail,Sharqia,45-54,Female,Store Walk-in,Not opted-in,8,7,30937.05,6,1,7.342566367051914e-05,0.8571428571428571
+Retail,Sharqia,45-54,Female,Store Walk-in,Opted-in,18,16,65146.81,12,4,0.00015461874226104988,0.75
+Retail,Sharqia,45-54,Male,Direct / WhatsApp,Not opted-in,9,7,16188.050000000001,6,1,3.842054477662051e-05,0.8571428571428571
+Retail,Sharqia,45-54,Male,Direct / WhatsApp,Opted-in,9,8,18464.3,7,1,4.3822972187444075e-05,0.875
+Retail,Sharqia,45-54,Male,Google Search,Opted-in,8,8,17506.25,6,2,4.1549146561550824e-05,0.75
+Retail,Sharqia,45-54,Male,Organic Social,Not opted-in,5,5,7293.75,4,1,1.731090826038194e-05,0.8
+Retail,Sharqia,45-54,Male,Organic Social,Opted-in,6,5,41929.86,4,1,9.951588138209539e-05,0.8
+Retail,Sharqia,45-54,Male,Paid Social,Not opted-in,4,3,19031.329999999998,2,1,4.51687551263828e-05,0.6666666666666666
+Retail,Sharqia,45-54,Male,Paid Social,Opted-in,3,3,9009.650000000001,3,0,2.1383406972839782e-05,1.0
+Retail,Sharqia,45-54,Male,Referral,Not opted-in,2,2,8421.15,1,1,1.998666736547254e-05,0.5
+Retail,Sharqia,45-54,Male,Referral,Opted-in,9,5,10692.300000000001,4,1,2.53769904908287e-05,0.8
+Retail,Sharqia,45-54,Male,Store Walk-in,Not opted-in,2,1,264.0,0,1,6.265747771367035e-07,0.0
+Retail,Sharqia,45-54,Male,Store Walk-in,Opted-in,5,4,13563.7,3,1,3.219194054791328e-05,0.75
+Retail,Sharqia,45-54,Not specified,Google Search,Not opted-in,1,1,5682.4,1,0,1.3486547400006075e-05,1.0
+Retail,Sharqia,45-54,Not specified,Organic Social,Not opted-in,1,1,1780.3,1,0,4.225344983850277e-06,1.0
+Retail,Sharqia,45-54,Not specified,Paid Social,Opted-in,2,2,3238.7,2,0,7.686695949669097e-06,1.0
+Retail,Sharqia,45-54,Not specified,Referral,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Sharqia,45-54,Not specified,Referral,Opted-in,1,1,4589.1,1,0,1.089172087029563e-05,1.0
+Retail,Sharqia,45-54,Not specified,Store Walk-in,Opted-in,1,1,854.8,1,0,2.0287731799108113e-06,1.0
+Retail,Sharqia,55+,Female,Direct / WhatsApp,Not opted-in,5,5,14388.0,4,1,3.4148325353950343e-05,0.8
+Retail,Sharqia,55+,Female,Direct / WhatsApp,Opted-in,14,13,29796.05,8,5,7.071762647084877e-05,0.6153846153846154
+Retail,Sharqia,55+,Female,Google Search,Not opted-in,5,5,12232.55,4,1,2.9032603371452965e-05,0.8
+Retail,Sharqia,55+,Female,Google Search,Opted-in,5,5,27489.149999999998,4,1,6.524245467775535e-05,0.8
+Retail,Sharqia,55+,Female,Organic Social,Not opted-in,4,4,9222.4,3,1,2.188834554797551e-05,0.75
+Retail,Sharqia,55+,Female,Organic Social,Opted-in,7,6,20250.15,6,0,4.806148948195007e-05,1.0
+Retail,Sharqia,55+,Female,Paid Social,Not opted-in,4,3,9718.95,2,1,2.3066852008533203e-05,0.6666666666666666
+Retail,Sharqia,55+,Female,Paid Social,Opted-in,6,6,8744.95,4,2,2.0755170823187942e-05,0.6666666666666666
+Retail,Sharqia,55+,Female,Referral,Not opted-in,2,1,6123.4,1,0,1.4533212084541252e-05,1.0
+Retail,Sharqia,55+,Female,Referral,Opted-in,4,3,6421.099999999999,3,0,1.5239770081335177e-05,1.0
+Retail,Sharqia,55+,Female,Store Walk-in,Not opted-in,1,1,3780.6,1,0,8.972835615314475e-06,1.0
+Retail,Sharqia,55+,Female,Store Walk-in,Opted-in,5,5,9777.0,4,1,2.3204627257824054e-05,0.8
+Retail,Sharqia,55+,Male,Direct / WhatsApp,Not opted-in,5,5,8557.599999999999,5,0,2.0310516336458538e-05,1.0
+Retail,Sharqia,55+,Male,Direct / WhatsApp,Opted-in,5,4,7935.7,4,0,1.883450552622628e-05,1.0
+Retail,Sharqia,55+,Male,Google Search,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Sharqia,55+,Male,Google Search,Opted-in,1,1,1846.5,1,0,4.382463355995921e-06,1.0
+Retail,Sharqia,55+,Male,Organic Social,Not opted-in,1,1,1483.1,1,0,3.519973681710019e-06,1.0
+Retail,Sharqia,55+,Male,Organic Social,Opted-in,4,4,9380.1,4,0,2.22626290417424e-05,1.0
+Retail,Sharqia,55+,Male,Paid Social,Opted-in,3,3,13280.1,2,1,3.151884734035279e-05,0.6666666666666666
+Retail,Sharqia,55+,Male,Referral,Opted-in,2,2,35476.6,2,0,8.419978310063627e-05,1.0
+Retail,Sharqia,55+,Male,Store Walk-in,Not opted-in,1,1,3354.05,1,0,7.960466406270305e-06,1.0
+Retail,Sharqia,55+,Male,Store Walk-in,Opted-in,3,3,31222.41,3,0,7.410293404326055e-05,1.0
+Retail,Sharqia,55+,Not specified,Paid Social,Not opted-in,1,0,0.0,0,0,0.0,
+Retail,Suez,18-24,Female,Direct / WhatsApp,Not opted-in,1,1,605.1500000000001,1,0,1.4362565393343795e-06,1.0
+Retail,Suez,18-24,Female,Direct / WhatsApp,Opted-in,2,2,2476.0,2,0,5.876511924963932e-06,1.0
+Retail,Suez,18-24,Female,Google Search,Not opted-in,2,2,3106.8,1,1,7.37364590003148e-06,0.5
+Retail,Suez,18-24,Female,Google Search,Opted-in,2,2,612.0,0,2,1.452514256089631e-06,0.0
+Retail,Suez,18-24,Female,Organic Social,Opted-in,6,5,8710.45,4,1,2.067328889208485e-05,0.8
+Retail,Suez,18-24,Female,Paid Social,Not opted-in,2,2,2634.3,2,0,6.252219452315221e-06,1.0
+Retail,Suez,18-24,Female,Paid Social,Opted-in,2,1,5809.45,1,0,1.3788086511503115e-05,1.0
+Retail,Suez,18-24,Female,Store Walk-in,Not opted-in,1,1,1583.7,1,0,3.7587366460280205e-06,1.0
+Retail,Suez,18-24,Female,Store Walk-in,Opted-in,4,2,3033.7,2,0,7.200151141665218e-06,1.0
+Retail,Suez,18-24,Male,Direct / WhatsApp,Opted-in,3,1,348.0,0,1,8.259394789529274e-07,0.0
+Retail,Suez,18-24,Male,Referral,Opted-in,1,1,17911.83,1,0,4.251174579682016e-05,1.0
+Retail,Suez,18-24,Male,Store Walk-in,Not opted-in,1,1,7350.8,1,0,1.744631012036546e-05,1.0
+Retail,Suez,18-24,Male,Store Walk-in,Opted-in,2,2,4433.4,2,0,1.0522184155143414e-05,1.0
+Retail,Suez,18-24,Not specified,Store Walk-in,Opted-in,1,1,3650.1,1,0,8.663108310707127e-06,1.0
+Retail,Suez,25-34,Female,Direct / WhatsApp,Not opted-in,2,2,3344.1,2,0,7.936851182662312e-06,1.0
+Retail,Suez,25-34,Female,Direct / WhatsApp,Opted-in,13,10,25181.55,10,0,5.976562151214681e-05,1.0
+Retail,Suez,25-34,Female,Google Search,Not opted-in,2,1,4452.3,1,0,1.0567041213052066e-05,1.0
+Retail,Suez,25-34,Female,Google Search,Opted-in,1,1,7912.0,1,0,1.877825619964242e-05,1.0
+Retail,Suez,25-34,Female,Organic Social,Not opted-in,4,4,6290.15,4,0,1.492897475153953e-05,1.0
+Retail,Suez,25-34,Female,Organic Social,Opted-in,9,8,22086.25,8,0,5.241926958914969e-05,1.0
+Retail,Suez,25-34,Female,Paid Social,Not opted-in,5,4,9350.6,4,0,2.2192614057175988e-05,1.0
+Retail,Suez,25-34,Female,Paid Social,Opted-in,9,9,23624.15,8,1,5.606930500490173e-05,0.8888888888888888
+Retail,Suez,25-34,Female,Referral,Opted-in,1,1,12153.4,1,0,2.884474960777732e-05,1.0
+Retail,Suez,25-34,Female,Store Walk-in,Not opted-in,2,2,2925.8,1,1,6.944062435403664e-06,0.5
+Retail,Suez,25-34,Female,Store Walk-in,Opted-in,7,7,39648.549999999996,5,2,9.410144462137669e-05,0.7142857142857143
+Retail,Suez,25-34,Male,Direct / WhatsApp,Not opted-in,3,3,10963.3,3,0,2.6020178993116747e-05,1.0
+Retail,Suez,25-34,Male,Direct / WhatsApp,Opted-in,1,1,2145.9,1,0,5.093056114612319e-06,1.0
+Retail,Suez,25-34,Male,Google Search,Not opted-in,2,1,388.0,0,1,9.208750512463673e-07,0.0
+Retail,Suez,25-34,Male,Google Search,Opted-in,4,3,3148.05,3,0,7.47154820895909e-06,1.0
+Retail,Suez,25-34,Male,Organic Social,Opted-in,4,3,9274.05,3,0,2.2010931105699413e-05,1.0
+Retail,Suez,25-34,Male,Paid Social,Not opted-in,2,2,4392.799999999999,2,0,1.0425824549265572e-05,1.0
+Retail,Suez,25-34,Male,Paid Social,Opted-in,5,4,7311.950000000001,3,1,1.7354103945775456e-05,0.75
+Retail,Suez,25-34,Male,Referral,Not opted-in,1,1,5768.85,1,0,1.3691726905625275e-05,1.0
+Retail,Suez,25-34,Male,Store Walk-in,Not opted-in,2,2,8514.0,2,0,2.020703656265869e-05,1.0
+Retail,Suez,25-34,Male,Store Walk-in,Opted-in,4,2,2547.45,2,0,6.046090590973089e-06,1.0
+Retail,Suez,25-34,Not specified,Direct / WhatsApp,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Suez,25-34,Not specified,Organic Social,Opted-in,1,1,2344.0,1,0,5.56322453639558e-06,1.0
+Retail,Suez,25-34,Not specified,Paid Social,Opted-in,2,2,15515.35,2,0,3.682396578957558e-05,1.0
+Retail,Suez,25-34,Not specified,Store Walk-in,Opted-in,1,1,2938.9,1,0,6.975153835329766e-06,1.0
+Retail,Suez,35-44,Female,Direct / WhatsApp,Not opted-in,5,5,12023.5,4,1,2.8536446336754376e-05,0.8
+Retail,Suez,35-44,Female,Direct / WhatsApp,Opted-in,7,4,33093.95,4,0,7.854482706751216e-05,1.0
+Retail,Suez,35-44,Female,Google Search,Not opted-in,5,5,8776.25,4,1,2.0829457908507556e-05,0.8
+Retail,Suez,35-44,Female,Google Search,Opted-in,3,3,1960.2,1,2,4.652317720240024e-06,0.3333333333333333
+Retail,Suez,35-44,Female,Organic Social,Not opted-in,4,3,5329.9,2,1,1.2649927669170136e-05,0.6666666666666666
+Retail,Suez,35-44,Female,Organic Social,Opted-in,7,5,14668.449999999999,3,2,3.481394238519272e-05,0.6
+Retail,Suez,35-44,Female,Paid Social,Not opted-in,3,2,5045.9,1,1,1.1975885105886714e-05,0.5
+Retail,Suez,35-44,Female,Paid Social,Opted-in,4,4,13269.05,4,0,3.1492621388506726e-05,1.0
+Retail,Suez,35-44,Female,Referral,Not opted-in,1,1,4433.65,1,0,1.0522777502470248e-05,1.0
+Retail,Suez,35-44,Female,Referral,Opted-in,5,4,6356.0,2,2,1.5085262437427606e-05,0.5
+Retail,Suez,35-44,Female,Store Walk-in,Not opted-in,6,6,10009.1,5,1,2.3755490916056743e-05,0.8333333333333334
+Retail,Suez,35-44,Female,Store Walk-in,Opted-in,5,4,9326.1,4,0,2.2134466019146255e-05,1.0
+Retail,Suez,35-44,Male,Direct / WhatsApp,Not opted-in,1,1,348.0,0,1,8.259394789529274e-07,0.0
+Retail,Suez,35-44,Male,Direct / WhatsApp,Opted-in,1,1,3891.5,1,0,9.236044489498038e-06,1.0
+Retail,Suez,35-44,Male,Google Search,Not opted-in,1,1,15364.95,1,0,3.646700803775225e-05,1.0
+Retail,Suez,35-44,Male,Organic Social,Not opted-in,1,1,8393.7,1,0,1.992151782898617e-05,1.0
+Retail,Suez,35-44,Male,Organic Social,Opted-in,3,3,5557.85,3,0,1.3190941761777378e-05,1.0
+Retail,Suez,35-44,Male,Paid Social,Not opted-in,2,1,776.0,0,1,1.8417501024927347e-06,0.0
+Retail,Suez,35-44,Male,Paid Social,Opted-in,2,1,1108.0,1,0,2.629715352528286e-06,1.0
+Retail,Suez,35-44,Male,Referral,Opted-in,1,1,1158.5,1,0,2.749571512548754e-06,1.0
+Retail,Suez,35-44,Male,Store Walk-in,Not opted-in,2,1,2028.8,1,0,4.8151322267232735e-06,1.0
+Retail,Suez,35-44,Male,Store Walk-in,Opted-in,5,5,4708.75,4,1,1.1175696900918383e-05,0.8
+Retail,Suez,35-44,Not specified,Direct / WhatsApp,Opted-in,2,2,8327.3,2,0,1.976392477897906e-05,1.0
+Retail,Suez,35-44,Not specified,Google Search,Not opted-in,1,1,818.2,1,0,1.941907131262314e-06,1.0
+Retail,Suez,35-44,Not specified,Store Walk-in,Opted-in,1,1,1663.15,1,0,3.947302426495866e-06,1.0
+Retail,Suez,45-54,Female,Direct / WhatsApp,Not opted-in,2,2,3619.7999999999997,2,0,8.591194614694846e-06,1.0
+Retail,Suez,45-54,Female,Direct / WhatsApp,Opted-in,4,4,5511.1,4,0,1.307998581165942e-05,1.0
+Retail,Suez,45-54,Female,Google Search,Opted-in,2,1,4371.4,1,0,1.0375034018088583e-05,1.0
+Retail,Suez,45-54,Female,Organic Social,Not opted-in,5,4,18040.3,4,0,4.281665512113361e-05,1.0
+Retail,Suez,45-54,Female,Organic Social,Opted-in,5,5,12996.75,3,2,3.084634748011914e-05,0.6
+Retail,Suez,45-54,Female,Paid Social,Not opted-in,3,2,8099.5,2,0,1.922326669476792e-05,1.0
+Retail,Suez,45-54,Female,Paid Social,Opted-in,5,5,7980.5,3,2,1.8940833367194936e-05,0.6
+Retail,Suez,45-54,Female,Referral,Not opted-in,1,1,380.0,0,1,9.018879367876794e-07,0.0
+Retail,Suez,45-54,Female,Referral,Opted-in,2,2,1848.4,2,0,4.386972795679859e-06,1.0
+Retail,Suez,45-54,Female,Store Walk-in,Not opted-in,1,1,1927.4,1,0,4.574470550959404e-06,1.0
+Retail,Suez,45-54,Female,Store Walk-in,Opted-in,6,6,7756.3,4,2,1.8408719484490205e-05,0.6666666666666666
+Retail,Suez,45-54,Male,Direct / WhatsApp,Not opted-in,2,1,280.5,0,1,6.657357007077475e-07,0.0
+Retail,Suez,45-54,Male,Google Search,Opted-in,2,2,13751.65,2,0,3.263801906822708e-05,1.0
+Retail,Suez,45-54,Male,Organic Social,Opted-in,2,2,5684.7,2,0,1.349200619541295e-05,1.0
+Retail,Suez,45-54,Male,Paid Social,Opted-in,1,0,0.0,0,0,0.0,
+Retail,Suez,45-54,Male,Referral,Opted-in,1,1,538.2,0,1,1.2773581252082344e-06,0.0
+Retail,Suez,45-54,Male,Store Walk-in,Not opted-in,2,2,1384.7,1,1,3.286432173868157e-06,0.5
+Retail,Suez,45-54,Male,Store Walk-in,Opted-in,1,1,278.4,0,1,6.607515831623419e-07,0.0
+Retail,Suez,55+,Female,Direct / WhatsApp,Opted-in,2,2,11518.0,2,0,2.7336698041896028e-05,1.0
+Retail,Suez,55+,Female,Google Search,Opted-in,1,1,1942.3,1,0,4.60983405163871e-06,1.0
+Retail,Suez,55+,Female,Organic Social,Not opted-in,1,1,330.6,0,1,7.846425050052811e-07,0.0
+Retail,Suez,55+,Female,Organic Social,Opted-in,2,2,12854.199999999999,2,0,3.0508020834358388e-05,1.0
+Retail,Suez,55+,Female,Paid Social,Not opted-in,1,1,1552.0,1,0,3.6835002049854693e-06,1.0
+Retail,Suez,55+,Female,Paid Social,Opted-in,1,1,549.95,1,0,1.3052454495694323e-06,1.0
+Retail,Suez,55+,Female,Referral,Opted-in,1,1,13375.75,1,0,3.174586202759948e-05,1.0
+Retail,Suez,55+,Female,Store Walk-in,Opted-in,1,1,1531.3,1,0,3.634371046323614e-06,1.0
+Retail,Suez,55+,Male,Organic Social,Not opted-in,1,1,1265.6,1,0,3.0037615073644395e-06,1.0
+Retail,Suez,55+,Male,Organic Social,Opted-in,2,2,5891.5,2,0,1.3982823104170034e-05,1.0
+Retail,Suez,55+,Male,Paid Social,Opted-in,1,1,260.1,0,1,6.173185588380932e-07,0.0
+Retail,Suez,55+,Male,Store Walk-in,Opted-in,1,1,3815.0,1,0,9.054480207486834e-06,1.0
+Wholesale,Alexandria,Business,Business,Wholesale Sales,Not opted-in,160,157,34295071.7,152,5,0.08139555646710141,0.9681528662420382
+Wholesale,Alexandria,Business,Business,Wholesale Sales,Opted-in,324,314,66933977.42,302,12,0.15886038630609717,0.9617834394904459
+Wholesale,Beheira,Business,Business,Wholesale Sales,Not opted-in,51,49,11329098.74,48,1,0.02688836181126973,0.9795918367346939
+Wholesale,Beheira,Business,Business,Wholesale Sales,Opted-in,81,80,17602671.71,77,3,0.04177799281705988,0.9625
+Wholesale,Cairo,Business,Business,Wholesale Sales,Not opted-in,107,103,22253522.59,98,5,0.052816272565666095,0.9514563106796117
+Wholesale,Cairo,Business,Business,Wholesale Sales,Opted-in,188,184,38037887.02,177,7,0.09027871432692278,0.9619565217391305
+Wholesale,Dakahlia,Business,Business,Wholesale Sales,Not opted-in,27,26,5331930.18,24,2,0.012654746076674104,0.9230769230769231
+Wholesale,Dakahlia,Business,Business,Wholesale Sales,Opted-in,69,69,17521231.27,65,4,0.041584702947579134,0.9420289855072463
+Wholesale,Damietta,Business,Business,Wholesale Sales,Not opted-in,12,11,2369609.31,10,1,0.005624005398917833,0.9090909090909091
+Wholesale,Damietta,Business,Business,Wholesale Sales,Opted-in,22,21,3737516.16,21,0,0.008870580890139501,1.0
+Wholesale,Gharbia,Business,Business,Wholesale Sales,Not opted-in,31,29,4740682.5,29,0,0.011251485154974889,1.0
+Wholesale,Gharbia,Business,Business,Wholesale Sales,Opted-in,63,59,13561360.19,56,3,0.032186387267878085,0.9491525423728814
+Wholesale,Giza,Business,Business,Wholesale Sales,Not opted-in,73,69,13937826.06,68,1,0.033079887338313026,0.9855072463768116
+Wholesale,Giza,Business,Business,Wholesale Sales,Opted-in,121,116,26689580.02,113,3,0.0633447638367565,0.9741379310344828
+Wholesale,Kafr El Sheikh,Business,Business,Wholesale Sales,Not opted-in,22,22,3702543.48,21,1,0.008787577105378617,0.9545454545454546
+Wholesale,Kafr El Sheikh,Business,Business,Wholesale Sales,Opted-in,42,39,9132596.59,36,3,0.0216752070949192,0.9230769230769231
+Wholesale,Monufia,Business,Business,Wholesale Sales,Not opted-in,15,15,3934018.86,15,0,0.009336958297182153,1.0
+Wholesale,Monufia,Business,Business,Wholesale Sales,Opted-in,28,27,4207280.640000001,26,1,0.009985514883937757,0.9629629629629629
+Wholesale,Other,Business,Business,Wholesale Sales,Not opted-in,29,28,4465372.18,28,0,0.010598066585287636,1.0
+Wholesale,Other,Business,Business,Wholesale Sales,Opted-in,60,59,11582995.0,57,2,0.027490956479926332,0.9661016949152542
+Wholesale,Port Said,Business,Business,Wholesale Sales,Not opted-in,12,12,1893562.5,12,0,0.004494160990272421,1.0
+Wholesale,Port Said,Business,Business,Wholesale Sales,Opted-in,23,21,5234314.09,18,3,0.012423065092444157,0.8571428571428571
+Wholesale,Sharqia,Business,Business,Wholesale Sales,Not opted-in,28,27,7893771.23,25,2,0.018734992231838533,0.9259259259259259
+Wholesale,Sharqia,Business,Business,Wholesale Sales,Opted-in,39,38,9103686.61,36,2,0.0216065924575119,0.9473684210526315
+Wholesale,Suez,Business,Business,Wholesale Sales,Not opted-in,9,9,2206550.8,9,0,0.0052370040748136925,1.0
+Wholesale,Suez,Business,Business,Wholesale Sales,Opted-in,15,15,2271874.8,14,1,0.005392043357926109,0.9333333333333333

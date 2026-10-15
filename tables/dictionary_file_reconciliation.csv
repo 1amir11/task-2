@@ -1,0 +1,4 @@
+﻿check,file,dictionary_rows,matched_dictionary_files
+dictionary_entry_without_file,Sources.csv,19,18
+file_without_dictionary_entry,Case_Briefs.csv,19,18
+file_without_dictionary_entry,Data_Dictionary.csv,19,18
