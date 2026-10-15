@@ -14,6 +14,9 @@ Except Product_Master.csv, Business_Units.csv and Locations.csv, the dataset is 
 - `tables/` — 49 detail tables for charting.
 - `numbers_book/` — 27 per-entity 360 tables + `NUMBERS_BOOK.md`.
 - `alerts/` — 5 alert files + `summary.json`.
+- `dashboard-dist/` — built interactive dashboard (static site). Serve the folder over HTTP
+  (e.g. `python -m http.server` inside it) and open `index.html`; it loads `data/dashboard-data.json`
+  (57 metrics + tables + alerts + embedded reports, regenerated at delivery).
 
 ## Definitions and threshold log (confirm these)
 
